@@ -1,0 +1,3588 @@
+[
+  {
+    "cardNumber": "UA54BT/MST-1-001",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-001",
+    "uniqueId": "570154:UA54BT/MST-1-001",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-001",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-001.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-002",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-002",
+    "uniqueId": "570154:UA54BT/MST-1-002",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-002",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-002_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-003",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場に〈ルーデウス〉と〈ルイジェルド〉がある場合、このキャラはBP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-003",
+    "uniqueId": "570154:UA54BT/MST-1-003",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-003",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-003.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-004",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】このキャラが自分の効果で登場していた場合、このキャラをアクティブにする。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-004",
+    "uniqueId": "570154:UA54BT/MST-1-004",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-004",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-004.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-005",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【自分のターン中】このターン中に自分の効果でキャラカードを〔登場させるかレイドさせている〕場合、このキャラはBP+500。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-005",
+    "uniqueId": "570154:UA54BT/MST-1-005",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-005",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-005.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-006",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】APを1支払ってもよい。そうした場合、カードを1枚引き、自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-006",
+    "uniqueId": "570154:UA54BT/MST-1-006",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-006",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-006.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-007",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・このキャラが自分の効果で登場していた場合、自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。〈エリス〉のこの効果は1ターンに1回のみ選べる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-007",
+    "uniqueId": "570154:UA54BT/MST-1-007",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-007",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-007_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-008",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈エリス〉アクティブにし、フロントLに移動できるこのキャラのアタックがブロックされなかった時、カードを1枚まで引く。【ターン1】このキャラがアタックしてバトルに敗北した時、このキャラをアクティブにし、このキャラはこのターン中、BP+2000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-008",
+    "uniqueId": "570154:UA54BT/MST-1-008",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-008",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-008_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-009",
+    "cardName": "エリス",
+    "furigana": "えりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈エリス〉アクティブにし、フロントLに移動できる【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）【自分のターン中】このキャラはBP+500。【登場時】このキャラが自分の効果で登場していた場合、以下から1つ選ぶ。・このキャラは次の自分のターン開始時まで、BP+1000。・このキャラはこのターン中、「このキャラのアタック終了時、自分のエナジーLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。」を得る。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-009",
+    "uniqueId": "570154:UA54BT/MST-1-009",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-009",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-009_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-010",
+    "cardName": "キシリカ・キシリス",
+    "furigana": "きしりか きしりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-010",
+    "uniqueId": "570154:UA54BT/MST-1-010",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-010",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-010.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-011",
+    "cardName": "ギレーヌ",
+    "furigana": "ぎれーぬ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【ターン1】自分の場の〈エリス〉を1枚選び、このターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-011",
+    "uniqueId": "570154:UA54BT/MST-1-011",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-011",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-011.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-012",
+    "cardName": "シルフィエット",
+    "furigana": "しるふぃえっと",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【アタック時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-012",
+    "uniqueId": "570154:UA54BT/MST-1-012",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-012",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-012.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-013",
+    "cardName": "シルフィエット",
+    "furigana": "しるふぃえっと",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-013",
+    "uniqueId": "570154:UA54BT/MST-1-013",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-013",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-013.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-014",
+    "cardName": "シルフィエット",
+    "furigana": "しるふぃえっと",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。【自分のターン中】このターン中に自分がイベントカードを使用していて、同じラインに〈ルーデウス〉がある場合、このキャラはBP+1500。【登場時】自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-014",
+    "uniqueId": "570154:UA54BT/MST-1-014",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-014",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-014_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-015",
+    "cardName": "聖獣",
+    "furigana": "せいじゅう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-015",
+    "uniqueId": "570154:UA54BT/MST-1-015",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-015",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-015.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-016",
+    "cardName": "ゼニス",
+    "furigana": "ぜにす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【青】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-016",
+    "uniqueId": "570154:UA54BT/MST-1-016",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-016",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-016.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-017",
+    "cardName": "ノルン＆アイシャ",
+    "furigana": "のるんあんどあいしゃ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-017",
+    "uniqueId": "570154:UA54BT/MST-1-017",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-017",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-017.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-018",
+    "cardName": "パウロ",
+    "furigana": "ぱうろ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【アタック時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-018",
+    "uniqueId": "570154:UA54BT/MST-1-018",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-018",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-018.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-019",
+    "cardName": "リーリャ",
+    "furigana": "りーりゃ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-019",
+    "uniqueId": "570154:UA54BT/MST-1-019",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-019",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-019.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-020",
+    "cardName": "ルイジェルド",
+    "furigana": "るいじぇるど",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-020",
+    "uniqueId": "570154:UA54BT/MST-1-020",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-020",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-020.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-021",
+    "cardName": "ルイジェルド",
+    "furigana": "るいじぇるど",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。【起動メイン】【ターン1】自分の場に〈ルーデウス〉と〈エリス〉がある場合のみ発動できる。このキャラをアクティブにする。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-021",
+    "uniqueId": "570154:UA54BT/MST-1-021",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-021",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-021.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-022",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-022",
+    "uniqueId": "570154:UA54BT/MST-1-022",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-022",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-022.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-023",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】このキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-023",
+    "uniqueId": "570154:UA54BT/MST-1-023",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-023",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-023.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-024",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に〈ロキシー〉がある場合、このキャラはBP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-024",
+    "uniqueId": "570154:UA54BT/MST-1-024",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-024",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-024.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-025",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈ルーデウス〉アクティブにし、フロントLに移動できる【登場時】自分の場のキャラを1枚まで選び、このターン中、BP+1000。【起動メイン】【フロントLにある場合】【ターン1】以下から1つ選ぶ。・このキャラの【登場時】を発動する。・自分の場のレイド状態の〈エリス〉を1枚選び、このターン中、【狙い撃ち】を与え、このキャラの一番上のカードを場外に置く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-025",
+    "uniqueId": "570154:UA54BT/MST-1-025",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-025",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-025.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-026",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードはフロントLに登場できず、自分の効果以外で移動できない。【アタック時】以下から1つ選ぶ。・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。・カードを1枚引く。・このターン中に自分が〈豪雷積層雲〉を使用している場合、このキャラはこのターン中、【インパクト（1）】を得る。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-026",
+    "uniqueId": "570154:UA54BT/MST-1-026",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-026",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-026_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-027",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-027",
+    "uniqueId": "570154:UA54BT/MST-1-027",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-027",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-027.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-028",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、〈ルーデウス〉か〈ロキシー〉か必要エナジーが2以下のイベントカードを1枚まで公開し手札に加える。残りを場外に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-028",
+    "uniqueId": "570154:UA54BT/MST-1-028",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-028",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-028.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-029",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【青】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-029",
+    "uniqueId": "570154:UA54BT/MST-1-029",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-029",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-029.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-030",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】このターン中に自分がイベントカードを使用している場合のみ発動できる。以下から1つ選ぶ。・自分の場のキャラを1枚選び、このターン中、BP+1000。・カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-030",
+    "uniqueId": "570154:UA54BT/MST-1-030",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-030",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-030.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-031",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈ロキシー〉アクティブにし、フロントLに移動できる【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【自分のターン中】このターン中に自分がイベントカードを使用している場合、このキャラは【インパクト（1）】を得る。【登場時】このターン中、次に手札から使用する必要エナジーが3以下のイベントカードの消費APを-1する。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-031",
+    "uniqueId": "570154:UA54BT/MST-1-031",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-031",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-031_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-032",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈ロキシー〉アクティブにし、フロントLに移動できる【登場時】自分の場外から必要エナジーが2以下のカードを1枚まで手札に加える。【起動メイン】【フロントLにある場合】【ターン1】このターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場の必要エナジーが3以下のキャラを1枚選び、アクティブにする。【起動メイン】【フロントLにある場合】【ターン1】自分の場の〈ルーデウス〉を1枚選び、別のラインに移動させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-032",
+    "uniqueId": "570154:UA54BT/MST-1-032",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-032",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-032_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-033",
+    "cardName": "デッドエンド",
+    "furigana": "でっどえんど",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。【起動メイン】【レストにする】【このカードを退場させる】自分の手札から必要エナジーが3以下で消費APが1の青のキャラカードを1枚自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-033",
+    "uniqueId": "570154:UA54BT/MST-1-033",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-033",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-033.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-034",
+    "cardName": "エリスに魔術を教えてくださいニャン☆",
+    "furigana": "えりすにまじゅつをおしえてくださいにゃん",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-034",
+    "uniqueId": "570154:UA54BT/MST-1-034",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-034",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-034_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-035",
+    "cardName": "お前は戦士だ",
+    "furigana": "おまえはせんしだ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "以下から3つまで選ぶ。・自分の場に〈ルーデウス〉がある場合、カードを1枚引く。・自分の場に〈エリス〉がある場合、カードを1枚引く。・自分の場に〈ルイジェルド〉がある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-035",
+    "uniqueId": "570154:UA54BT/MST-1-035",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-035",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-035.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-036",
+    "cardName": "豪雷積層雲",
+    "furigana": "きゅむろにんばす",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈ロキシー〉がある場合のみ使用できる。自分の場外にあるイベントカード2枚につき、全ての場所でこのカードの必要エナジーを【青×1】減らす。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-036",
+    "uniqueId": "570154:UA54BT/MST-1-036",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-036",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-036_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-037",
+    "cardName": "ご神体",
+    "furigana": "ごしんたい",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-037",
+    "uniqueId": "570154:UA54BT/MST-1-037",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-037",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-037.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-038",
+    "cardName": "師匠からのおくりもの",
+    "furigana": "ししょうからのおくりもの",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場のキャラを1枚選び、このターン中、BP+1000。自分の場に〈ロキシー〉がある場合、自分のAPカードを1枚アクティブにする。【起動メイン】【場外にある場合】このターン中に自分の〈ルーデウス〉か〈ロキシー〉がレイドしていた場合のみ発動できる。自分の手札を1枚場外に置く。そうした場合、場外のこのカードを手札に加える。〈師匠からのおくりもの〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-038",
+    "uniqueId": "570154:UA54BT/MST-1-038",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-038",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-038.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-039",
+    "cardName": "ルーデウスはすごいのよ！",
+    "furigana": "るーでうすはすごいのよ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "以下から1つ選ぶ。・自分の場の〈エリス〉を1枚選び、このターン中、BP+500と【狙い撃ち】（相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を与える。・自分の場に〈エリス〉がある場合、自分の場外から消費APが1の青の〈ルーデウス〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-039",
+    "uniqueId": "570154:UA54BT/MST-1-039",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-039",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-039.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-040",
+    "cardName": "私がついていますから",
+    "furigana": "わたしがついていますから",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈ロキシー〉がある場合のみ使用できる。自分の手札から必要エナジーを満たし消費APが1の青の〔〈ルーデウス〉か〈ロキシー〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。カードを1枚引く。自分の場の〈ルーデウス〉を1枚まで選び、別のラインに移動させる。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-040",
+    "uniqueId": "570154:UA54BT/MST-1-040",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-040",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-040.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-041",
+    "cardName": "アイシャ",
+    "furigana": "あいしゃ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-041",
+    "uniqueId": "570154:UA54BT/MST-1-041",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-041",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-041_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-042",
+    "cardName": "エリナリーゼ",
+    "furigana": "えりなりーぜ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】このターン中に自分の場のフィールドが退場している場合のみ発動できる。このキャラをアクティブにする。〈エリナリーゼ〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-042",
+    "uniqueId": "570154:UA54BT/MST-1-042",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-042",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-042.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-043",
+    "cardName": "ギース",
+    "furigana": "ぎーす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から5枚見て、緑のフィールドカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-043",
+    "uniqueId": "570154:UA54BT/MST-1-043",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-043",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-043.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-044",
+    "cardName": "サラ",
+    "furigana": "さら",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-044",
+    "uniqueId": "570154:UA54BT/MST-1-044",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-044",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-044.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-045",
+    "cardName": "ゼニス",
+    "furigana": "ぜにす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【緑】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-045",
+    "uniqueId": "570154:UA54BT/MST-1-045",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-045",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-045.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-046",
+    "cardName": "タルハンド",
+    "furigana": "たるはんど",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑+",
+        "count": 4
+      }
+    ],
+    "effectText": "このターン中に自分の場のフィールドが退場している場合、このキャラの発生エナジー+【緑】。【起動メイン】【フロントLにある場合】【ターン1】自分の場のフィールドを1枚退場させる。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-046",
+    "uniqueId": "570154:UA54BT/MST-1-046",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-046",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-046.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-047",
+    "cardName": "パウロ",
+    "furigana": "ぱうろ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-047",
+    "uniqueId": "570154:UA54BT/MST-1-047",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-047",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-047.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-048",
+    "cardName": "パウロ",
+    "furigana": "ぱうろ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場のフィールドを1枚退場させてもよい。そうした場合、このキャラをアクティブにする。【アタック時】自分の場外にフィールドカードが6枚以上ある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。〈パウロ〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-048",
+    "uniqueId": "570154:UA54BT/MST-1-048",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-048",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-048.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-049",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場のフィールドを1枚退場させてもよい。そうした場合、このキャラをアクティブにし、自分の山札の上から4枚見て、特徴を持たない〔キャラカードかフィールドカード〕を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-049",
+    "uniqueId": "570154:UA54BT/MST-1-049",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-049",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-049_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-050",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-050",
+    "uniqueId": "570154:UA54BT/MST-1-050",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-050",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-050.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-051",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-051",
+    "uniqueId": "570154:UA54BT/MST-1-051",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-051",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-051.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-052",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】自分の場にフィールドがある場合、カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-052",
+    "uniqueId": "570154:UA54BT/MST-1-052",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-052",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-052_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-053",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【相手のターン中】自分の緑の【カラートリガー】の効果に記載されている「キャラカード」を「フィールドカード」に代えてもよい。【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【起動メイン】【フロントLにある場合】【ターン1】自分の場のフィールドを1枚退場させてもよい。そうした場合、カードを1枚引く。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-053",
+    "uniqueId": "570154:UA54BT/MST-1-053",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-053",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-053_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-054",
+    "cardName": "ロキシー",
+    "furigana": "ろきしー",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈ロキシー〉アクティブにし、フロントLに移動できる【登場時】自分の場外にフィールドカードがある場合、相手のフロントLのキャラを1枚まで選び、レストにする。それは次の相手のアタックフェイズ終了時まで、元々の効果を全て失い、アクティブにならない。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-054",
+    "uniqueId": "570154:UA54BT/MST-1-054",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-054",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-054_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p1.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-054_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p2.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-055",
+    "cardName": "アリエル",
+    "furigana": "ありえる",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-055",
+    "uniqueId": "570154:UA54BT/MST-1-055",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-055",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-055.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-056",
+    "cardName": "エリナリーゼ",
+    "furigana": "えりなりーぜ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+【緑】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-056",
+    "uniqueId": "570154:UA54BT/MST-1-056",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-056",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-056.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-057",
+    "cardName": "クリフ",
+    "furigana": "くりふ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 3500,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはフロントLでもエナジーを発生させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-057",
+    "uniqueId": "570154:UA54BT/MST-1-057",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-057",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-057.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-058",
+    "cardName": "ザノバ＆ジュリエット",
+    "furigana": "ざのばあんどじゅりえっと",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【ターン1】自分の発生エナジーが7以上あり、自分の場のキャラが全て［特徴：ラノア魔法大学］の場合のみ発動できる。このキャラは次の自分のターン開始時まで、BP+500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-058",
+    "uniqueId": "570154:UA54BT/MST-1-058",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-058",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-058.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-059",
+    "cardName": "シルフィエット",
+    "furigana": "しるふぃえっと",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-059",
+    "uniqueId": "570154:UA54BT/MST-1-059",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-059",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-059_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-060",
+    "cardName": "シルフィエット",
+    "furigana": "しるふぃえっと",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【起動メイン】【フロントLにある場合】【ターン1】カードを1枚引き、自分の手札を1枚場外に置く。自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-060",
+    "uniqueId": "570154:UA54BT/MST-1-060",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-060",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-060_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p1.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-060_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p2.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-061",
+    "cardName": "ナナホシ",
+    "furigana": "ななほし",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-061",
+    "uniqueId": "570154:UA54BT/MST-1-061",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-061",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-061_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-062",
+    "cardName": "ナナホシ",
+    "furigana": "ななほし",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・〈ナナホシ〉以外の自分の場のキャラを1枚手札に戻してもよい。そうした場合、このターン中、次に手札から使用する元々の発生エナジーが2以上のキャラカードの消費APを-1する。・カードを1枚引く。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-062",
+    "uniqueId": "570154:UA54BT/MST-1-062",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-062",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-062_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-063",
+    "cardName": "ノルン",
+    "furigana": "のるん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の発生エナジーが7以上ある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-063",
+    "uniqueId": "570154:UA54BT/MST-1-063",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-063",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-063.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-064",
+    "cardName": "バーディガーディ",
+    "furigana": "ばーでぃがーでぃ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 2,
+    "bp": 4000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このキャラはアクティブで登場させる。【退場時】このカードを手札に加えてもよい。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-064",
+    "uniqueId": "570154:UA54BT/MST-1-064",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-064",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-064.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-065",
+    "cardName": "フィッツ",
+    "furigana": "ふぃっつ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈シルフィエット〉としても扱う。【登場時】自分の山札の上から2枚見て、［特徴：ラノア魔法大学］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-065",
+    "uniqueId": "570154:UA54BT/MST-1-065",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-065",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-065.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-066",
+    "cardName": "フィッツ",
+    "furigana": "ふぃっつ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードは〈シルフィエット〉としても扱う。【自分のターン中】自分の発生エナジーが7以上ある場合、このキャラはBP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-066",
+    "uniqueId": "570154:UA54BT/MST-1-066",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-066",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-066.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-067",
+    "cardName": "フィッツ",
+    "furigana": "ふぃっつ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈シルフィエット〉としても扱う。【レイド】〈シルフィエット〉アクティブにし、フロントLに移動できる【登場時】自分の場の元々の発生エナジーが1以上の［特徴：ラノア魔法大学］を1枚まで選び、次の自分のターン開始時まで、「このキャラは相手の効果で選ばれない。」を与える。【退場時】このキャラのレイド元のカードを1枚まで自分の場にレストで登場させるか手札に加える。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-067",
+    "uniqueId": "570154:UA54BT/MST-1-067",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-067",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-067.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-068",
+    "cardName": "フィッツ",
+    "furigana": "ふぃっつ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードは〈シルフィエット〉としても扱う。【レイド】〈シルフィエット〉アクティブにし、フロントLに移動できる自分の発生エナジーが7以上ある場合、このキャラは【インパクト（1）】を得る。【登場時】以下から1つ選ぶ。・自分の山札の上から5枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。・相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-068",
+    "uniqueId": "570154:UA54BT/MST-1-068",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-068",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-068_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-069",
+    "cardName": "プルセナ",
+    "furigana": "ぷるせな",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-069",
+    "uniqueId": "570154:UA54BT/MST-1-069",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-069",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-069_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-070",
+    "cardName": "リニアーナ",
+    "furigana": "りにあーな",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-070",
+    "uniqueId": "570154:UA54BT/MST-1-070",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-070",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-070_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-071",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-071",
+    "uniqueId": "570154:UA54BT/MST-1-071",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-071",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-071.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-072",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【緑】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-072",
+    "uniqueId": "570154:UA54BT/MST-1-072",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-072",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-072.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-073",
+    "cardName": "ルーデウス",
+    "furigana": "るーでうす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "ラノア魔法大学"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑緑",
+        "count": 5
+      }
+    ],
+    "effectText": "このカードはエナジーLに〔登場・移動〕できず、自分の効果以外でアクティブにならない。【起動メイン】自分の発生エナジーが7以上ある場合のみ発動できる。このキャラをアクティブにする。カードを1枚引く。自分の場のキャラを1枚まで選び、このターン中、BP+2000。このキャラはこのターン中、「自分のアタックフェイズ終了時、このキャラをアクティブにする。」を得る。〈ルーデウス〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-073",
+    "uniqueId": "570154:UA54BT/MST-1-073",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-073",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-073_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-074",
+    "cardName": "転移の迷宮",
+    "furigana": "てんいのめいきゅう",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。【退場時】以下から1つ選ぶ。・自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが1以下の緑の〈ロキシー〉を1枚まで自分の場にレストで登場させる。・自分の場外から〈迷宮の守護者 マナタイトヒュドラ〉を1枚まで手札に加える。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-074",
+    "uniqueId": "570154:UA54BT/MST-1-074",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-074",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-074.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-075",
+    "cardName": "迷宮都市ラパン",
+    "furigana": "めいきゅうとしらぱん",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【退場時】カードを1枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-075",
+    "uniqueId": "570154:UA54BT/MST-1-075",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-075",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-075.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-076",
+    "cardName": "迷宮の守護者 マナタイトヒュドラ",
+    "furigana": "めいきゅうのがーでぃあんまなたいとひゅどら",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【退場時】自分の場外から必要エナジーが『1』以下で消費APが1の特徴を持たない緑のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。自分の場外にある他のフィールドカード1枚につき、この効果で登場させるキャラの必要エナジーの範囲+1。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-076",
+    "uniqueId": "570154:UA54BT/MST-1-076",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-076",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-076.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-077",
+    "cardName": "今までありがとう",
+    "furigana": "いままでありがとう",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-077",
+    "uniqueId": "570154:UA54BT/MST-1-077",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-077",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-077_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-078",
+    "cardName": "守護術師フィッツ",
+    "furigana": "しゅごじゅつしふぃっつ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈シルフィエット〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-078",
+    "uniqueId": "570154:UA54BT/MST-1-078",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-078",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-078.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-079",
+    "cardName": "ゼニス救出作戦",
+    "furigana": "ぜにすきゅうしゅつさくせん",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-079",
+    "uniqueId": "570154:UA54BT/MST-1-079",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-079",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-079.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-080",
+    "cardName": "そう、ボクはシルフィエット",
+    "furigana": "そう ぼくはしるふぃえっと",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを2枚引く。自分のフロントLの［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-080",
+    "uniqueId": "570154:UA54BT/MST-1-080",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-080",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-080.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP01",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP01",
+    "uniqueId": "570154:UA54BT/MST-1-AP01",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP02",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP02",
+    "uniqueId": "570154:UA54BT/MST-1-AP02",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02.png?v8"
+      },
+      {
+        "id": "UA54BT/MST-1-AP02_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02_p1.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP03",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP03",
+    "uniqueId": "570154:UA54BT/MST-1-AP03",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP03.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP04",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP04",
+    "uniqueId": "570154:UA54BT/MST-1-AP04",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP04.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP05",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP05",
+    "uniqueId": "570154:UA54BT/MST-1-AP05",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP05.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP06",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP06",
+    "uniqueId": "570154:UA54BT/MST-1-AP06",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP06",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP06.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP07",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP07",
+    "uniqueId": "570154:UA54BT/MST-1-AP07",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP07",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP07.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP08",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP08",
+    "uniqueId": "570154:UA54BT/MST-1-AP08",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP08",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP08.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP09",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP09",
+    "uniqueId": "570154:UA54BT/MST-1-AP09",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP09",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP09.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP10",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP10",
+    "uniqueId": "570154:UA54BT/MST-1-AP10",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP10",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP10.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP11",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP11",
+    "uniqueId": "570154:UA54BT/MST-1-AP11",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP11",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP11.png?v8"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA54BT/MST-1-AP12",
+    "cardName": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "product": "無職転生 ～異世界行ったら本気だす～【UA54BT】",
+    "productCode": "UA54BT",
+    "seriesCode": "570154",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT/MST-1-AP12",
+    "uniqueId": "570154:UA54BT/MST-1-AP12",
+    "variants": [
+      {
+        "id": "UA54BT/MST-1-AP12",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP12.png?v8"
+      }
+    ]
+  }
+]

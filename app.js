@@ -1,0 +1,372 @@
+(() => {
+  'use strict';
+
+  const DATA_URL = './cards.json';
+  const IMAGE_CACHE = 'union-arena-card-images-v1';
+  const state = {
+    cards: [],
+    filtered: [],
+    filters: {},
+    activeCard: null,
+  };
+
+  const $ = (selector) => document.querySelector(selector);
+  const elements = {
+    search: $('#search-input'),
+    count: $('#result-count'),
+    grid: $('#card-grid'),
+    loading: $('#loading'),
+    empty: $('#empty-message'),
+    columns: $('#column-select'),
+    filterButton: $('#filter-button'),
+    filterBadge: $('#filter-badge'),
+    filterDialog: $('#filter-dialog'),
+    filterFields: $('#filter-fields'),
+    resetFilters: $('#reset-filters'),
+    applyFilters: $('#apply-filters'),
+    cardDialog: $('#card-dialog'),
+    detailClose: $('#detail-close'),
+    detailImage: $('#detail-image'),
+    detailNumber: $('#detail-number'),
+    detailName: $('#detail-name'),
+    detailReading: $('#detail-reading'),
+    detailTags: $('#detail-tags'),
+    detailStats: $('#detail-stats'),
+    detailEffect: $('#detail-effect'),
+    detailTrigger: $('#detail-trigger'),
+    detailProduct: $('#detail-product'),
+    detailSource: $('#detail-source'),
+    variantButtons: $('#variant-buttons'),
+    settingsButton: $('#settings-button'),
+    settingsDialog: $('#settings-dialog'),
+    settingsClose: $('#settings-close'),
+    cacheImages: $('#cache-images'),
+    cacheStatus: $('#cache-status'),
+    dataStatus: $('#data-status'),
+    reloadData: $('#reload-data'),
+  };
+
+  const filterDefinitions = [
+    ['title', 'タイトル'],
+    ['productCode', '商品コード'],
+    ['color', '色'],
+    ['cardType', 'カード種類'],
+    ['rarity', 'レアリティ'],
+    ['needEnergy', '必要エナジー'],
+    ['ap', '消費AP'],
+    ['bp', 'BP'],
+    ['triggerType', 'トリガー'],
+  ];
+
+  function normalize(value) {
+    return String(value ?? '')
+      .normalize('NFKC')
+      .replace(/[\u3041-\u3096]/g, (char) => String.fromCharCode(char.charCodeAt(0) + 0x60))
+      .toUpperCase();
+  }
+
+  function getVariants(card) {
+    if (Array.isArray(card.variants) && card.variants.length) return card.variants;
+    const image = card.imagePath || card.imageUrl;
+    return image ? [{ id: card.uniqueId, label: card.rarity || '通常', imagePath: card.imagePath, imageUrl: card.imageUrl }] : [];
+  }
+
+  function getImageUrl(variant) {
+    return variant?.imagePath || variant?.imageUrl || '';
+  }
+
+  function baseRarity(rarity) {
+    return String(rarity || '').replace(/[★☆]+/g, '');
+  }
+
+  function getFilterValue(card, key) {
+    if (key === 'color') return Array.isArray(card.color) ? card.color : [card.color].filter(Boolean);
+    if (key === 'rarity') {
+      const values = new Set([baseRarity(card.rarity)]);
+      getVariants(card).forEach((variant) => values.add(baseRarity(variant.rarity)));
+      return [...values].filter(Boolean);
+    }
+    return card[key];
+  }
+
+  function compareValues(a, b) {
+    const numberA = Number(a);
+    const numberB = Number(b);
+    if (Number.isFinite(numberA) && Number.isFinite(numberB)) return numberA - numberB;
+    return String(a).localeCompare(String(b), 'ja', { numeric: true });
+  }
+
+  function createOption(value) {
+    const option = document.createElement('option');
+    option.value = String(value);
+    option.textContent = String(value);
+    return option;
+  }
+
+  function populateFilters() {
+    elements.filterFields.replaceChildren();
+    for (const [key, labelText] of filterDefinitions) {
+      const values = new Set();
+      state.cards.forEach((card) => {
+        const value = getFilterValue(card, key);
+        (Array.isArray(value) ? value : [value]).forEach((entry) => {
+          if (entry !== undefined && entry !== null && entry !== '' && entry !== '-') values.add(String(entry));
+        });
+      });
+
+      const label = document.createElement('label');
+      label.className = 'filter-field';
+      label.textContent = labelText;
+      const select = document.createElement('select');
+      select.dataset.filter = key;
+      const all = document.createElement('option');
+      all.value = '';
+      all.textContent = 'すべて';
+      select.append(all, ...[...values].sort(compareValues).map(createOption));
+      select.value = state.filters[key] || '';
+      label.append(select);
+      elements.filterFields.append(label);
+    }
+  }
+
+  function readFilters() {
+    const filters = {};
+    elements.filterFields.querySelectorAll('select[data-filter]').forEach((select) => {
+      if (select.value) filters[select.dataset.filter] = select.value;
+    });
+    state.filters = filters;
+    updateFilterBadge();
+  }
+
+  function updateFilterBadge() {
+    const count = Object.keys(state.filters).length;
+    elements.filterBadge.hidden = count === 0;
+    elements.filterBadge.textContent = String(count);
+  }
+
+  function matchesFilter(card, key, expected) {
+    const value = getFilterValue(card, key);
+    if (Array.isArray(value)) return value.map(String).includes(expected);
+    return String(value ?? '') === expected;
+  }
+
+  function filterCards() {
+    const words = normalize(elements.search.value).split(/\s+/).filter(Boolean);
+    state.filtered = state.cards.filter((card) => {
+      const searchable = normalize([
+        card.cardNumber,
+        card.cardName,
+        card.furigana,
+        card.title,
+        card.product,
+        card.productCode,
+        ...(card.features || []),
+        card.effectText,
+        card.trigger,
+      ].join(' '));
+      if (!words.every((word) => searchable.includes(word))) return false;
+      return Object.entries(state.filters).every(([key, expected]) => matchesFilter(card, key, expected));
+    });
+    renderCards();
+  }
+
+  function createCardElement(card) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'card-item';
+    button.title = `${card.cardNumber} ${card.cardName}`;
+    const variants = getVariants(card);
+    const imageUrl = getImageUrl(variants[0]);
+
+    if (imageUrl) {
+      const image = document.createElement('img');
+      image.src = imageUrl;
+      image.alt = `${card.cardNumber} ${card.cardName}`;
+      image.loading = 'lazy';
+      image.decoding = 'async';
+      image.addEventListener('error', () => {
+        const fallback = document.createElement('span');
+        fallback.className = 'image-fallback';
+        fallback.textContent = `${card.cardNumber}\n${card.cardName}`;
+        image.replaceWith(fallback);
+      }, { once: true });
+      button.append(image);
+    } else {
+      const fallback = document.createElement('span');
+      fallback.className = 'image-fallback';
+      fallback.textContent = `${card.cardNumber}\n${card.cardName}`;
+      button.append(fallback);
+    }
+
+    const badges = document.createElement('span');
+    badges.className = 'card-badges';
+    const rarity = document.createElement('span');
+    rarity.className = 'badge';
+    rarity.textContent = card.rarity || card.cardType || '';
+    badges.append(rarity);
+    if (variants.length > 1) {
+      const parallel = document.createElement('span');
+      parallel.className = 'badge parallel';
+      parallel.textContent = `+${variants.length - 1}`;
+      badges.append(parallel);
+    }
+    button.append(badges);
+    button.addEventListener('click', () => openCard(card));
+    return button;
+  }
+
+  function renderCards() {
+    elements.count.textContent = state.filtered.length.toLocaleString('ja-JP');
+    elements.empty.hidden = state.filtered.length !== 0;
+    const fragment = document.createDocumentFragment();
+    state.filtered.forEach((card) => fragment.append(createCardElement(card)));
+    elements.grid.replaceChildren(fragment);
+  }
+
+  function addStat(label, value) {
+    if (value === undefined || value === null || value === '' || value === '-') return;
+    if (Array.isArray(value) && value.length === 0) return;
+    const wrapper = document.createElement('div');
+    const term = document.createElement('dt');
+    const description = document.createElement('dd');
+    term.textContent = label;
+    description.textContent = Array.isArray(value) ? value.join(' / ') : String(value);
+    wrapper.append(term, description);
+    elements.detailStats.append(wrapper);
+  }
+
+  function renderVariant(card, index) {
+    const variants = getVariants(card);
+    const variant = variants[index] || variants[0] || {};
+    elements.detailImage.src = getImageUrl(variant);
+    elements.detailImage.alt = `${card.cardNumber} ${card.cardName}`;
+    elements.detailTags.replaceChildren();
+    [variant.rarity || card.rarity, card.cardType, ...(card.color || []), ...(card.features || [])]
+      .filter((value) => value && value !== '-')
+      .forEach((value) => {
+        const tag = document.createElement('span');
+        tag.textContent = value;
+        elements.detailTags.append(tag);
+      });
+    [...elements.variantButtons.children].forEach((button, buttonIndex) => {
+      button.classList.toggle('active', buttonIndex === index);
+    });
+  }
+
+  function openCard(card) {
+    state.activeCard = card;
+    elements.detailNumber.textContent = card.cardNumber;
+    elements.detailName.textContent = card.cardName || '';
+    elements.detailReading.textContent = card.furigana || '';
+    elements.detailEffect.textContent = card.effectText || '-';
+    elements.detailTrigger.textContent = card.trigger || '-';
+    elements.detailProduct.textContent = card.product || card.productCode || '-';
+    elements.detailSource.href = card.sourceUrl || 'https://www.unionarena-tcg.com/jp/cardlist/';
+    elements.detailStats.replaceChildren();
+    addStat('必要エナジー', card.needEnergy);
+    addStat('消費AP', card.ap);
+    addStat('BP', card.bp);
+    addStat('発生エナジー', (card.generatedEnergy || []).map((entry) => `${entry.color}${entry.count || ''}`));
+    addStat('特徴', card.features);
+    addStat('タイトル', card.title);
+
+    const variants = getVariants(card);
+    elements.variantButtons.replaceChildren();
+    variants.forEach((variant, index) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.textContent = variant.label || variant.rarity || `画像 ${index + 1}`;
+      button.addEventListener('click', () => renderVariant(card, index));
+      elements.variantButtons.append(button);
+    });
+    renderVariant(card, 0);
+    elements.cardDialog.showModal();
+  }
+
+  async function loadCards({ bypassCache = false } = {}) {
+    elements.loading.hidden = false;
+    elements.grid.replaceChildren();
+    elements.empty.hidden = true;
+    try {
+      const response = await fetch(`${DATA_URL}${bypassCache ? `?t=${Date.now()}` : ''}`, { cache: bypassCache ? 'reload' : 'default' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const data = await response.json();
+      if (!Array.isArray(data)) throw new Error('cards.json must be an array');
+      state.cards = data
+        .filter((card) => card && card.cardNumber)
+        .sort((a, b) => String(a.cardNumber).localeCompare(String(b.cardNumber), 'ja', { numeric: true }));
+      populateFilters();
+      filterCards();
+      elements.dataStatus.textContent = `${state.cards.length.toLocaleString('ja-JP')}枚 / ${new Date().toLocaleString('ja-JP')}`;
+    } catch (error) {
+      console.error(error);
+      elements.empty.hidden = false;
+      elements.empty.textContent = `カードデータを読み込めませんでした: ${error.message}`;
+      elements.dataStatus.textContent = `読込エラー: ${error.message}`;
+    } finally {
+      elements.loading.hidden = true;
+    }
+  }
+
+  async function cacheAllImages() {
+    const urls = [...new Set(state.cards.flatMap((card) => getVariants(card).map(getImageUrl)).filter(Boolean))];
+    const cache = await caches.open(IMAGE_CACHE);
+    elements.cacheImages.disabled = true;
+    let completed = 0;
+    let failed = 0;
+    for (const url of urls) {
+      try {
+        const request = new Request(url, { mode: url.startsWith(location.origin) || url.startsWith('./') ? 'same-origin' : 'no-cors' });
+        const response = await fetch(request);
+        await cache.put(request, response);
+      } catch (error) {
+        failed += 1;
+      }
+      completed += 1;
+      elements.cacheStatus.textContent = `${completed}/${urls.length}（失敗 ${failed}）`;
+    }
+    elements.cacheImages.disabled = false;
+    elements.cacheStatus.textContent = `完了: ${completed - failed}枚保存、${failed}枚失敗`;
+  }
+
+  function setupEvents() {
+    let timer;
+    elements.search.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = setTimeout(filterCards, 100);
+    });
+    elements.columns.value = localStorage.getItem('unionArenaColumns') || (innerWidth < 500 ? '3' : '4');
+    document.documentElement.style.setProperty('--grid-columns', elements.columns.value);
+    elements.columns.addEventListener('change', () => {
+      localStorage.setItem('unionArenaColumns', elements.columns.value);
+      document.documentElement.style.setProperty('--grid-columns', elements.columns.value);
+    });
+    elements.filterButton.addEventListener('click', () => elements.filterDialog.showModal());
+    elements.applyFilters.addEventListener('click', () => {
+      readFilters();
+      filterCards();
+    });
+    elements.resetFilters.addEventListener('click', () => {
+      state.filters = {};
+      elements.filterFields.querySelectorAll('select').forEach((select) => { select.value = ''; });
+      updateFilterBadge();
+      filterCards();
+    });
+    elements.detailClose.addEventListener('click', () => elements.cardDialog.close());
+    elements.settingsButton.addEventListener('click', () => elements.settingsDialog.showModal());
+    elements.settingsClose.addEventListener('click', () => elements.settingsDialog.close());
+    elements.cacheImages.addEventListener('click', cacheAllImages);
+    elements.reloadData.addEventListener('click', () => loadCards({ bypassCache: true }));
+    [elements.filterDialog, elements.cardDialog, elements.settingsDialog].forEach((dialog) => {
+      dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) dialog.close();
+      });
+    });
+  }
+
+  setupEvents();
+  loadCards();
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./service-worker.js').catch(console.error);
+  }
+})();
