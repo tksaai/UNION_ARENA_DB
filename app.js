@@ -3,10 +3,19 @@
 
   const DATA_URL = './cards.json';
   const IMAGE_CACHE = 'union-arena-card-images-v1';
+  const MOBILE_WIDTH = 520;
+  const MOBILE_INITIAL_RENDER = 72;
+  const DESKTOP_INITIAL_RENDER = 144;
+  const MOBILE_BATCH_SIZE = 48;
+  const DESKTOP_BATCH_SIZE = 96;
+  const LOAD_AHEAD_PX = 1100;
   const state = {
     cards: [],
     filtered: [],
     filters: {},
+    renderedCount: 0,
+    renderToken: 0,
+    appendFrame: 0,
     activeCard: null,
     activeIndex: -1,
     activeVariantIndex: 0,
@@ -22,6 +31,8 @@
     search: $('#search-input'),
     count: $('#result-count'),
     grid: $('#card-grid'),
+    loadStatus: $('#load-status'),
+    loadSentinel: $('#load-sentinel'),
     loading: $('#loading'),
     empty: $('#empty-message'),
     columnToggle: $('#column-toggle'),
@@ -162,31 +173,104 @@
     return String(value ?? '') === expected;
   }
 
-  function filterCards() {
-    const words = normalize(elements.search.value).split(/\s+/).filter(Boolean);
-    state.filtered = state.cards.filter((card) => {
-      const searchable = normalize([
-        card.cardNumber,
-        card.cardName,
-        card.furigana,
-        card.title,
-        card.product,
-        card.productCode,
-        ...(card.features || []),
-        card.effectText,
-        card.trigger,
-      ].join(' '));
-      if (!words.every((word) => searchable.includes(word))) return false;
-      return Object.entries(state.filters).every(([key, expected]) => matchesFilter(card, key, expected));
-    });
-    renderCards();
+  function getSearchText(card) {
+    return normalize([
+      card.cardNumber,
+      card.cardName,
+      card.furigana,
+      card.title,
+      card.product,
+      card.productCode,
+      ...(card.features || []),
+      card.effectText,
+      card.trigger,
+    ].join(' '));
   }
 
-  function createCardElement(card, index) {
+  function prepareCard(card) {
+    card.searchText = getSearchText(card);
+    return card;
+  }
+
+  function isMobileWidth() {
+    return innerWidth <= MOBILE_WIDTH;
+  }
+
+  function getInitialRenderSize() {
+    return isMobileWidth() ? MOBILE_INITIAL_RENDER : DESKTOP_INITIAL_RENDER;
+  }
+
+  function getBatchSize() {
+    return isMobileWidth() ? MOBILE_BATCH_SIZE : DESKTOP_BATCH_SIZE;
+  }
+
+  function cancelScheduledAppend() {
+    if (!state.appendFrame) return;
+    cancelAnimationFrame(state.appendFrame);
+    state.appendFrame = 0;
+  }
+
+  function isLoadSentinelNearViewport() {
+    if (!elements.loadSentinel || elements.loadSentinel.hidden) return false;
+    return elements.loadSentinel.getBoundingClientRect().top <= innerHeight + LOAD_AHEAD_PX;
+  }
+
+  function updateLoadProgress(token = state.renderToken) {
+    const hasMore = state.renderedCount < state.filtered.length;
+    elements.loadStatus.hidden = !hasMore;
+    elements.loadSentinel.hidden = !hasMore;
+    if (!hasMore) return;
+
+    elements.loadStatus.textContent =
+      `${state.renderedCount.toLocaleString('ja-JP')} / ${state.filtered.length.toLocaleString('ja-JP')}枚表示中`;
+    if (token === state.renderToken && isLoadSentinelNearViewport()) scheduleAppend(token);
+  }
+
+  function appendCards(token = state.renderToken, batchSize = getBatchSize()) {
+    if (token !== state.renderToken || state.renderedCount >= state.filtered.length) return;
+
+    const start = state.renderedCount;
+    const end = Math.min(start + batchSize, state.filtered.length);
+    const fragment = document.createDocumentFragment();
+
+    for (let index = start; index < end; index += 1) {
+      fragment.append(createCardElement(state.filtered[index], index, index < 18));
+    }
+
+    elements.grid.append(fragment);
+    state.renderedCount = end;
+    updateLoadProgress(token);
+  }
+
+  function scheduleAppend(token = state.renderToken) {
+    if (state.appendFrame || token !== state.renderToken || state.renderedCount >= state.filtered.length) return;
+    state.appendFrame = requestAnimationFrame(() => {
+      state.appendFrame = 0;
+      appendCards(token);
+    });
+  }
+
+  function handleLoadMore() {
+    if (state.renderedCount < state.filtered.length && isLoadSentinelNearViewport()) scheduleAppend();
+  }
+
+  function filterCards() {
+    const words = normalize(elements.search.value).split(/\s+/).filter(Boolean);
+    const filterEntries = Object.entries(state.filters);
+    state.filtered = state.cards.filter((card) => {
+      if (words.length && !words.every((word) => card.searchText.includes(word))) return false;
+      return filterEntries.every(([key, expected]) => matchesFilter(card, key, expected));
+    });
+    renderCards({ resetScroll: true });
+  }
+
+  function createCardElement(card, index, priority = false) {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'card-item';
+    button.dataset.index = String(index);
     button.title = `${card.cardNumber} ${card.cardName}`;
+    button.setAttribute('aria-label', `${card.cardNumber} ${card.cardName}`);
     const variants = getVariants(card);
     const imageUrl = getImageUrl(variants[0]);
 
@@ -194,8 +278,11 @@
       const image = document.createElement('img');
       image.src = imageUrl;
       image.alt = `${card.cardNumber} ${card.cardName}`;
-      image.loading = 'lazy';
+      image.width = 500;
+      image.height = 700;
+      image.loading = priority ? 'eager' : 'lazy';
       image.decoding = 'async';
+      if ('fetchPriority' in image) image.fetchPriority = priority ? 'high' : 'low';
       image.addEventListener('error', () => {
         const fallback = document.createElement('span');
         fallback.className = 'image-fallback';
@@ -223,16 +310,26 @@
       badges.append(parallel);
     }
     button.append(badges);
-    button.addEventListener('click', () => openCardAt(index));
     return button;
   }
 
-  function renderCards() {
+  function renderCards({ resetScroll = false } = {}) {
+    cancelScheduledAppend();
+    state.renderToken += 1;
+    state.renderedCount = 0;
+
     elements.count.textContent = state.filtered.length.toLocaleString('ja-JP');
     elements.empty.hidden = state.filtered.length !== 0;
-    const fragment = document.createDocumentFragment();
-    state.filtered.forEach((card, index) => fragment.append(createCardElement(card, index)));
-    elements.grid.replaceChildren(fragment);
+    elements.grid.replaceChildren();
+
+    if (resetScroll) window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    if (state.filtered.length === 0) {
+      elements.loadStatus.hidden = true;
+      elements.loadSentinel.hidden = true;
+      return;
+    }
+
+    appendCards(state.renderToken, getInitialRenderSize());
   }
 
   function addStat(label, value) {
@@ -385,6 +482,7 @@
       if (!Array.isArray(data)) throw new Error('cards.json must be an array');
       state.cards = data
         .filter((card) => card && card.cardNumber)
+        .map(prepareCard)
         .sort((a, b) => String(a.cardNumber).localeCompare(String(b.cardNumber), 'ja', { numeric: true }));
       populateFilters();
       filterCards();
@@ -430,7 +528,15 @@
     elements.columnToggle.addEventListener('click', () => {
       const current = Number(localStorage.getItem('unionArenaColumns')) || 3;
       setGridColumns(current >= 5 ? 1 : current + 1);
+      handleLoadMore();
     });
+    elements.grid.addEventListener('click', (event) => {
+      const item = event.target.closest('.card-item');
+      if (!item || !elements.grid.contains(item)) return;
+      openCardAt(Number(item.dataset.index));
+    });
+    window.addEventListener('scroll', handleLoadMore, { passive: true });
+    window.addEventListener('resize', handleLoadMore, { passive: true });
     elements.filterButton.addEventListener('click', () => elements.filterDialog.showModal());
     elements.applyFilters.addEventListener('click', () => {
       readFilters();
