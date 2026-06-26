@@ -11,9 +11,9 @@ on:
         default: "latest"
         type: string
       download_images:
-        description: "Download card images into this repository"
+        description: "Download card images into CardsWebP"
         required: false
-        default: false
+        default: true
         type: boolean
 
 permissions:
@@ -40,7 +40,8 @@ jobs:
         shell: bash
         run: |
           ARGS=(--series "${{ inputs.series || 'latest' }}")
-          if [[ "${{ inputs.download_images }}" == "true" ]]; then
+          DOWNLOAD_IMAGES="${{ inputs.download_images }}"
+          if [[ "${{ github.event_name }}" == "schedule" || "$DOWNLOAD_IMAGES" == "true" || "$DOWNLOAD_IMAGES" == "" ]]; then
             ARGS+=(--download-images)
           fi
           python scripts/sync_cards.py "${ARGS[@]}"
@@ -55,8 +56,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add cards.json
-          if [[ -d Cards ]]; then
-            git add Cards
+          if [[ -d CardsWebP ]]; then
+            git add CardsWebP
           fi
           git commit -m "Update UNION ARENA card data"
           git push

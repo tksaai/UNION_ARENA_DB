@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+from io import BytesIO
 import json
 import re
 import sys
@@ -17,6 +18,7 @@ from urllib.parse import parse_qs, quote, unquote, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup, Tag
+from PIL import Image, ImageOps
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -33,8 +35,9 @@ DETAIL_URL = f"{BASE_URL}/jp/cardlist/detail_iframe.php?card_no={{card_no}}"
 USER_AGENT = "UnionArenaCardDB/1.0 (+https://github.com/)"
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT = ROOT / "cards.json"
-DEFAULT_IMAGE_DIR = ROOT / "Cards"
+DEFAULT_IMAGE_DIR = ROOT / "CardsWebP"
 THREAD_LOCAL = threading.local()
+DEFAULT_WEBP_QUALITY = 76
 
 
 @dataclass(frozen=True)
@@ -302,23 +305,32 @@ def fetch_detail(listing: ListingCard, series: Series) -> dict[str, Any]:
     return parse_detail(html, listing, series)
 
 
-def safe_filename(variant_id: str, image_url: str) -> str:
-    extension = Path(urlparse(image_url).path).suffix.lower() or ".png"
-    return re.sub(r"[^0-9A-Za-z_.-]+", "_", variant_id) + extension
+def safe_filename(variant_id: str, suffix: str = ".webp") -> str:
+    return re.sub(r"[^0-9A-Za-z_.-]+", "_", variant_id) + suffix
 
 
-def download_image(card: dict[str, Any], image_root: Path) -> str:
+def download_image(card: dict[str, Any], image_root: Path, *, webp_quality: int = DEFAULT_WEBP_QUALITY) -> str:
     product_dir = image_root / (card.get("productCode") or card["seriesCode"])
     product_dir.mkdir(parents=True, exist_ok=True)
-    destination = product_dir / safe_filename(card["variantId"], card["imageUrl"])
+    destination = product_dir / safe_filename(card["variantId"])
     if not destination.exists():
         response = get_session().get(card["imageUrl"], timeout=60)
         response.raise_for_status()
-        destination.write_bytes(response.content)
+        with Image.open(BytesIO(response.content)) as image:
+            image = ImageOps.exif_transpose(image)
+            if image.mode not in {"RGB", "RGBA"}:
+                image = image.convert("RGBA" if "A" in image.getbands() else "RGB")
+            image.save(destination, "WEBP", quality=webp_quality, method=6)
     return destination.relative_to(ROOT).as_posix()
 
 
-def group_variants(details: Iterable[dict[str, Any]], *, download_images: bool, image_root: Path) -> list[dict[str, Any]]:
+def group_variants(
+    details: Iterable[dict[str, Any]],
+    *,
+    download_images: bool,
+    image_root: Path,
+    webp_quality: int,
+) -> list[dict[str, Any]]:
     grouped: dict[tuple[str, str], list[dict[str, Any]]] = {}
     for detail in details:
         grouped.setdefault((detail["seriesCode"], detail["cardNumber"]), []).append(detail)
@@ -329,7 +341,7 @@ def group_variants(details: Iterable[dict[str, Any]], *, download_images: bool, 
         base = variants[0]
         variant_data: list[dict[str, Any]] = []
         for variant in variants:
-            image_path = download_image(variant, image_root) if download_images else ""
+            image_path = download_image(variant, image_root, webp_quality=webp_quality) if download_images else ""
             parallel_index = variant["parallelIndex"]
             if parallel_index:
                 label = f"{variant['rarity'] or 'パラレル'} / P{parallel_index}"
@@ -357,7 +369,15 @@ def group_variants(details: Iterable[dict[str, Any]], *, download_images: bool, 
     return sorted(cards, key=lambda card: (card["cardNumber"], card["seriesCode"]))
 
 
-def fetch_series(series: Series, *, workers: int, limit: int | None, download_images: bool, image_root: Path) -> list[dict[str, Any]]:
+def fetch_series(
+    series: Series,
+    *,
+    workers: int,
+    limit: int | None,
+    download_images: bool,
+    image_root: Path,
+    webp_quality: int,
+) -> list[dict[str, Any]]:
     print(f"[{series.series_code}] {series.product}")
     listing_html = request_text(SEARCH_URL, method="POST", data={"series": series.series_code})
     listing = parse_listing(listing_html)
@@ -383,7 +403,7 @@ def fetch_series(series: Series, *, workers: int, limit: int | None, download_im
             f"Series {series.series_code} was incomplete: "
             f"{len(details)}/{len(listing)} card variants were parsed"
         )
-    return group_variants(details, download_images=download_images, image_root=image_root)
+    return group_variants(details, download_images=download_images, image_root=image_root, webp_quality=webp_quality)
 
 
 def load_existing(path: Path) -> list[dict[str, Any]]:
@@ -396,9 +416,32 @@ def load_existing(path: Path) -> list[dict[str, Any]]:
         return []
 
 
+def preserve_existing_image_paths(existing_card: dict[str, Any] | None, updated_card: dict[str, Any]) -> dict[str, Any]:
+    if not existing_card:
+        return updated_card
+
+    existing_variants = {
+        str(variant.get("id")): variant
+        for variant in existing_card.get("variants", [])
+        if isinstance(variant, dict) and variant.get("id")
+    }
+    for variant in updated_card.get("variants", []):
+        if not isinstance(variant, dict) or variant.get("imagePath"):
+            continue
+        existing_variant = existing_variants.get(str(variant.get("id")))
+        if existing_variant and existing_variant.get("imagePath"):
+            variant["imagePath"] = existing_variant["imagePath"]
+    return updated_card
+
+
 def merge_cards(existing: list[dict[str, Any]], updates: list[dict[str, Any]], selected_codes: set[str], replace_all: bool) -> list[dict[str, Any]]:
     del selected_codes  # Kept in the signature for compatibility with callers and future pruning modes.
-    merged = ([] if replace_all else existing) + updates
+    existing_by_id = {str(card.get("uniqueId")): card for card in existing if card.get("uniqueId")}
+    prepared_updates = [
+        preserve_existing_image_paths(existing_by_id.get(str(card.get("uniqueId"))), card)
+        for card in updates
+    ]
+    merged = ([] if replace_all else existing) + prepared_updates
     return sorted(
         {str(card.get("uniqueId")): card for card in merged if card.get("uniqueId")}.values(),
         key=lambda card: (str(card.get("cardNumber", "")), str(card.get("seriesCode", ""))),
@@ -411,6 +454,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--image-dir", type=Path, default=DEFAULT_IMAGE_DIR)
     parser.add_argument("--download-images", action="store_true")
+    parser.add_argument("--webp-quality", type=int, default=DEFAULT_WEBP_QUALITY)
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--limit", type=int, help="Limit variants per series for parser testing")
     parser.add_argument("--dry-run", action="store_true")
@@ -434,6 +478,7 @@ def main() -> int:
                 limit=args.limit,
                 download_images=args.download_images and not args.dry_run,
                 image_root=args.image_dir,
+                webp_quality=args.webp_quality,
             )
         )
 

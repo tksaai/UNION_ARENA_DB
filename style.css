@@ -135,19 +135,23 @@ select { min-height: 35px; padding: 4px 28px 4px 10px; border: 1px solid var(--l
 .card-grid {
   display: grid;
   grid-template-columns: repeat(var(--grid-columns), minmax(0, 1fr));
-  gap: 10px;
+  gap: 0;
   align-items: start;
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
 }
 
 .card-item {
   position: relative;
   overflow: hidden;
   padding: 0;
-  border: 1px solid rgba(255, 255, 255, .1);
-  border-radius: 9px;
+  border: 0;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
   color: var(--text);
   background: var(--surface);
-  box-shadow: 0 7px 20px rgba(0, 0, 0, .25);
+  box-shadow: none;
   aspect-ratio: 5 / 7;
   contain: layout paint;
   content-visibility: auto;
@@ -247,11 +251,10 @@ dialog::backdrop { background: rgba(0, 0, 0, .76); backdrop-filter: blur(5px); }
 
 @media (min-width: 900px) {
   main { padding-inline: 24px; }
-  .card-grid { gap: 14px; }
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .card-item:hover { z-index: 1; border-color: var(--accent-2); transform: translateY(-3px); }
+  .card-item:hover { z-index: 1; border-color: var(--accent-2); }
   .detail-nav:hover:not(:disabled) { border-color: var(--accent-2); background: rgba(227, 30, 47, .82); }
 }
 
@@ -265,8 +268,8 @@ dialog::backdrop { background: rgba(0, 0, 0, .76); backdrop-filter: blur(5px); }
     -webkit-backdrop-filter: none;
     backdrop-filter: none;
   }
-  .card-item { box-shadow: none; transition: border-color .1s ease; }
-  .card-item:active { border-color: var(--accent-2); transform: scale(.985); }
+  .card-item { transition: border-color .1s ease; }
+  .card-item:active { border-color: var(--accent-2); }
   .filter-fields { grid-template-columns: 1fr; }
   .detail-card { display: block; }
   .detail-nav {
@@ -286,5 +289,4 @@ dialog::backdrop { background: rgba(0, 0, 0, .76); backdrop-filter: blur(5px); }
   .brand h1 { font-size: .88rem; }
   .brand p { font-size: .55rem; }
   main { padding-inline: 9px; }
-  .card-grid { gap: 7px; }
 }
