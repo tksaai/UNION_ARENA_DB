@@ -39,15 +39,11 @@
       </label>
       <div class="result-row">
         <p><strong id="result-count">0</strong> cards</p>
-        <label>
-          表示
-          <select id="column-select" aria-label="列数">
-            <option value="2">2列</option>
-            <option value="3" selected>3列</option>
-            <option value="4">4列</option>
-            <option value="5">5列</option>
-          </select>
-        </label>
+        <button id="column-toggle" class="column-toggle" type="button" aria-label="表示列数を切り替え">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4V4Zm2 2v12h12V6H6Z"/></svg>
+          <span id="column-count">3</span>
+          <small>列</small>
+        </button>
       </div>
     </section>
 
@@ -79,9 +75,16 @@
   <dialog id="card-dialog" class="card-dialog">
     <article class="detail-card">
       <button id="detail-close" class="detail-close" type="button" aria-label="閉じる">×</button>
-      <div class="detail-visual">
+      <button id="detail-previous" class="detail-nav detail-previous" type="button" aria-label="前のカード">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15.4 5.4-1.4-1.4-8 8 8 8 1.4-1.4L8.8 12l6.6-6.6Z"/></svg>
+      </button>
+      <button id="detail-next" class="detail-nav detail-next" type="button" aria-label="次のカード">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8.6 18.6 1.4 1.4 8-8-8-8-1.4 1.4 6.6 6.6-6.6 6.6Z"/></svg>
+      </button>
+      <div id="detail-swipe-area" class="detail-visual">
         <img id="detail-image" alt="">
         <div id="variant-buttons" class="variant-buttons"></div>
+        <p id="detail-position" class="detail-position"></p>
       </div>
       <div class="detail-content">
         <p id="detail-number" class="detail-number"></p>

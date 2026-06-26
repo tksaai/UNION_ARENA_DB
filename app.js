@@ -8,6 +8,13 @@
     filtered: [],
     filters: {},
     activeCard: null,
+    activeIndex: -1,
+    activeVariantIndex: 0,
+    touchStartX: 0,
+    touchStartY: 0,
+    touchEndX: 0,
+    touchEndY: 0,
+    pointerId: null,
   };
 
   const $ = (selector) => document.querySelector(selector);
@@ -17,7 +24,8 @@
     grid: $('#card-grid'),
     loading: $('#loading'),
     empty: $('#empty-message'),
-    columns: $('#column-select'),
+    columnToggle: $('#column-toggle'),
+    columnCount: $('#column-count'),
     filterButton: $('#filter-button'),
     filterBadge: $('#filter-badge'),
     filterDialog: $('#filter-dialog'),
@@ -26,7 +34,11 @@
     applyFilters: $('#apply-filters'),
     cardDialog: $('#card-dialog'),
     detailClose: $('#detail-close'),
+    detailPrevious: $('#detail-previous'),
+    detailNext: $('#detail-next'),
+    detailSwipeArea: $('#detail-swipe-area'),
     detailImage: $('#detail-image'),
+    detailPosition: $('#detail-position'),
     detailNumber: $('#detail-number'),
     detailName: $('#detail-name'),
     detailReading: $('#detail-reading'),
@@ -170,7 +182,7 @@
     renderCards();
   }
 
-  function createCardElement(card) {
+  function createCardElement(card, index) {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'card-item';
@@ -211,7 +223,7 @@
       badges.append(parallel);
     }
     button.append(badges);
-    button.addEventListener('click', () => openCard(card));
+    button.addEventListener('click', () => openCardAt(index));
     return button;
   }
 
@@ -219,7 +231,7 @@
     elements.count.textContent = state.filtered.length.toLocaleString('ja-JP');
     elements.empty.hidden = state.filtered.length !== 0;
     const fragment = document.createDocumentFragment();
-    state.filtered.forEach((card) => fragment.append(createCardElement(card)));
+    state.filtered.forEach((card, index) => fragment.append(createCardElement(card, index)));
     elements.grid.replaceChildren(fragment);
   }
 
@@ -238,6 +250,7 @@
   function renderVariant(card, index) {
     const variants = getVariants(card);
     const variant = variants[index] || variants[0] || {};
+    state.activeVariantIndex = Math.max(0, variants.indexOf(variant));
     elements.detailImage.src = getImageUrl(variant);
     elements.detailImage.alt = `${card.cardNumber} ${card.cardName}`;
     elements.detailTags.replaceChildren();
@@ -253,7 +266,7 @@
     });
   }
 
-  function openCard(card) {
+  function renderCardDetail(card) {
     state.activeCard = card;
     elements.detailNumber.textContent = card.cardNumber;
     elements.detailName.textContent = card.cardName || '';
@@ -280,7 +293,85 @@
       elements.variantButtons.append(button);
     });
     renderVariant(card, 0);
-    elements.cardDialog.showModal();
+    elements.detailPosition.textContent = `${state.activeIndex + 1} / ${state.filtered.length}`;
+    elements.detailPrevious.disabled = state.activeIndex <= 0;
+    elements.detailNext.disabled = state.activeIndex >= state.filtered.length - 1;
+    elements.detailSwipeArea.scrollTop = 0;
+    const detailContent = elements.cardDialog.querySelector('.detail-content');
+    if (detailContent) detailContent.scrollTop = 0;
+    preloadAdjacentCards();
+  }
+
+  function openCardAt(index) {
+    if (index < 0 || index >= state.filtered.length) return;
+    state.activeIndex = index;
+    renderCardDetail(state.filtered[index]);
+    if (!elements.cardDialog.open) elements.cardDialog.showModal();
+  }
+
+  function moveCard(offset) {
+    if (!elements.cardDialog.open) return;
+    const nextIndex = state.activeIndex + offset;
+    if (nextIndex < 0 || nextIndex >= state.filtered.length) return;
+    state.activeIndex = nextIndex;
+    renderCardDetail(state.filtered[nextIndex]);
+  }
+
+  function preloadAdjacentCards() {
+    [state.activeIndex - 1, state.activeIndex + 1].forEach((index) => {
+      const card = state.filtered[index];
+      if (!card) return;
+      const imageUrl = getImageUrl(getVariants(card)[0]);
+      if (imageUrl) {
+        const image = new Image();
+        image.src = imageUrl;
+      }
+    });
+  }
+
+  function resetTouch() {
+    state.touchStartX = 0;
+    state.touchStartY = 0;
+    state.touchEndX = 0;
+    state.touchEndY = 0;
+    state.pointerId = null;
+  }
+
+  function handleDetailPointerDown(event) {
+    if (!event.isPrimary || (event.pointerType === 'mouse' && event.button !== 0)) {
+      resetTouch();
+      return;
+    }
+    state.pointerId = event.pointerId;
+    state.touchStartX = event.clientX;
+    state.touchStartY = event.clientY;
+    state.touchEndX = state.touchStartX;
+    state.touchEndY = state.touchStartY;
+    event.currentTarget.setPointerCapture?.(event.pointerId);
+  }
+
+  function handleDetailPointerMove(event) {
+    if (!state.touchStartX || event.pointerId !== state.pointerId) return;
+    state.touchEndX = event.clientX;
+    state.touchEndY = event.clientY;
+  }
+
+  function handleDetailPointerUp(event) {
+    if (event.pointerId !== state.pointerId) return;
+    if (!state.touchStartX) return;
+    const distanceX = state.touchEndX - state.touchStartX;
+    const distanceY = state.touchEndY - state.touchStartY;
+    const isHorizontalSwipe = Math.abs(distanceX) >= 50 && Math.abs(distanceX) > Math.abs(distanceY) * 1.25;
+    if (isHorizontalSwipe) moveCard(distanceX < 0 ? 1 : -1);
+    resetTouch();
+  }
+
+  function setGridColumns(columns) {
+    const safeColumns = Math.min(5, Math.max(1, Number(columns) || 3));
+    document.documentElement.style.setProperty('--grid-columns', safeColumns);
+    elements.columnCount.textContent = String(safeColumns);
+    elements.columnToggle.setAttribute('aria-label', `表示列数: ${safeColumns}列。タップして切り替え`);
+    localStorage.setItem('unionArenaColumns', String(safeColumns));
   }
 
   async function loadCards({ bypassCache = false } = {}) {
@@ -335,11 +426,10 @@
       clearTimeout(timer);
       timer = setTimeout(filterCards, 100);
     });
-    elements.columns.value = localStorage.getItem('unionArenaColumns') || (innerWidth < 500 ? '3' : '4');
-    document.documentElement.style.setProperty('--grid-columns', elements.columns.value);
-    elements.columns.addEventListener('change', () => {
-      localStorage.setItem('unionArenaColumns', elements.columns.value);
-      document.documentElement.style.setProperty('--grid-columns', elements.columns.value);
+    setGridColumns(localStorage.getItem('unionArenaColumns') || (innerWidth < 500 ? 3 : 4));
+    elements.columnToggle.addEventListener('click', () => {
+      const current = Number(localStorage.getItem('unionArenaColumns')) || 3;
+      setGridColumns(current >= 5 ? 1 : current + 1);
     });
     elements.filterButton.addEventListener('click', () => elements.filterDialog.showModal());
     elements.applyFilters.addEventListener('click', () => {
@@ -353,6 +443,23 @@
       filterCards();
     });
     elements.detailClose.addEventListener('click', () => elements.cardDialog.close());
+    elements.detailPrevious.addEventListener('click', () => moveCard(-1));
+    elements.detailNext.addEventListener('click', () => moveCard(1));
+    elements.detailSwipeArea.addEventListener('pointerdown', handleDetailPointerDown);
+    elements.detailSwipeArea.addEventListener('pointermove', handleDetailPointerMove);
+    elements.detailSwipeArea.addEventListener('pointerup', handleDetailPointerUp);
+    elements.detailSwipeArea.addEventListener('pointercancel', resetTouch);
+    document.addEventListener('keydown', (event) => {
+      if (!elements.cardDialog.open) return;
+      if (event.key === 'ArrowLeft') {
+        event.preventDefault();
+        moveCard(-1);
+      }
+      if (event.key === 'ArrowRight') {
+        event.preventDefault();
+        moveCard(1);
+      }
+    });
     elements.settingsButton.addEventListener('click', () => elements.settingsDialog.showModal());
     elements.settingsClose.addEventListener('click', () => elements.settingsDialog.close());
     elements.cacheImages.addEventListener('click', cacheAllImages);
@@ -361,6 +468,12 @@
       dialog.addEventListener('click', (event) => {
         if (event.target === dialog) dialog.close();
       });
+    });
+    elements.cardDialog.addEventListener('close', () => {
+      state.activeCard = null;
+      state.activeIndex = -1;
+      state.activeVariantIndex = 0;
+      resetTouch();
     });
   }
 
