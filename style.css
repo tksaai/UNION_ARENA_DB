@@ -241,6 +241,13 @@ dialog::backdrop { background: rgba(0, 0, 0, .76); backdrop-filter: blur(5px); }
 .text-block { padding: 14px 0; border-top: 1px solid var(--line); }
 .text-block h3 { margin: 0 0 7px; color: var(--muted); font-size: .75rem; text-transform: uppercase; letter-spacing: .12em; }
 .text-block p { margin: 0; white-space: pre-wrap; line-height: 1.75; }
+.qa-list { display: grid; gap: 12px; }
+.qa-item { padding: 12px; border: 1px solid var(--line); border-radius: 12px; background: rgba(255, 255, 255, .03); }
+.qa-item p + p { margin-top: 8px; }
+.qa-meta { color: var(--accent-2); font-size: .72rem; font-weight: 800; letter-spacing: .06em; }
+.qa-question { font-weight: 800; }
+.qa-answer { color: #dce3ee; }
+.qa-source { display: inline-flex; margin-top: 10px; font-size: .78rem; font-weight: 800; }
 .source-link { display: inline-flex; margin-top: 15px; font-weight: 700; }
 
 .settings-card section { padding: 17px 0; border-top: 1px solid var(--line); }

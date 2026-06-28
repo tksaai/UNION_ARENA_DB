@@ -45,6 +45,7 @@ jobs:
             ARGS+=(--download-images)
           fi
           python scripts/sync_cards.py "${ARGS[@]}"
+          python scripts/sync_faq.py --series matching
 
       - name: Commit changes
         shell: bash

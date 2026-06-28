@@ -1,4 +1,4 @@
-const VERSION = 'v7';
+const VERSION = 'v8';
 const SHELL_CACHE = `union-arena-shell-${VERSION}`;
 const DATA_CACHE = `union-arena-data-${VERSION}`;
 const IMAGE_CACHE = 'union-arena-card-images-v1';

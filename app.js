@@ -57,6 +57,8 @@
     detailStats: $('#detail-stats'),
     detailEffect: $('#detail-effect'),
     detailTrigger: $('#detail-trigger'),
+    detailQaSection: $('#detail-qa-section'),
+    detailQaList: $('#detail-qa-list'),
     detailProduct: $('#detail-product'),
     detailSource: $('#detail-source'),
     variantButtons: $('#variant-buttons'),
@@ -174,6 +176,9 @@
   }
 
   function getSearchText(card) {
+    const qaText = Array.isArray(card.qa)
+      ? card.qa.flatMap((entry) => [entry.id, entry.question, entry.answer])
+      : [];
     return normalize([
       card.cardNumber,
       card.cardName,
@@ -184,6 +189,7 @@
       ...(card.features || []),
       card.effectText,
       card.trigger,
+      ...qaText,
     ].join(' '));
   }
 
@@ -344,6 +350,48 @@
     elements.detailStats.append(wrapper);
   }
 
+  function renderQuestionAnswer(card) {
+    const entries = Array.isArray(card.qa) ? card.qa : [];
+    elements.detailQaList.replaceChildren();
+    elements.detailQaSection.hidden = entries.length === 0;
+    if (!entries.length) return;
+
+    entries.forEach((entry) => {
+      const item = document.createElement('article');
+      item.className = 'qa-item';
+
+      const meta = [entry.id, entry.updatedAt ? `${entry.updatedAt}更新` : ''].filter(Boolean).join(' / ');
+      if (meta) {
+        const metaElement = document.createElement('p');
+        metaElement.className = 'qa-meta';
+        metaElement.textContent = meta;
+        item.append(metaElement);
+      }
+
+      const question = document.createElement('p');
+      question.className = 'qa-question';
+      question.textContent = `Q. ${entry.question || ''}`;
+      item.append(question);
+
+      const answer = document.createElement('p');
+      answer.className = 'qa-answer';
+      answer.textContent = `A. ${entry.answer || ''}`;
+      item.append(answer);
+
+      if (entry.sourceUrl) {
+        const source = document.createElement('a');
+        source.className = 'qa-source';
+        source.href = entry.sourceUrl;
+        source.target = '_blank';
+        source.rel = 'noopener noreferrer';
+        source.textContent = '公式Q&Aを開く';
+        item.append(source);
+      }
+
+      elements.detailQaList.append(item);
+    });
+  }
+
   function renderVariant(card, index) {
     const variants = getVariants(card);
     const variant = variants[index] || variants[0] || {};
@@ -372,6 +420,7 @@
     elements.detailTrigger.textContent = card.trigger || '-';
     elements.detailProduct.textContent = card.product || card.productCode || '-';
     elements.detailSource.href = card.sourceUrl || 'https://www.unionarena-tcg.com/jp/cardlist/';
+    renderQuestionAnswer(card);
     elements.detailStats.replaceChildren();
     addStat('必要エナジー', card.needEnergy);
     addStat('消費AP', card.ap);

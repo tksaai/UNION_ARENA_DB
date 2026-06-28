@@ -420,6 +420,9 @@ def preserve_existing_image_paths(existing_card: dict[str, Any] | None, updated_
     if not existing_card:
         return updated_card
 
+    if isinstance(existing_card.get("qa"), list) and "qa" not in updated_card:
+        updated_card["qa"] = existing_card["qa"]
+
     existing_variants = {
         str(variant.get("id")): variant
         for variant in existing_card.get("variants", [])
