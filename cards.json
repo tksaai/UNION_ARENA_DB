@@ -28908,6 +28908,20 @@
         "question": "このカードの【起動メイン】の「自分の場の〈リムル〉以外の元々のBPが4000以上のキャラを1枚選び、次の自分のターン開始時まで、元々の効果を全て失わせ、カードを1枚引く。」で選べるキャラは自分の場のキャラのみですか？",
         "answer": "はい、自分の場のキャラのみです。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
+      },
+      {
+        "id": "Q2209",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
+      },
+      {
+        "id": "Q2221",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
       }
     ]
   },
@@ -30695,6 +30709,20 @@
         "updatedAt": "2024.12.13",
         "question": "他のカードの効果によって2回ブロックを得ているキャラクターにこのカードで元々の効果を全て失わせた場合、2回ブロックを失いますか？",
         "answer": "いいえ、他のカードによって得た効果は失いません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
+      },
+      {
+        "id": "Q2210",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
+      },
+      {
+        "id": "Q2222",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX09BT"
       }
     ]
@@ -40898,6 +40926,20 @@
         "updatedAt": "2025.12.12",
         "question": "このカードの【登場時】は相手のフロントＬのキャラをフロントＬからエナジーＬに移動させてから、元々の効果を失わせますが、「ARK-2-004 W」等の移動した時に発動する効果を持つキャラクターを選んだ場合、相手のキャラクターの「移動した時」に発動しますか？",
         "answer": "いいえ、発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX12BT"
+      },
+      {
+        "id": "Q2211",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX12BT"
+      },
+      {
+        "id": "Q2223",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX12BT"
       }
     ]
@@ -94199,6 +94241,13 @@
         "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：UA01BT/CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
         "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：UA01BT/CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA07BT"
+      },
+      {
+        "id": "Q2212",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA07BT"
       }
     ]
   },
@@ -108912,6 +108961,13 @@
         "updatedAt": "2024.05.24",
         "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：UA01BT/CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
         "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：UA01BT/CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA10BT"
+      },
+      {
+        "id": "Q2213",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA10BT"
       }
     ]
@@ -153259,6 +153315,13 @@
         "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：UA01BT/CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
         "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：UA01BT/CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA18BT"
+      },
+      {
+        "id": "Q2214",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA18BT"
       }
     ]
   },
@@ -167385,6 +167448,13 @@
         "updatedAt": "2025.10.24",
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。\n相手の場のカードの下に置かれた「裏向きのカード」は確認できません。確認した裏向きのカードは望む順で置いて下さい。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA20ST"
+      },
+      {
+        "id": "Q2215",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA20ST"
       }
     ]
@@ -186934,6 +187004,20 @@
         "question": "他のカードの効果によって【2回ブロック】を得ているキャラクターにこのカードの【登場時】を使用した場合、【2回ブロック】を失いますか？",
         "answer": "いいえ、他のカードによって得た効果は失いません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA25BT"
+      },
+      {
+        "id": "Q2216",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA25BT"
+      },
+      {
+        "id": "Q2224",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA25BT"
       }
     ]
   },
@@ -205411,6 +205495,20 @@
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。\n相手の場のカードの下に置かれた「裏向きのカード」は確認できません。確認した裏向きのカードは望む順で置いて下さい。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA29BT"
+      },
+      {
+        "id": "Q2217",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA29BT"
+      },
+      {
+        "id": "Q2225",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA29BT"
       }
     ]
   },
@@ -220729,6 +220827,20 @@
         "question": "他のカードの効果によって2回ブロックを得ているキャラクターにこのカードの【登場時】で元々の効果を失わせた場合、2回ブロックを失いますか？",
         "answer": "いいえ、他のカードによって得た効果は失いません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA32BT"
+      },
+      {
+        "id": "Q2218",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA32BT"
+      },
+      {
+        "id": "Q2226",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA32BT"
       }
     ]
   },
@@ -231494,6 +231606,20 @@
         "updatedAt": "2025.02.07",
         "question": "他のカードの効果によって2回ブロックを得ているキャラクターにこのカードの【登場時】で元々の効果を失わせた場合、2回ブロックを失いますか？",
         "answer": "いいえ、他のカードによって得た効果は失いません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA34BT"
+      },
+      {
+        "id": "Q2219",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA34BT"
+      },
+      {
+        "id": "Q2227",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA34BT"
       }
     ]
@@ -324680,6 +324806,20 @@
         "question": "他のカードの効果によって2回ブロックを得ているキャラクターにこのカードの【登場時】で元々の効果を失わせた場合、2回ブロックを失いますか？",
         "answer": "いいえ、他のカードによって得た効果は失いません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA54BT"
+      },
+      {
+        "id": "Q2220",
+        "updatedAt": "2026.07.24",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。\n※それが『このターン中、「【退場時】○○」を得る』等の得た効果の場合は元々の効果ではないため、失われず発動します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA54BT"
+      },
+      {
+        "id": "Q2228",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA54BT"
       }
     ]
   },
@@ -325576,6 +325716,13 @@
         "question": "このキャラクターが「次の1回アクティブにならない。」効果を受け、そのまま、スタートフェイズやエンドフェイズになった時、このキャラクターの「次の1回アクティブにならない。」はなくなりますか？",
         "answer": "はい、スタートフェイズやエンドフェイズでアクティブになる時、「次の1回アクティブにならない」の効果はなくなります。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA54BT"
+      },
+      {
+        "id": "Q2208",
+        "updatedAt": "2026.07.24",
+        "question": "この【起動メイン】はこのキャラクターがアクティブの場合でも発動できますか？",
+        "answer": "はい、発生している自分のエナジーが7以上ある場合は発動できます。その場合、既にアクティブなので、アクティブになりませんが、それ以降を処理します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA54BT"
       }
     ]
   },
@@ -326237,6 +326384,5101 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP12.png?v8",
         "imagePath": "CardsWebP/UA54BT/UA54BT_MST-1-AP12.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-001",
+    "cardName": "千川 ちひろ",
+    "furigana": "せんかわ ちひろ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【黄】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-001",
+    "uniqueId": "570155:UA55BT/IMC-1-001",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-001",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-001.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-001.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-002",
+    "cardName": "大槻 唯",
+    "furigana": "おおつき ゆい",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-002",
+    "uniqueId": "570155:UA55BT/IMC-1-002",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-002",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-002.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-003",
+    "cardName": "大槻 唯",
+    "furigana": "おおつき ゆい",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【相手のターン中】このキャラはBP+1000と【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）を得る。【起動メイン】【ターン1】自分の場にBP5000以上の他のキャラがある場合のみ発動できる。このキャラはこのターン中、BP+1000。【起動メイン】【フロントLにある場合】【ターン1】このキャラのBPが5000以上の場合のみ発動できる。このキャラをアクティブにする。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-003",
+    "uniqueId": "570155:UA55BT/IMC-1-003",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-003",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-003.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-003.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-004",
+    "cardName": "緒方 智絵里",
+    "furigana": "おがた ちえり",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3500,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の［特徴：BEYOND THE STARLIGHT］の効果でこのカードが手札から場外に置かれた時、自分の場の［特徴：BEYOND THE STARLIGHT］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-004",
+    "uniqueId": "570155:UA55BT/IMC-1-004",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-004",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-004.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-004.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-005",
+    "cardName": "緒方 智絵里",
+    "furigana": "おがた ちえり",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【黄】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-005",
+    "uniqueId": "570155:UA55BT/IMC-1-005",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-005",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-005.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-005.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-006",
+    "cardName": "緒方 智絵里",
+    "furigana": "おがた ちえり",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【黄×2】減らす。【起動メイン】【ターン1】自分の場にBP5000以上の他のキャラがある場合のみ発動できる。このキャラはこのターン中、BP+1000。【アタック時】このキャラのBPが5000以上の場合、自分の山札の上から1枚を公開する。公開したカードが［特徴：BEYOND THE STARLIGHT］の場合、そのカードを手札に加えてもよい。手札に加えない場合、山札の上か下に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-006",
+    "uniqueId": "570155:UA55BT/IMC-1-006",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-006",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-006.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-006.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-006_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-006_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-007",
+    "cardName": "川島 瑞樹",
+    "furigana": "かわしま みずき",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-007",
+    "uniqueId": "570155:UA55BT/IMC-1-007",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-007",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-007.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-007.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-008",
+    "cardName": "川島 瑞樹",
+    "furigana": "かわしま みずき",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】自分の場の他の［特徴：BEYOND THE STARLIGHT］を1枚選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-008",
+    "uniqueId": "570155:UA55BT/IMC-1-008",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-008",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-008.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-008.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-009",
+    "cardName": "川島 瑞樹",
+    "furigana": "かわしま みずき",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": "4000-",
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはアクティブで登場させる。【登場時】カードを1枚引き、自分の手札から必要エナジーが3以下で消費APが1の特徴に「BEYOND THE STARLIGHT」を持つ黄のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。登場かレイドさせたキャラの元々の必要エナジー1につき、このキャラはこのターン中、BP-1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-009",
+    "uniqueId": "570155:UA55BT/IMC-1-009",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-009",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-009.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-009.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-009_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-009_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-010",
+    "cardName": "城ヶ崎 莉嘉",
+    "furigana": "じょうがさき りか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から7枚見て、黄のフィールドカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-010",
+    "uniqueId": "570155:UA55BT/IMC-1-010",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-010",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-010.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-010.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-011",
+    "cardName": "城ヶ崎 莉嘉",
+    "furigana": "じょうがさき りか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【ターン1】このキャラのBPがプラスされた時、自分のターン中の場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-011",
+    "uniqueId": "570155:UA55BT/IMC-1-011",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-011",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-011.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-011.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-012",
+    "cardName": "城ヶ崎 莉嘉",
+    "furigana": "じょうがさき りか",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3500+",
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈城ヶ崎 莉嘉〉アクティブにし、フロントLに移動できる【ターン1】このキャラのBPがプラスされた時、自分のターン中の場合、このキャラはこのターン中、BP+500。【登場時】このキャラはこのターン中、「このキャラのBPが7000以上の場合、このキャラは【狙い撃ち】を得る。」を得る。【アタック時】このキャラのBPが5000以上の場合、カードを1枚引く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-012",
+    "uniqueId": "570155:UA55BT/IMC-1-012",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-012",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-012.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-012.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-012_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-012_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-013",
+    "cardName": "北条 加蓮",
+    "furigana": "ほうじょう かれん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の他の［特徴：BEYOND THE STARLIGHT］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-013",
+    "uniqueId": "570155:UA55BT/IMC-1-013",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-013",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-013.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-013.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-014",
+    "cardName": "北条 加蓮",
+    "furigana": "ほうじょう かれん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：BEYOND THE STARLIGHT］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【カラー】相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-014",
+    "uniqueId": "570155:UA55BT/IMC-1-014",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-014",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-014.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-014.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-014_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-014_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-015",
+    "cardName": "北条 加蓮",
+    "furigana": "ほうじょう かれん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【アタック時】自分の場にBP5000以上の他のキャラがある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-015",
+    "uniqueId": "570155:UA55BT/IMC-1-015",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-015",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-015.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-015.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-016",
+    "cardName": "北条 加蓮",
+    "furigana": "ほうじょう かれん",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈北条 加蓮〉アクティブにし、フロントLに移動できる【登場時】カードを1枚引き、自分の手札を1枚場外に置く。自分の場外から必要エナジーが3以下の［特徴：BEYOND THE STARLIGHT］を1枚まで手札に加える。【起動メイン】【フロントLにある場合】【ターン1】このキャラのBPが5000以上の場合のみ発動できる。自分の山札の上から1枚見て、山札の上か場外に置く。自分の場の他のキャラを『1枚選び』、このターン中、BP+1000。このキャラのBPが7000以上の場合、『全て』に代わる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-016",
+    "uniqueId": "570155:UA55BT/IMC-1-016",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-016",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-016.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-016.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-016_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-016_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2229",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で自分の手札から必要エナジーが3以下の［特徴：BEYOND THE STARLIGHT］を場外に置いた場合、そのカードを手札に加えることはできますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-017",
+    "cardName": "高森 藍子",
+    "furigana": "たかもり あいこ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-017",
+    "uniqueId": "570155:UA55BT/IMC-1-017",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-017",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-017.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-017.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-018",
+    "cardName": "高森 藍子",
+    "furigana": "たかもり あいこ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：ポジティブパッション］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-018",
+    "uniqueId": "570155:UA55BT/IMC-1-018",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-018",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-018.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-018.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-018_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-018_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-019",
+    "cardName": "高森 藍子",
+    "furigana": "たかもり あいこ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引く。",
+    "trigger": "【カラー】相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-019",
+    "uniqueId": "570155:UA55BT/IMC-1-019",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-019",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-019.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-019.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-020",
+    "cardName": "高森 藍子",
+    "furigana": "たかもり あいこ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈高森 藍子〉アクティブにし、フロントLに移動できる【登場時】相手のフロントLのキャラを1枚まで選び、レストにする。このキャラが自分の効果でレイドしていた場合、それは次の1回アクティブにならない。【起動メイン】【フロントLにある場合】【レストにする】【ターン1】自分の手札から必要エナジーを満たす〈本田 未央〉か〈日野 茜〉を1枚までレイドさせる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-020",
+    "uniqueId": "570155:UA55BT/IMC-1-020",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-020",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-020.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-020.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-020_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-020_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2230",
+        "updatedAt": "2026.07.24",
+        "question": "「自分の効果でレイドしていた場合」とはどういうことですか？",
+        "answer": "別のカードの「レイドさせる」のような効果やこのカードのレイドトリガーでこのカードをレイドさせていた場合ということです。手札から使用してレイドさせていた場合は「自分の効果でレイドしていた場合」ではありません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2231",
+        "updatedAt": "2026.07.24",
+        "question": "「次の1回アクティブにならない。」という効果はどういう効果ですか？",
+        "answer": "スタートフェイズやエンドフェイズにアクティブにする時や、アクティブにする効果を受けた時に１回だけレストのままにする効果です。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2232",
+        "updatedAt": "2026.07.24",
+        "question": "「それは次の1回アクティブにならない。」の「それ」とは選んだ相手のキャラですか？",
+        "answer": "はい、そうです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-021",
+    "cardName": "日野 茜",
+    "furigana": "ひの あかね",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-021",
+    "uniqueId": "570155:UA55BT/IMC-1-021",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-021",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-021.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-021.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-022",
+    "cardName": "日野 茜",
+    "furigana": "ひの あかね",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+【黄】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-022",
+    "uniqueId": "570155:UA55BT/IMC-1-022",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-022",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-022.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-022.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-023",
+    "cardName": "日野 茜",
+    "furigana": "ひの あかね",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】【フロントLにある場合】自分の手札から必要エナジーが2以下の黄の［特徴：ポジティブパッション］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-023",
+    "uniqueId": "570155:UA55BT/IMC-1-023",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-023",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-023.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-023.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-023_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-023_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-024",
+    "cardName": "日野 茜",
+    "furigana": "ひの あかね",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈日野 茜〉アクティブにし、フロントLに移動できる【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】このキャラはこのターン中、BP+1000。このキャラが自分の効果でレイドしていた場合、さらにこのキャラはこのターン中、【ダメージ（2）】を得る。【アタック時】カードを1枚引く。このターンで最初の自分のキャラのアタックの場合、APを1支払ってもよい。そうした場合、自分の手札から必要エナジーを満たす〈本田 未央〉か〈高森 藍子〉を1枚までレイドさせる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-024",
+    "uniqueId": "570155:UA55BT/IMC-1-024",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-024",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-024.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-024.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-024_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-024_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2233",
+        "updatedAt": "2026.07.24",
+        "question": "「自分の効果でレイドしていた場合」とはどういうことですか？",
+        "answer": "別のカードの「レイドさせる」のような効果やこのカードのレイドトリガーでこのカードをレイドさせていた場合ということです。手札から使用してレイドさせていた場合は「自分の効果でレイドしていた場合」ではありません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-025",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-025",
+    "uniqueId": "570155:UA55BT/IMC-1-025",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-025",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-025.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-025.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-026",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【自分のターン中】このキャラはBP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-026",
+    "uniqueId": "570155:UA55BT/IMC-1-026",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-026",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-026.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-026.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-027",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄+",
+        "count": 2
+      }
+    ],
+    "effectText": "自分の場に［特徴：ポジティブパッション］が4枚以上ある場合、このキャラの発生エナジー+【黄】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-027",
+    "uniqueId": "570155:UA55BT/IMC-1-027",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-027",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-027.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-027.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-028",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ポジティブパッション"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈本田 未央〉アクティブにし、フロントLに移動できる【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）【登場時】以下から2つまで選ぶ。・自分の場の必要エナジーが3以下の［特徴：ポジティブパッション］を1枚手札に戻してもよい。そうした場合、自分の手札から必要エナジーを満たし消費APが1の〈日野 茜〉か〈高森 藍子〉を1枚まで自分の場にレストで登場させるかレイドさせる。・このキャラが自分の効果でレイドしていた場合、自分の場の［特徴：ポジティブパッション］を1枚まで選び、アクティブにする。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-028",
+    "uniqueId": "570155:UA55BT/IMC-1-028",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-028",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-028.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-028.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-028_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-028_p1.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-028_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-028_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2234",
+        "updatedAt": "2026.07.24",
+        "question": "以下から2つ選ぶ場合、同じ効果を2回選ぶことはできますか？",
+        "answer": "いいえ、できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2235",
+        "updatedAt": "2026.07.24",
+        "question": "2つ選んだ場合、望む順で処理を行うことができますか？",
+        "answer": "いいえ、できません。上にある効果から処理を行います。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2236",
+        "updatedAt": "2026.07.24",
+        "question": "「自分の効果でレイドしていた場合」とはどういうことですか？",
+        "answer": "別のカードの「レイドさせる」のような効果やこのカードのレイドトリガーでこのカードをレイドさせていた場合ということです。手札から使用してレイドさせていた場合は「自分の効果でレイドしていた場合」ではありません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-029",
+    "cardName": "BEYOND THE STARLIGHT",
+    "furigana": "びよんど ざ すたーらいと",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [
+      "BEYOND THE STARLIGHT"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "このフィールドはアクティブで登場させる。【起動メイン】【手札を1枚場外に置く】自分の場のキャラを1枚まで選び、このターン中、『BP+1000』。この効果で【スペシャルトリガー】を持つカードを場外に置いていた場合、『BP+3000』に代わる。【起動メイン】【レストにする】自分の場のキャラが全て［特徴：BEYOND THE STARLIGHT］の場合のみ発動できる。BP7000以上の自分の場のキャラを1枚選び、このターン中、【インパクト（1）】を与える。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-029",
+    "uniqueId": "570155:UA55BT/IMC-1-029",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-029",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-029.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-029.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-030",
+    "cardName": "情熱ファンファンファーレ",
+    "furigana": "じょうねつふぁんふぁんふぁーれ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に［特徴：ポジティブパッション］が3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-030",
+    "uniqueId": "570155:UA55BT/IMC-1-030",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-030",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-030.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-030.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-031",
+    "cardName": "千川 ちひろのサポート",
+    "furigana": "せんかわ ちひろのさぽーと",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-031",
+    "uniqueId": "570155:UA55BT/IMC-1-031",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-031",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-031.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-031.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-032",
+    "cardName": "DOKIDOKIリズム",
+    "furigana": "どきどきりずむ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを1枚引く。自分の場の［特徴：BEYOND THE STARLIGHT］を1枚まで選び、このターン中、BP+2000。この効果で〈城ヶ崎 莉嘉〉を選んだ場合、さらにこのターン中、【インパクト（1）】を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-032",
+    "uniqueId": "570155:UA55BT/IMC-1-032",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-032",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-032.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-032.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-033",
+    "cardName": "ミツボシ☆☆★",
+    "furigana": "みつぼし",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の山札の上から6枚見て、〈本田 未央〉と〈日野 茜〉と〈高森 藍子〉をそれぞれ1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-033",
+    "uniqueId": "570155:UA55BT/IMC-1-033",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-033",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-033.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-033.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-034",
+    "cardName": "千川 ちひろ",
+    "furigana": "せんかわ ちひろ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【青】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-034",
+    "uniqueId": "570155:UA55BT/IMC-1-034",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-034",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-034.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-034.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-035",
+    "cardName": "木村 夏樹",
+    "furigana": "きむら なつき",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-035",
+    "uniqueId": "570155:UA55BT/IMC-1-035",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-035",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-035.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-035.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-036",
+    "cardName": "木村 夏樹",
+    "furigana": "きむら なつき",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】このターン中に自分のキャラが自分の効果で登場している場合、このキャラはBP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-036",
+    "uniqueId": "570155:UA55BT/IMC-1-036",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-036",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-036.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-036.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-037",
+    "cardName": "木村 夏樹",
+    "furigana": "きむら なつき",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】このキャラが自分のキャラの効果で登場していた場合、カードを1枚引く。【アタック時】APを1支払ってもよい。そうした場合、このキャラはこのターン中、【インパクト（1）】を得る。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-037",
+    "uniqueId": "570155:UA55BT/IMC-1-037",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-037",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-037.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-037.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-037_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-037_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-038",
+    "cardName": "小日向 美穂",
+    "furigana": "こひなた みほ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-038",
+    "uniqueId": "570155:UA55BT/IMC-1-038",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-038",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-038.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-038.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-039",
+    "cardName": "小日向 美穂",
+    "furigana": "こひなた みほ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【自分のターン中】このターン中にこのキャラが自分の効果で〔登場しているか移動している〕場合、このキャラはBP+1000。【起動メイン】【エナジーLにある場合】【手札を1枚場外に置く】自分のフロントLに［特徴：ガールズ・イン・ザ・フロンティア］が3枚ある場合のみ発動できる。このキャラをフロントLに移動させる。このキャラはこのターン中、「このキャラのアタック終了時、このキャラをエナジーLに移動させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-039",
+    "uniqueId": "570155:UA55BT/IMC-1-039",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-039",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-039.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-039.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2237",
+        "updatedAt": "2026.07.24",
+        "question": "移動フェイズで移動しても「このターン中にこのキャラが効果で〔登場しているか移動している〕場合」という条件を満たしますか？",
+        "answer": "いいえ、満たしません。効果によって移動する必要があります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2238",
+        "updatedAt": "2026.07.24",
+        "question": "移動させる時にそのラインに空きがない場合どうなりますか？",
+        "answer": "移動させる時にそのラインに空きがない場合、カードを1枚選んでリムーブエリアに置いてから移動させます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2239",
+        "updatedAt": "2026.07.24",
+        "question": "「このキャラのアタック終了時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "バトルを行った場合はバトル終了後、プレイヤーにダメージを与えた場合はトリガーチェック終了後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-040",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-040",
+    "uniqueId": "570155:UA55BT/IMC-1-040",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-040",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-040.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-040.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-041",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：ガールズ・イン・ザ・フロンティア］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-041",
+    "uniqueId": "570155:UA55BT/IMC-1-041",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-041",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-041.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-041.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-042",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札から必要エナジーが2以下の青の［特徴：ガールズ・イン・ザ・フロンティア］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-042",
+    "uniqueId": "570155:UA55BT/IMC-1-042",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-042",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-042.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-042.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-043",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈渋谷 凛〉アクティブにし、フロントLに移動できる【退場時】このキャラのレイド元のカードを1枚まで手札に戻す。【アタック時】自分の場のキャラを1枚自分の山札の下に置いてもよい。そうした場合、自分の山札の上から3枚見て、青の［特徴：ガールズ・イン・ザ・フロンティア］を1枚まで自分の場にレストで登場させる。残りを望む順で山札の下に置く。その後、自分の手札を1枚場外に置いてもよい。そうした場合、登場させたキャラをアクティブにする。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-043",
+    "uniqueId": "570155:UA55BT/IMC-1-043",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-043",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-043.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-043.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-043_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-043_p1.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-043_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-043_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-044",
+    "cardName": "早坂 美玲",
+    "furigana": "はやさか みれい",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-044",
+    "uniqueId": "570155:UA55BT/IMC-1-044",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-044",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-044.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-044.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-045",
+    "cardName": "早坂 美玲",
+    "furigana": "はやさか みれい",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【青】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-045",
+    "uniqueId": "570155:UA55BT/IMC-1-045",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-045",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-045.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-045.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-046",
+    "cardName": "早坂 美玲",
+    "furigana": "はやさか みれい",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。【登場時】自分の場の［特徴：ガールズ・イン・ザ・フロンティア］を1枚まで選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-046",
+    "uniqueId": "570155:UA55BT/IMC-1-046",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-046",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-046.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-046.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-046_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-046_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-047",
+    "cardName": "一ノ瀬 志希",
+    "furigana": "いちのせ しき",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、［特徴：LiPPS］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-047",
+    "uniqueId": "570155:UA55BT/IMC-1-047",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-047",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-047.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-047.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-048",
+    "cardName": "一ノ瀬 志希",
+    "furigana": "いちのせ しき",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-048",
+    "uniqueId": "570155:UA55BT/IMC-1-048",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-048",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-048.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-048.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-049",
+    "cardName": "一ノ瀬 志希",
+    "furigana": "いちのせ しき",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈一ノ瀬 志希〉アクティブにし、フロントLに移動できる【登場時】BP2500以下かBP4500以上の相手のフロントLのキャラを1枚まで選び、手札に戻す。【アタック時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-049",
+    "uniqueId": "570155:UA55BT/IMC-1-049",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-049",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-049.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-049.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-049_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-049_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-050",
+    "cardName": "城ヶ崎 美嘉",
+    "furigana": "じょうがさき みか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【2回ブロック】（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-050",
+    "uniqueId": "570155:UA55BT/IMC-1-050",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-050",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-050.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-050.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-051",
+    "cardName": "城ヶ崎 美嘉",
+    "furigana": "じょうがさき みか",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場外から必要エナジーが2以下の［特徴：LiPPS］を1枚まで手札に加える。【起動メイン】【レストにする】【このカードを退場させる】相手の場にBP4500以上のキャラがある場合のみ発動できる。自分の場外から必要エナジーが2以下の青の［特徴：LiPPS］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-051",
+    "uniqueId": "570155:UA55BT/IMC-1-051",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-051",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-051.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-051.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-051_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-051_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-052",
+    "cardName": "速水 奏",
+    "furigana": "はやみ かなで",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】相手のフロントLのキャラか〈速水 奏〉以外の自分の場の［特徴：LiPPS］を1枚選び、このターン中、BP+500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-052",
+    "uniqueId": "570155:UA55BT/IMC-1-052",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-052",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-052.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-052.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-052_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-052_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-053",
+    "cardName": "速水 奏",
+    "furigana": "はやみ かなで",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-053",
+    "uniqueId": "570155:UA55BT/IMC-1-053",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-053",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-053.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-053.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-054",
+    "cardName": "速水 奏",
+    "furigana": "はやみ かなで",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはBP4500以上のキャラにブロックされない。【起動メイン】相手の場にBP4500以上のキャラがある場合のみ発動できる。このキャラをアクティブにする。〈速水 奏〉のこの効果は1ターンに1回のみ発動できる。【起動メイン】【フロントLにある場合】【ターン1】相手のフロントLのキャラか〈速水 奏〉以外の自分の場の［特徴：LiPPS］を1枚選び、このターン中、BP+500。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-054",
+    "uniqueId": "570155:UA55BT/IMC-1-054",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-054",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-054.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-054.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-054_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-054_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2240",
+        "updatedAt": "2026.07.24",
+        "question": "「〈速水 奏〉のこの効果は1ターンに1回のみ発動できる。」の「この効果」は何を指しますか？",
+        "answer": "「【起動メイン】相手の場にBP4500以上のキャラがある場合のみ発動できる。このキャラをアクティブにする。」の効果のみを指します。同一カードにある他の効果は指しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2241",
+        "updatedAt": "2026.07.24",
+        "question": "このカードが自分の場に2枚ある場合、このカードの「【起動メイン】相手の場にBP4500以上のキャラがある場合のみ発動できる。このキャラをアクティブにする。」を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-055",
+    "cardName": "宮本 フレデリカ",
+    "furigana": "みやもと ふれでりか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】相手の場にBP4500以上のキャラがある場合のみ発動できる。このキャラはこのターン中、BP+2000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-055",
+    "uniqueId": "570155:UA55BT/IMC-1-055",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-055",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-055.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-055.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-056",
+    "cardName": "宮本 フレデリカ",
+    "furigana": "みやもと ふれでりか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：LiPPS］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-056",
+    "uniqueId": "570155:UA55BT/IMC-1-056",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-056",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-056.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-056.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-057",
+    "cardName": "宮本 フレデリカ",
+    "furigana": "みやもと ふれでりか",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "LiPPS"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈宮本 フレデリカ〉アクティブにし、フロントLに移動できる【ターン1】このキャラがアタックしてバトルに敗北した時、このキャラをアクティブにする。【登場時】自分の手札から必要エナジーが2以下の青の［特徴：LiPPS］を1枚まで自分の場にレストで登場させる。相手の場にBP4500以上のキャラがある場合、カードを1枚引く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-057",
+    "uniqueId": "570155:UA55BT/IMC-1-057",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-057",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-057.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-057.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-057_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-057_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2242",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で自分の手札から必要エナジーが2以下の青の［特徴：LiPPS］を自分の場に出さなかった場合、相手の場にBP4500以上のキャラがあるならカードを1枚引くことができますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-058",
+    "cardName": "塩見 周子",
+    "furigana": "しおみ しゅうこ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "LiPPS",
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-058",
+    "uniqueId": "570155:UA55BT/IMC-1-058",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-058",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-058.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-058.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-059",
+    "cardName": "塩見 周子",
+    "furigana": "しおみ しゅうこ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "LiPPS",
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-059",
+    "uniqueId": "570155:UA55BT/IMC-1-059",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-059",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-059.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-059.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-060",
+    "cardName": "塩見 周子",
+    "furigana": "しおみ しゅうこ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "LiPPS",
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【ターン1】相手の場にBP4500以上のキャラがある場合のみ発動できる。このキャラはこのターン中、BP+2000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-060",
+    "uniqueId": "570155:UA55BT/IMC-1-060",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-060",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-060.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-060.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-060_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-060_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-061",
+    "cardName": "塩見 周子",
+    "furigana": "しおみ しゅうこ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [
+      "LiPPS",
+      "ガールズ・イン・ザ・フロンティア"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラのアタックがブロックされなかった時、カードを1枚まで引く。【登場時】このキャラをアクティブにする。自分のAPカードを1枚アクティブにしてもよい。そうした場合、このキャラはこのターン中、「アタックフェイズ終了時、このキャラを手札に戻す。」を得る。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-061",
+    "uniqueId": "570155:UA55BT/IMC-1-061",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-061",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-061.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-061.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-061_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-061_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2243",
+        "updatedAt": "2026.07.24",
+        "question": "「このキャラのアタックがブロックされなかった時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "相手の【ブロック時】が発動する時と同じ、「ブロックキャラクター指定タイミング」でブロックするか選択した後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-062",
+    "cardName": "ガールズ・イン・ザ・フロンティア",
+    "furigana": "がーるず いん ざ ふろんてぃあ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に［特徴：ガールズ・イン・ザ・フロンティア］が3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-062",
+    "uniqueId": "570155:UA55BT/IMC-1-062",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-062",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-062.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-062.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-063",
+    "cardName": "千川 ちひろのサポート",
+    "furigana": "せんかわ ちひろのさぽーと",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-063",
+    "uniqueId": "570155:UA55BT/IMC-1-063",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-063",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-063.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-063.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-064",
+    "cardName": "Tulip",
+    "furigana": "ちゅーりっぷ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に［特徴：LiPPS］が3枚以上ある場合、『退場させる』に代えてもよい。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-064",
+    "uniqueId": "570155:UA55BT/IMC-1-064",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-064",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-064.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-064.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-065",
+    "cardName": "Never say never",
+    "furigana": "ねばー せい ねばー",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の山札の上から3枚見て、青の［特徴：ガールズ・イン・ザ・フロンティア］を1枚まで自分の場にレストで登場させるかレイドさせる。残りを望む順で山札の下に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-065",
+    "uniqueId": "570155:UA55BT/IMC-1-065",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-065",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-065.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-065.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-066",
+    "cardName": "Hotel Moonside",
+    "furigana": "ほてる むーんさいど",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを2枚引く。相手の場にBP4500以上のキャラがある場合、さらにカードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-066",
+    "uniqueId": "570155:UA55BT/IMC-1-066",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-066",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-066.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-066.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-067",
+    "cardName": "千川 ちひろ",
+    "furigana": "せんかわ ちひろ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "赤+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【赤】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-067",
+    "uniqueId": "570155:UA55BT/IMC-1-067",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-067",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-067.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-067.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-068",
+    "cardName": "神崎 蘭子",
+    "furigana": "かんざき らんこ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つまで選ぶ。・自分の場の他のキャラを1枚退場させてもよい。そうした場合、カードを2枚引き、自分の手札から必要エナジーが3以下で消費APが1の赤の［特徴：お願い！シンデレラ］を2枚まで自分の場にレストで登場させる。・自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計9種類以上ある場合、BP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-068",
+    "uniqueId": "570155:UA55BT/IMC-1-068",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-068",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-068.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-068.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-068_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-068_p1.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-068_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-068_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2244",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で［特徴：お願い！シンデレラ］のカード名の種類数を参照する際にこのカード自身は種類数に数えることができますか？",
+        "answer": "はい、数えます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-069",
+    "cardName": "小日向 美穂",
+    "furigana": "こひなた みほ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤赤",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】『カードを1枚引き、自分の手札を1枚場外に置く』。自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、『カードを1枚引く』に代わる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-069",
+    "uniqueId": "570155:UA55BT/IMC-1-069",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-069",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-069.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-069.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-069_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-069_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2245",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で［特徴：お願い！シンデレラ］のカード名の種類数を参照する際にこのカード自身は種類数に数えることができますか？",
+        "answer": "はい、数えます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-070",
+    "cardName": "城ヶ崎 美嘉",
+    "furigana": "じょうがさき みか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-070",
+    "uniqueId": "570155:UA55BT/IMC-1-070",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-070",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-070.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-070.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-070_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-070_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-071",
+    "cardName": "城ヶ崎 莉嘉",
+    "furigana": "じょうがさき りか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、このキャラはBP+1500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-071",
+    "uniqueId": "570155:UA55BT/IMC-1-071",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-071",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-071.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-071.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-071_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-071_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-072",
+    "cardName": "多田 李衣菜",
+    "furigana": "ただ りいな",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラがアタックしてバトルに勝利した時、自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計9種類以上ある場合、カードを1枚まで引く。【登場時】自分の手札の［特徴：お願い！シンデレラ］を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-072",
+    "uniqueId": "570155:UA55BT/IMC-1-072",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-072",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-072.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-072.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-072_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-072_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2246",
+        "updatedAt": "2026.07.24",
+        "question": "「アタックしてバトルに勝利した時」とはどういうことですか？",
+        "answer": "自分のキャラクターがアタックをして相手のキャラクターとバトルをし、アタックをした自分のキャラクターのBPが相手のキャラクターのBP以上だった時を指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-073",
+    "cardName": "双葉 杏",
+    "furigana": "ふたば あんず",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードはフロントLに登場できず、フロントLに移動できない。【登場時】『カードを1枚引く』。自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計9種類以上ある場合、『自分の山札の上から2枚見て、1枚まで手札に加え、残りを場外に置く。』に代わる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-073",
+    "uniqueId": "570155:UA55BT/IMC-1-073",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-073",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-073.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-073.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-073_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-073_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2247",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で［特徴：お願い！シンデレラ］のカード名の種類数を参照する際にこのカード自身は種類数に数えることができますか？",
+        "answer": "はい、数えます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-074",
+    "cardName": "三村 かな子",
+    "furigana": "みむら かなこ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤赤",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【アタック時】自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計9種類以上ある場合、自分の場のキャラを2枚まで選び、このターン中、BP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-074",
+    "uniqueId": "570155:UA55BT/IMC-1-074",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-074",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-074.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-074.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-074_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-074_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-075",
+    "cardName": "諸星 きらり",
+    "furigana": "もろぼし きらり",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、このキャラはBP+1000。【登場時】必要エナジーが1以下の自分の場の［特徴：お願い！シンデレラ］を1枚手札に戻してもよい。そうした場合、自分の手札から必要エナジーが1以下の赤の［特徴：お願い！シンデレラ］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-075",
+    "uniqueId": "570155:UA55BT/IMC-1-075",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-075",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-075.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-075.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-075_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-075_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2248",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で手札に戻したカードを再び登場させることはできますか？",
+        "answer": "はい、条件を満たしていれば登場させることができます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-076",
+    "cardName": "アナスタシア",
+    "furigana": "あなすたしあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、［特徴：Starry-Go-Round］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-076",
+    "uniqueId": "570155:UA55BT/IMC-1-076",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-076",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-076.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-076.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-076_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-076_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-077",
+    "cardName": "アナスタシア",
+    "furigana": "あなすたしあ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【赤×2】減らす。【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-077",
+    "uniqueId": "570155:UA55BT/IMC-1-077",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-077",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-077.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-077.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-078",
+    "cardName": "アナスタシア",
+    "furigana": "あなすたしあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈アナスタシア〉アクティブにし、フロントLに移動できる【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】自分の山札の上から6枚見て、必要エナジーが2の赤の［特徴：Starry-Go-Round］を1枚まで自分の場にレストで登場させる。残りを望む順で山札の下に置く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-078",
+    "uniqueId": "570155:UA55BT/IMC-1-078",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-078",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-078.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-078.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-078_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-078_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-079",
+    "cardName": "大槻 唯",
+    "furigana": "おおつき ゆい",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札から必要エナジーが2以下の赤の［特徴：Starry-Go-Round］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-079",
+    "uniqueId": "570155:UA55BT/IMC-1-079",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-079",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-079.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-079.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-080",
+    "cardName": "大槻 唯",
+    "furigana": "おおつき ゆい",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】【エナジーLにある場合】自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、このキャラをアクティブにする。【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-080",
+    "uniqueId": "570155:UA55BT/IMC-1-080",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-080",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-080.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-080.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-080_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-080_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-081",
+    "cardName": "二宮 飛鳥",
+    "furigana": "にのみや あすか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-081",
+    "uniqueId": "570155:UA55BT/IMC-1-081",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-081",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-081.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-081.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-082",
+    "cardName": "二宮 飛鳥",
+    "furigana": "にのみや あすか",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤+",
+        "count": 2
+      }
+    ],
+    "effectText": "自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、このキャラの発生エナジー+【赤】。",
+    "trigger": "【カラー】BP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-082",
+    "uniqueId": "570155:UA55BT/IMC-1-082",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-082",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-082.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-082.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-082_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-082_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-083",
+    "cardName": "姫川 友紀",
+    "furigana": "ひめかわ ゆき",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤赤",
+        "count": 3
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-083",
+    "uniqueId": "570155:UA55BT/IMC-1-083",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-083",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-083.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-083.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-084",
+    "cardName": "姫川 友紀",
+    "furigana": "ひめかわ ゆき",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【自分のターン中】自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-084",
+    "uniqueId": "570155:UA55BT/IMC-1-084",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-084",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-084.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-084.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-084_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-084_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-085",
+    "cardName": "前川 みく",
+    "furigana": "まえかわ みく",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、［特徴：Starry-Go-Round］を1枚まで場外に置く。残りを望む順で自分の山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-085",
+    "uniqueId": "570155:UA55BT/IMC-1-085",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-085",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-085.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-085.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-086",
+    "cardName": "前川 みく",
+    "furigana": "まえかわ みく",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-086",
+    "uniqueId": "570155:UA55BT/IMC-1-086",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-086",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-086.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-086.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-086_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-086_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-087",
+    "cardName": "前川 みく",
+    "furigana": "まえかわ みく",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "Starry-Go-Round"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈前川 みく〉アクティブにし、フロントLに移動できる【登場時】自分の場外から必要エナジーが2の［特徴：Starry-Go-Round］を『1枚』まで手札に加える。自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が3枚以上ある場合、『2枚』に代わる。【アタック時】自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-087",
+    "uniqueId": "570155:UA55BT/IMC-1-087",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-087",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-087.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-087.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-087_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-087_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-088",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-088",
+    "uniqueId": "570155:UA55BT/IMC-1-088",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-088",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-088.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-088.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-089",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤赤",
+        "count": 3
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-089",
+    "uniqueId": "570155:UA55BT/IMC-1-089",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-089",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-089.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-089.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-090",
+    "cardName": "渋谷 凛",
+    "furigana": "しぶや りん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【赤】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-090",
+    "uniqueId": "570155:UA55BT/IMC-1-090",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-090",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-090.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-090.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-090_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-090_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-091",
+    "cardName": "島村 卯月",
+    "furigana": "しまむら うづき",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-091",
+    "uniqueId": "570155:UA55BT/IMC-1-091",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-091",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-091.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-091.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-092",
+    "cardName": "島村 卯月",
+    "furigana": "しまむら うづき",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-092",
+    "uniqueId": "570155:UA55BT/IMC-1-092",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-092",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-092.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-092.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-093",
+    "cardName": "島村 卯月",
+    "furigana": "しまむら うづき",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、自分の場の［特徴：お願い！シンデレラ］を1枚まで選び、このターン中、BP+1000。合計9種類以上ある場合、さらにこのターン中、【インパクト（1）】を与える。",
+    "trigger": "【カラー】BP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-093",
+    "uniqueId": "570155:UA55BT/IMC-1-093",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-093",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-093.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-093.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-093_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-093_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2249",
+        "updatedAt": "2026.07.24",
+        "question": "【登場時】で［特徴：お願い！シンデレラ］のカード名の種類数を参照する際にこのカード自身は種類数に数えることができますか？",
+        "answer": "はい、数えます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-094",
+    "cardName": "島村 卯月",
+    "furigana": "しまむら うづき",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈島村 卯月〉アクティブにし、フロントLに移動できる【登場時】自分の山札の上から2枚見て、1枚まで手札に加え、残りを場外に置く。【アタック時】自分の手札を1枚場外に置いてもよい。そうした場合、このキャラのレイド元のカードを1枚自分の場にレストで登場させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-094",
+    "uniqueId": "570155:UA55BT/IMC-1-094",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-094",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-094.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-094.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-094_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-094_p1.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-094_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-094_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-095",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-095",
+    "uniqueId": "570155:UA55BT/IMC-1-095",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-095",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-095.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-095.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-095_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-095_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-096",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤赤",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-096",
+    "uniqueId": "570155:UA55BT/IMC-1-096",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-096",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-096.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-096.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-097",
+    "cardName": "本田 未央",
+    "furigana": "ほんだ みお",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "4000-",
+    "features": [
+      "new generations",
+      "お願い！シンデレラ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはアタックできない。自分のアタックフェイズ開始時、APを1支払ってもよい。そうした場合、このキャラはこのターン中、元々の効果を全て失う。【相手のターン中】このキャラはBP-1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-097",
+    "uniqueId": "570155:UA55BT/IMC-1-097",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-097",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-097.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-097.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2250",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果」とは何ですか？",
+        "answer": "そのカードに記載されている効果です。「このキャラはアタックできない。」を失うため、アタックできるようになります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2251",
+        "updatedAt": "2026.07.24",
+        "question": "他のカードの効果によって2回ブロックを得ているこのカードの元々の効果を失わせた場合、2回ブロックを失いますか？",
+        "answer": "いいえ、他のカードによって得た効果は失いません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      },
+      {
+        "id": "Q2252",
+        "updatedAt": "2026.07.24",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-098",
+    "cardName": "お願い！シンデレラ",
+    "furigana": "おねがい しんでれら",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを1枚引く。このターン中、次に手札から使用する［特徴：お願い！シンデレラ］の消費APを-1する。自分の場と場外に［特徴：お願い！シンデレラ］のカード名が合計6種類以上ある場合、このターン中、『次に自分の場に登場させる［特徴：お願い！シンデレラ］1枚』は、アクティブで登場させる。合計9種類以上ある場合、『自分の場に登場させる［特徴：お願い！シンデレラ］全て』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-098",
+    "uniqueId": "570155:UA55BT/IMC-1-098",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-098",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-098.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-098.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2253",
+        "updatedAt": "2026.07.24",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA55BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-099",
+    "cardName": "Starry-Go-Round",
+    "furigana": "すたーりー ごー らうんど",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP2000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に［特徴：Starry-Go-Round］が3枚以上ある場合、『BP5000以下』に代わる。自分の場に必要エナジーが2の［特徴：Starry-Go-Round］が4枚以上ある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-099",
+    "uniqueId": "570155:UA55BT/IMC-1-099",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-099",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-099.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-099.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-100",
+    "cardName": "千川 ちひろのサポート",
+    "furigana": "せんかわ ちひろのさぽーと",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-100",
+    "uniqueId": "570155:UA55BT/IMC-1-100",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-100",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-100.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-100.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP01",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP01",
+    "uniqueId": "570155:UA55BT/IMC-1-AP01",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP01.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP01.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP01_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP02",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP02",
+    "uniqueId": "570155:UA55BT/IMC-1-AP02",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP02.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP02.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP02_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP02_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP03",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP03",
+    "uniqueId": "570155:UA55BT/IMC-1-AP03",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP03.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP03.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP03_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP03_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP04",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP04",
+    "uniqueId": "570155:UA55BT/IMC-1-AP04",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP04.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP04.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP04_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP04_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP05",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP05",
+    "uniqueId": "570155:UA55BT/IMC-1-AP05",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP05.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP05.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP05_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP05_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP06",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP06",
+    "uniqueId": "570155:UA55BT/IMC-1-AP06",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP06",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP06.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP06.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP06_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP06_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP07",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP07",
+    "uniqueId": "570155:UA55BT/IMC-1-AP07",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP07",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP07.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP07.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP07_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP07_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP08",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP08",
+    "uniqueId": "570155:UA55BT/IMC-1-AP08",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP08",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP08.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP08.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP08_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP08_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP09",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP09",
+    "uniqueId": "570155:UA55BT/IMC-1-AP09",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP09",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP09.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP09.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP09_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP09_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP10",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP10",
+    "uniqueId": "570155:UA55BT/IMC-1-AP10",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP10",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP10.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP10.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP10_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP10_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP11",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP11",
+    "uniqueId": "570155:UA55BT/IMC-1-AP11",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP11",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP11.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP11.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP11_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP11_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP12",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP12",
+    "uniqueId": "570155:UA55BT/IMC-1-AP12",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP12",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP12.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP12.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP12_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP12_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA55BT/IMC-1-AP13",
+    "cardName": "アクションポイントカード(アイドルマスター シンデレラガールズ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "アイドルマスター シンデレラガールズ",
+    "product": "アイドルマスター シンデレラガールズ【UA55BT】",
+    "productCode": "UA55BT",
+    "seriesCode": "570155",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA55BT/IMC-1-AP13",
+    "uniqueId": "570155:UA55BT/IMC-1-AP13",
+    "variants": [
+      {
+        "id": "UA55BT/IMC-1-AP13",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA55BT_IMC-1-AP13.png?v8",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP13.webp"
+      },
+      {
+        "id": "UA55BT/IMC-1-AP13_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA55BT/UA55BT_IMC-1-AP13_p1.webp"
       }
     ]
   },
