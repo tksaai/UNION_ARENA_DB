@@ -89,7 +89,7 @@ def request_text(url: str, *, method: str = "GET", data: dict[str, str] | None =
 
 def product_code_from_name(product: str) -> str:
     match = re.search(r"【\s*([^】]+?)\s*】", product)
-    return clean_text(match.group(1)) if match else ""
+    return clean_text(match.group(1)) if match else clean_text(product)
 
 
 def title_from_product(product: str) -> str:
@@ -132,12 +132,29 @@ def choose_latest(series_list: list[Series]) -> Series:
     return normal[-1]
 
 
-def resolve_series(requested: str, series_list: list[Series]) -> list[Series]:
+def dynamic_series(series: Series) -> bool:
+    return series.series_code.startswith(("5708", "5709")) or any(
+        keyword in series.product for keyword in ("プロモーション", "限定商品")
+    )
+
+
+def existing_series_codes(cards: Iterable[dict[str, Any]]) -> set[str]:
+    return {clean_text(card.get("seriesCode")) for card in cards if clean_text(card.get("seriesCode"))}
+
+
+def resolve_series(requested: str, series_list: list[Series], existing: Iterable[dict[str, Any]] | None = None) -> list[Series]:
     requested = requested.strip()
     if requested.lower() == "all":
         return series_list
     if requested.lower() == "latest":
         return [choose_latest(series_list)]
+    if requested.lower() in {"updates", "new"}:
+        existing_codes = existing_series_codes(existing or [])
+        selected = [series for series in series_list if series.series_code not in existing_codes or dynamic_series(series)]
+        latest = choose_latest(series_list)
+        if latest.series_code not in {series.series_code for series in selected}:
+            selected.append(latest)
+        return list(dict.fromkeys(selected))
 
     lookup: dict[str, Series] = {}
     for series in series_list:
@@ -453,7 +470,7 @@ def merge_cards(existing: list[dict[str, Any]], updates: list[dict[str, Any]], s
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--series", default="latest", help="latest, all, series ID, product code, or comma-separated values")
+    parser.add_argument("--series", default="updates", help="updates, latest, all, series ID, product code, or comma-separated values")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--image-dir", type=Path, default=DEFAULT_IMAGE_DIR)
     parser.add_argument("--download-images", action="store_true")
@@ -467,9 +484,11 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     started = time.monotonic()
+    output = args.output.resolve()
+    existing = load_existing(output)
     index_html = request_text(CARDLIST_URL)
     available = parse_series(index_html)
-    selected = resolve_series(args.series, available)
+    selected = resolve_series(args.series, available, existing)
     print(f"Selected {len(selected)} series")
 
     updates: list[dict[str, Any]] = []
@@ -485,8 +504,6 @@ def main() -> int:
             )
         )
 
-    output = args.output.resolve()
-    existing = load_existing(output)
     merged = merge_cards(
         existing,
         updates,

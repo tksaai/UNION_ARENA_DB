@@ -8,7 +8,7 @@ UNION ARENA公式カードリストを取得し、検索・絞り込み・オフ
 - `cards.json`を生成・差分更新
 - 必要に応じてカード画像をリポジトリ内へ保存
 - GitHub PagesでカードDBを公開
-- GitHub Actionsで最新商品を自動同期
+- GitHub Actionsで新規商品・最新商品・プロモ/限定枠を自動同期
 
 ## ローカル実行
 
@@ -16,7 +16,7 @@ Python 3.11以降を使用します。
 
 ```bash
 python -m pip install -r requirements.txt
-python scripts/sync_cards.py --series latest
+python scripts/sync_cards.py --series updates
 python -m http.server 8000
 ```
 
@@ -26,6 +26,14 @@ python -m http.server 8000
 
 ```bash
 python scripts/sync_cards.py --series all
+```
+
+### 自動更新対象だけ取得
+
+`updates` は、未取得の商品、最新ブースター、プロモーションカード、限定商品収録カードを対象にします。
+
+```bash
+python scripts/sync_cards.py --series updates
 ```
 
 ### 商品を指定
@@ -43,14 +51,14 @@ python scripts/sync_cards.py --series 570154,570153
 通常は公式画像URLを `cards.json` に保持します。完全な同一オリジン配信やオフライン運用が必要な場合だけ画像保存を有効にしてください。
 
 ```bash
-python scripts/sync_cards.py --series latest --download-images
+python scripts/sync_cards.py --series updates --download-images
 ```
 
-画像は `Cards/<商品コード>/` に保存されます。
+画像は `CardsWebP/<商品コード>/` にWebP形式で保存されます。
 
 ## GitHub Actions
 
-- `Update card database`: 毎日、公式サイトの最新商品を確認して `cards.json` を更新
+- `Update card database`: 毎日、公式サイトの未取得商品・最新商品・プロモ/限定枠を確認し、変更があれば `cards.json` と `CardsWebP` を更新してGitHub Pagesへ公開
 - `Deploy GitHub Pages`: `main` ブランチ更新時に静的サイトをGitHub Pagesへ公開
 
 全商品を初回同期する場合は、Actions画面から `Update card database` を手動実行し、`series` に `all` を指定してください。
@@ -73,4 +81,3 @@ python scripts/sync_cards.py --series latest --download-images
 
 - 公式サイト: https://www.unionarena-tcg.com/jp/
 - 公式カードリスト: https://www.unionarena-tcg.com/jp/cardlist/
-

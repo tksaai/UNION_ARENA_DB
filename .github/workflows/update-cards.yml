@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       series:
-        description: "latest, all, official series ID, or product code"
+        description: "updates, latest, all, official series ID, or product code"
         required: false
-        default: "latest"
+        default: "updates"
         type: string
       download_images:
         description: "Download card images into CardsWebP"
@@ -44,7 +44,7 @@ jobs:
       - name: Synchronize official card data
         shell: bash
         run: |
-          ARGS=(--series "${{ inputs.series || 'latest' }}")
+          ARGS=(--series "${{ inputs.series || 'updates' }}")
           DOWNLOAD_IMAGES="${{ inputs.download_images }}"
           if [[ "${{ github.event_name }}" == "schedule" || "$DOWNLOAD_IMAGES" == "true" || "$DOWNLOAD_IMAGES" == "" ]]; then
             ARGS+=(--download-images)
