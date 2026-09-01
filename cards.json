@@ -341109,6 +341109,45 @@
     ]
   },
   {
+    "cardNumber": "UAPR/BLC-1-040",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【カラー】自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/BLC-1-040",
+    "uniqueId": "570901:UAPR/BLC-1-040",
+    "variants": [
+      {
+        "id": "UAPR/BLC-1-040",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-040.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_BLC-1-040.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/BLC-1-041",
     "cardName": "黒崎 一護",
     "furigana": "くろさき いちご",
@@ -341539,6 +341578,94 @@
         "parallel": true,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-034_p1.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_BLC-2-034_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/BLC-4-027",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【ターン1】自分の手札のカード名に「斬月」か「月牙」を含むカードを1枚場外に置く。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1500と「【エナジーLにある場合】自分のアタックフェイズ開始時、自分のフロントLに空きがある場合、このキャラをフロントLに移動させる。」と「このキャラはトリガーの効果で選ばれない。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/BLC-4-027",
+    "uniqueId": "570901:UAPR/BLC-4-027",
+    "variants": [
+      {
+        "id": "UAPR/BLC-4-027",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-4-027.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_BLC-4-027.webp"
+      },
+      {
+        "id": "UAPR/BLC-4-027_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-4-027_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_BLC-4-027_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/BLC-4-035",
+    "cardName": "グリムジョー・ジャガージャック",
+    "furigana": "ぐりむじょー・じゃがーじゃっく",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "破面"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/BLC-4-035",
+    "uniqueId": "570901:UAPR/BLC-4-035",
+    "variants": [
+      {
+        "id": "UAPR/BLC-4-035",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-4-035.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_BLC-4-035.webp"
       }
     ]
   },
@@ -350580,6 +350707,14 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-001.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-001.webp"
+      },
+      {
+        "id": "UAPR/KMR-P-001_p1",
+        "label": "PR / P1",
+        "rarity": "PR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-001_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-001_p1.webp"
       }
     ]
   },
@@ -350614,6 +350749,53 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-002.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-002.webp"
+      },
+      {
+        "id": "UAPR/KMR-P-002_p1",
+        "label": "PR / P1",
+        "rarity": "PR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-002_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-002_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/KMR-P-003",
+    "cardName": "仮面ライダー龍騎",
+    "furigana": "かめんらいだーりゅうき",
+    "rarity": "PR",
+    "cardType": "キャラクター",
+    "title": "仮面ライダー",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場外からカード名に「サバイブ」を含むカードを1枚まで自分の山札の上に置く。【起動メイン】【フロントLにある場合】【ターン1】自分の場にカード名に「ナイト」を含むキャラがある場合、カードを1枚引く。自分の場にレイド状態の〈仮面ライダーナイトサバイブ〉がある場合、自分の手札から〈仮面ライダー龍騎サバイブ〉を1枚までこのキャラにレイドさせる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/KMR-P-003",
+    "uniqueId": "570901:UAPR/KMR-P-003",
+    "variants": [
+      {
+        "id": "UAPR/KMR-P-003",
+        "label": "PR",
+        "rarity": "PR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-003.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-003.webp"
       }
     ]
   },
@@ -352654,6 +352836,135 @@
     ]
   },
   {
+    "cardNumber": "UAPR/MMM-2-003",
+    "cardName": "暁美 ほむら",
+    "furigana": "あけみ ほむら",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "魔法少女まどか☆マギカ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "魔法少女"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。このターン中に〈暁美 ほむら〉が既に選んだ効果は選べない。・自分の場に〈アルティメットまどか〉があり、このキャラが手札から登場していた場合、カードを1枚引く。・自分のリムーブエリアの〈アルティメットまどか〉を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MMM-2-003",
+    "uniqueId": "570901:UAPR/MMM-2-003",
+    "variants": [
+      {
+        "id": "UAPR/MMM-2-003",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-2-003.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MMM-2-003.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MMM-2-012",
+    "cardName": "悪魔ほむら",
+    "furigana": "あくまほむら",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "魔法少女まどか☆マギカ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈暁美 ほむら〉としても扱う。【起動メイン】【フロントLにある場合】【ターン1】自分の場の〈鹿目 まどか〉を1枚手札に戻す。そうした場合、自分の山札の上から2枚見て、1枚まで手札に加え、残りを場外に置く。【起動メイン】自分の場外の〈鹿目 まどか〉を必要エナジーの合計が4以上になるように望む枚数を望む順で自分の山札の下に置く。そうした場合、このキャラをアクティブにする。〈悪魔ほむら〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MMM-2-012",
+    "uniqueId": "570901:UAPR/MMM-2-012",
+    "variants": [
+      {
+        "id": "UAPR/MMM-2-012",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-2-012.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MMM-2-012.webp"
+      },
+      {
+        "id": "UAPR/MMM-2-012_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-2-012_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MMM-2-012_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MMM-2-015",
+    "cardName": "鹿目 まどか",
+    "furigana": "かなめ まどか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "魔法少女まどか☆マギカ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "魔法少女"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MMM-2-015",
+    "uniqueId": "570901:UAPR/MMM-2-015",
+    "variants": [
+      {
+        "id": "UAPR/MMM-2-015",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-2-015.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MMM-2-015.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/MMM-P-001",
     "cardName": "魔法少女まどか☆マギカ",
     "furigana": "まほうしょうじょまどか☆まぎか",
@@ -352884,6 +353195,98 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-001.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_MSS-P-001.webp"
+      },
+      {
+        "id": "UAPR/MSS-P-001_p1",
+        "label": "PR / P1",
+        "rarity": "PR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-001_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MSS-P-001_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MSS-P-002",
+    "cardName": "日万凛＆朱々",
+    "furigana": "ひまり＆しゅしゅ",
+    "rarity": "PR",
+    "cardType": "キャラクター",
+    "title": "魔都精兵のスレイブ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "魔防隊",
+      "七番組"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈東 日万凛〉としても〈駿河 朱々〉としても扱い、〈日万凛＆朱々〉として扱わない。自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【黄×2】減らす。【登場時】自分の場に［特徴：七番組］のカード名が4種類以上ある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。【アタック時】自分のフロントLに空きがある場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MSS-P-002",
+    "uniqueId": "570901:UAPR/MSS-P-002",
+    "variants": [
+      {
+        "id": "UAPR/MSS-P-002",
+        "label": "PR",
+        "rarity": "PR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-002.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MSS-P-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MSS-P-003",
+    "cardName": "出雲 天花",
+    "furigana": "いずも てんか",
+    "rarity": "PR",
+    "cardType": "キャラクター",
+    "title": "魔都精兵のスレイブ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "魔防隊",
+      "六番組"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはこのターン中に自分の効果で「1枚以上のキャラの移動」が2回以上行われている場合のみアタックできる。【自分のターン中】このキャラはBP+2000。【登場時】【エナジーLにある場合】このキャラをアクティブにする。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MSS-P-003",
+    "uniqueId": "570901:UAPR/MSS-P-003",
+    "variants": [
+      {
+        "id": "UAPR/MSS-P-003",
+        "label": "PR",
+        "rarity": "PR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-003.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MSS-P-003.webp"
       }
     ]
   },
@@ -356890,6 +357293,92 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-001.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_TKG-P-001.webp"
+      },
+      {
+        "id": "UAPR/TKG-P-001_p1",
+        "label": "PR / P1",
+        "rarity": "PR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-001_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TKG-P-001_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/TKG-P-002",
+    "cardName": "霧嶋 董香",
+    "furigana": "きりしま とうか",
+    "rarity": "PR",
+    "cardType": "キャラクター",
+    "title": "東京喰種トーキョーグール",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【ターン1】必要エナジーが4以下の自分のフロントLのアクティブの〈金木 研〉を1枚レストにする。そうした場合、レストにした〈金木 研〉のBP以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/TKG-P-002",
+    "uniqueId": "570901:UAPR/TKG-P-002",
+    "variants": [
+      {
+        "id": "UAPR/TKG-P-002",
+        "label": "PR",
+        "rarity": "PR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-002.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TKG-P-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/TKG-P-003",
+    "cardName": "霧嶋 絢都",
+    "furigana": "きりしま あやと",
+    "rarity": "PR",
+    "cardType": "キャラクター",
+    "title": "東京喰種トーキョーグール",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "自分のライフが3以下の場合、このキャラはBP+2000。【登場時】自分の山札の上から2枚見て、特徴に「CCG」を持たない赤の〔キャラカードかフィールドカード〕を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置くか、自分のライフを1枚手札に加える。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/TKG-P-003",
+    "uniqueId": "570901:UAPR/TKG-P-003",
+    "variants": [
+      {
+        "id": "UAPR/TKG-P-003",
+        "label": "PR",
+        "rarity": "PR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-003.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TKG-P-003.webp"
       }
     ]
   },
@@ -358643,6 +359132,96 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TTG-1-015.png?v8",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_TTG-1-015.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/TTG-1-052",
+    "cardName": "シモン",
+    "furigana": "しもん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "天元突破グレンラガン",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "大グレン団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが2以下の赤のカードを1枚まで手札に加える。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/TTG-1-052",
+    "uniqueId": "570901:UAPR/TTG-1-052",
+    "variants": [
+      {
+        "id": "UAPR/TTG-1-052",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TTG-1-052.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TTG-1-052.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/TTG-1-056",
+    "cardName": "シモン",
+    "furigana": "しもん",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "天元突破グレンラガン",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "大グレン団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラは自分の場に〈ニア〉があり、自分の山札が20枚以下の場合のみアタックできる。このキャラのアタック終了時、自分の手札から赤の〔〈ラガン〉か〈グレンラガン〉〕を1枚このキャラにレイドさせてもよい。そうした場合、レイドしたキャラはこのターン中、BP+1000。この効果では、このターン中にレイドしたキャラと同じカード名のカードをレイドさせることはできない。【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/TTG-1-056",
+    "uniqueId": "570901:UAPR/TTG-1-056",
+    "variants": [
+      {
+        "id": "UAPR/TTG-1-056",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TTG-1-056.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TTG-1-056.webp"
+      },
+      {
+        "id": "UAPR/TTG-1-056_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TTG-1-056_p1.png?v8",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_TTG-1-056_p1.webp"
       }
     ]
   },
