@@ -51000,6 +51000,3972 @@
     ]
   },
   {
+    "cardNumber": "EX15BT/BLC-4-001",
+    "cardName": "バズ",
+    "furigana": "ばず",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈バズビー〉としても扱う。【登場時】自分の山札の上から3枚見て、〈バズビー〉か〈ユーグラム・ハッシュヴァルト〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-001",
+    "uniqueId": "570215:EX15BT/BLC-4-001",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-001",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-001.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-001.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-002",
+    "cardName": "ユーゴー",
+    "furigana": "ゆーごー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈ユーグラム・ハッシュヴァルト〉としても扱う。【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-002",
+    "uniqueId": "570215:EX15BT/BLC-4-002",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-002",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-002.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-003",
+    "cardName": "アスキン・ナックルヴァール",
+    "furigana": "あすきん なっくるゔぁーる",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【黄×2】減らす。【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【退場時】自分のターン中の場合、BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-003",
+    "uniqueId": "570215:EX15BT/BLC-4-003",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-003",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-003.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-003.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-003_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-003_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-004",
+    "cardName": "石田 雨竜",
+    "furigana": "いしだ うりゅう",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【APを1支払う】このカードが自分の手札にある場合のみ発動できる。自分のリムーブエリアの〈黒崎 一護〉を4枚以上場外に置く。そうした場合、このカードを自分のフロントLにアクティブで登場させる。〈石田 雨竜〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-004",
+    "uniqueId": "570215:EX15BT/BLC-4-004",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-004",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-004.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-004.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-004_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-004_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-004_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-004_p2.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-004_p3",
+        "label": "SR★★★ / P3",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-004_p3.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2302",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の手札に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-005",
+    "cardName": "ジェラルド・ヴァルキリー",
+    "furigana": "じぇらるど ゔぁるきりー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】以下から1つまで選ぶ。・自分のライフを1枚手札に加える。そうした場合、このカードを自分の場にレストで登場させる。・自分の手札を2枚場外に置く。そうした場合、このカードを手札に加える。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-005",
+    "uniqueId": "570215:EX15BT/BLC-4-005",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-005",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-005.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-005.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2303",
+        "updatedAt": "2026.09.04",
+        "question": "「自分のライフを1枚手札に加えてもよい。」でカードを手札に加える際に公開しますか。またトリガーチェックはしますか？",
+        "answer": "いいえ、公開せず手札に加えます。トリガーチェックもしません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2304",
+        "updatedAt": "2026.09.04",
+        "question": "「自分のライフを1枚手札に加える。」の効果で自分のライフが0枚になった場合、敗北しますか？",
+        "answer": "はい、このカードの効果を処理した後に敗北します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-006",
+    "cardName": "バズビー",
+    "furigana": "ばずびー",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【自分のターン中】自分の場外に〈ユーハバッハ〉がなく、自分の場に〈ユーグラム・ハッシュヴァルト〉がある場合、このキャラはBP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-006",
+    "uniqueId": "570215:EX15BT/BLC-4-006",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-006",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-006.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-006.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-007",
+    "cardName": "バズビー",
+    "furigana": "ばずびー",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】自分の場外に〈ユーハバッハ〉がなく、このキャラの必要エナジーが5以上の場合のみ発動できる。このキャラをアクティブにする。〈バズビー〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-007",
+    "uniqueId": "570215:EX15BT/BLC-4-007",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-007",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-007.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-007.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2305",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-008",
+    "cardName": "バズビー",
+    "furigana": "ばずびー",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場外に〈ユーハバッハ〉がない場合、自分の場の他の〈バズビー〉を1枚退場させてもよい。そうした場合、退場させたキャラの必要エナジーの数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させ、このキャラをアクティブにする。この効果で必要エナジーが5以上の自分のキャラを退場させた場合、このキャラはこのターン中、【インパクト（1）】を得る。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-008",
+    "uniqueId": "570215:EX15BT/BLC-4-008",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-008",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-008.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-008.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-008_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-008_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-009",
+    "cardName": "バンビエッタ・バスターバイン",
+    "furigana": "ばんびえった ばすたーばいん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-009",
+    "uniqueId": "570215:EX15BT/BLC-4-009",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-009",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-009.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-009.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-010",
+    "cardName": "ペルニダ・パルンカジャス",
+    "furigana": "ぺるにだ ぱるんかじゃす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【手札を1枚場外に置く】【ターン1】自分の場に〈ユーハバッハ〉がある場合のみ発動できる。BP1500以上の相手の場のキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-010",
+    "uniqueId": "570215:EX15BT/BLC-4-010",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-010",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-010.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-010.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-011",
+    "cardName": "ユーグラム・ハッシュヴァルト",
+    "furigana": "ゆーぐらむ はっしゅゔぁると",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。自分の場の他のキャラを1枚選び、このターン中、必要エナジーを2増やす。",
+    "trigger": "【カラー】相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-011",
+    "uniqueId": "570215:EX15BT/BLC-4-011",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-011",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-011.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-011.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-012",
+    "cardName": "ユーグラム・ハッシュヴァルト",
+    "furigana": "ゆーぐらむ はっしゅゔぁると",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈ユーグラム・ハッシュヴァルト〉アクティブにし、フロントLに移動できる【フロントLにある場合】自分の場の他のキャラが退場した時、カードを1枚まで引く。〈ユーグラム・ハッシュヴァルト〉のこの効果は1ターンに1回のみ発動できる。【自分のターン中】【フロントLにある場合】自分の場の他のキャラ全ての必要エナジーを2増やす。【登場時】自分の場のカードに「星十字騎士団」以外の特徴がない場合、自分の手札から必要エナジーが2以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-012",
+    "uniqueId": "570215:EX15BT/BLC-4-012",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-012",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-012.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-012.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-012_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-012_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2306",
+        "updatedAt": "2026.09.04",
+        "question": "自分の場に特徴を持たないカードがあった場合、「自分の場のカードに「星十字騎士団」以外の特徴がない場合」を満たしますか？",
+        "answer": "はい、満たします。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2307",
+        "updatedAt": "2026.09.04",
+        "question": "レイド状態のこのカードが自分の場に2枚ある場合、このカードの「＃フロントLにある場合＃自分の場の他のキャラが退場した時、カードを1枚まで引く。」を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-013",
+    "cardName": "ユーハバッハ",
+    "furigana": "ゆーはばっは",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-013",
+    "uniqueId": "570215:EX15BT/BLC-4-013",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-013",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-013.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-013.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-014",
+    "cardName": "ユーハバッハ",
+    "furigana": "ゆーはばっは",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【黄】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-014",
+    "uniqueId": "570215:EX15BT/BLC-4-014",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-014",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-014.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-014.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-015",
+    "cardName": "ユーハバッハ",
+    "furigana": "ゆーはばっは",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードが場外に置かれた時、このカードを場外から自分の山札の下に置く。【起動メイン】【フロントLにある場合】【ターン1】自分の場の他のキャラを1枚退場させる。そうした場合、このキャラをアクティブにし、自分の山札の上から3枚見て、1枚手札に加える。残りを望む順で山札の下に置く。この効果で必要エナジーが4以上の自分のキャラを退場させた場合、このキャラは次の自分のターン開始時まで、BP+1000。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-015",
+    "uniqueId": "570215:EX15BT/BLC-4-015",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-015",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-015.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-015.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-015_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-015_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-016",
+    "cardName": "リジェ・バロ",
+    "furigana": "りじぇ ばろ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "星十字騎士団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄+",
+        "count": 4
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。自分の場の他のキャラを1枚退場させる。そうした場合、このキャラは次の自分のターン開始時まで、発生エナジー+【黄】され、以下から1つ選ぶ。・カードを1枚引く。・BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-016",
+    "uniqueId": "570215:EX15BT/BLC-4-016",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-016",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-016.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-016.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-017",
+    "cardName": "ジゼル・ジュエル",
+    "furigana": "じぜる じゅえる",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "星十字騎士団",
+      "バンビーズ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【起動メイン】【レストにする】【このカードを退場させる】自分の場の［特徴：ゾンビ］を1枚選び、このターン中、【2回アタック】（このキャラがこのターン初めてアタックした時、アクティブにする）を与える。〈ジゼル・ジュエル〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-017",
+    "uniqueId": "570215:EX15BT/BLC-4-017",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-017",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-017.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-017.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-017_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-017_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2308",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-018",
+    "cardName": "リルトット・ランパード",
+    "furigana": "りるとっと らんぱーど",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "星十字騎士団",
+      "バンビーズ"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】自分のターン中の場合、以下から1つ選ぶ。・自分の場の他の［特徴：バンビーズ］か〈バンビエッタ・バスターバイン〉を1枚まで選び、アクティブにする。・自分の場の他の［特徴：バンビーズ］か〈バンビエッタ・バスターバイン〉を1枚まで選び、次の自分のターン開始時まで、「このキャラは相手の効果で選ばれない。」を与える。BP1000以上の相手のフロントLのキャラ全ては、このターン中、BP-500。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-018",
+    "uniqueId": "570215:EX15BT/BLC-4-018",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-018",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-018.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-018.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2309",
+        "updatedAt": "2026.09.04",
+        "question": "「相手の効果で選ばれない。」の「効果で選ばれない。」とはどういうことですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で選ぶことができないということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-019",
+    "cardName": "滅却師完聖体",
+    "furigana": "くいんしー ふぉるしゅてんでぃっひ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-019",
+    "uniqueId": "570215:EX15BT/BLC-4-019",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-019",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-019.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-019.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-020",
+    "cardName": "最強の滅却師になろうぜ",
+    "furigana": "さいきょうのくいんしーになろうぜ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-020",
+    "uniqueId": "570215:EX15BT/BLC-4-020",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-020",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-020.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-020.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-021",
+    "cardName": "バーニング・フル・フィンガーズ",
+    "furigana": "ばーにんぐ ふる ふぃんがーず",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈バズビー〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に必要エナジーが5以上の〈バズビー〉がある場合、自分の場の〈バズビー〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-021",
+    "uniqueId": "570215:EX15BT/BLC-4-021",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-021",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-021.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-021.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-022",
+    "cardName": "井上 織姫",
+    "furigana": "いのうえ おりひめ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはアクティブで登場させる。【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが1以下の青のキャラカードを1枚まで手札に加えるか自分の場にレストで登場させる。【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。自分の場のキャラを1枚選び、次の自分のターン開始時まで、「このキャラは相手の効果で選ばれない。」を与える。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-022",
+    "uniqueId": "570215:EX15BT/BLC-4-022",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-022",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-022.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-022.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-022_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-022_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-022_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-022_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2310",
+        "updatedAt": "2026.09.04",
+        "question": "【登場時】で場外に置いた自分の手札が、必要エナジーが1以下の青のキャラカードだった場合、そのカードを手札に加えるか自分の場にレストで登場させることはできますか？",
+        "answer": "はい、手札に加えるか自分の場にレストで登場させられます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2311",
+        "updatedAt": "2026.09.04",
+        "question": "「相手の効果で選ばれない。」の「効果で選ばれない。」とはどういうことですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で選ぶことができないということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-023",
+    "cardName": "浦原 喜助",
+    "furigana": "うらはら きすけ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-023",
+    "uniqueId": "570215:EX15BT/BLC-4-023",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-023",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-023.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-023.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-024",
+    "cardName": "浦原 喜助",
+    "furigana": "うらはら きすけ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の特徴を持たない他のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-024",
+    "uniqueId": "570215:EX15BT/BLC-4-024",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-024",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-024.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-024.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2312",
+        "updatedAt": "2026.09.04",
+        "question": "移動させる時にそのラインに空きがない場合どうなりますか？",
+        "answer": "移動させる時にそのラインに空きがない場合、カードを1枚選んでリムーブエリアに置いてから移動させます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-025",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【手札を1枚場外に置く】【ターン1】カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-025",
+    "uniqueId": "570215:EX15BT/BLC-4-025",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-025",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-025.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-025.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-026",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-026",
+    "uniqueId": "570215:EX15BT/BLC-4-026",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-026",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-026.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-026.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-027",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【ターン1】自分の手札のカード名に「斬月」か「月牙」を含むカードを1枚場外に置く。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1500と「【エナジーLにある場合】自分のアタックフェイズ開始時、自分のフロントLに空きがある場合、このキャラをフロントLに移動させる。」と「このキャラはトリガーの効果で選ばれない。」を得る。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-027",
+    "uniqueId": "570215:EX15BT/BLC-4-027",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-027",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-027.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-027.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-027_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-027_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-027_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-027_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2313",
+        "updatedAt": "2026.09.04",
+        "question": "「トリガーの効果で選ばれない。」の「効果で選ばれない。」とはどういうことですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で選ぶことができないということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-028",
+    "cardName": "茶渡 泰虎",
+    "furigana": "さど やすとら",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラは次の自分のターン開始時まで、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-028",
+    "uniqueId": "570215:EX15BT/BLC-4-028",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-028",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-028.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-028.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-029",
+    "cardName": "志波 岩鷲",
+    "furigana": "しば がんじゅ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはBP2000以下のキャラにブロックされない。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-029",
+    "uniqueId": "570215:EX15BT/BLC-4-029",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-029",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-029.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-029.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-030",
+    "cardName": "四楓院 夜一",
+    "furigana": "しほういん よるいち",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の山札の上から1枚見て、山札の上か下に置き、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-030",
+    "uniqueId": "570215:EX15BT/BLC-4-030",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-030",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-030.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-030.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-031",
+    "cardName": "四楓院 夜一",
+    "furigana": "しほういん よるいち",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】このキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-031",
+    "uniqueId": "570215:EX15BT/BLC-4-031",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-031",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-031.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-031.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-032",
+    "cardName": "四楓院 夜一",
+    "furigana": "しほういん よるいち",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に〈黒崎 一護〉か〈浦原 喜助〉がある場合、このキャラはBP+1000。【エナジーLにある場合】【ターン1】自分のキャラのアタック終了時、このターン中にアタックしていない自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-032",
+    "uniqueId": "570215:EX15BT/BLC-4-032",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-032",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-032.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-032.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2314",
+        "updatedAt": "2026.09.04",
+        "question": "「自分のキャラのアタック終了時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "バトルを行った場合はバトル終了後、プレイヤーにダメージを与えた場合はトリガーチェック終了後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-033",
+    "cardName": "四楓院 夜一",
+    "furigana": "しほういん よるいち",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈四楓院 夜一〉アクティブにし、フロントLに移動できる【登場時】自分の場の特徴を持たない他のキャラを1枚まで選び、アクティブにする。【退場時】自分の場に〈浦原 喜助〉がある場合、このキャラのレイド元を1枚まで自分の場にレストで登場させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-033",
+    "uniqueId": "570215:EX15BT/BLC-4-033",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-033",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-033.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-033.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-033_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-033_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-033_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-033_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-034",
+    "cardName": "毒ヶ峰 リルカ",
+    "furigana": "どくがみね りるか",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の〈黒崎 一護〉の効果で自分の手札を場外に置いた時、このキャラの下に裏向きのカードがない場合、アクティブのこのキャラをレストにしてもよい。そうした場合、その〈黒崎 一護〉の効果で場外に置いたカードを1枚まで裏向きでこのキャラの下に置く。【登場時】【エナジーLにある場合】このキャラをアクティブにする。【起動メイン】【レストにする】【このカードを退場させる】このキャラの下の裏向きのカードを1枚まで手札に加える。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-034",
+    "uniqueId": "570215:EX15BT/BLC-4-034",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-034",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-034.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-034.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-034_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-034_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2315",
+        "updatedAt": "2026.09.04",
+        "question": "自分の〈黒崎 一護〉の効果で〈その名は斬月〉（BLC-2-047）を場外に置き、このキャラの効果でその場外に置いた〈その名は斬月〉をこのカードの下に裏向きで置いた場合、〈その名は斬月〉の「自分の場の青の〈黒崎 一護〉の効果でこのカードが自分の手札から場外に置かれた時、カードを1枚引く。」の効果で、カードを1枚引くことはできますか？",
+        "answer": "はい、できます。\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2316",
+        "updatedAt": "2026.09.04",
+        "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
+        "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-035",
+    "cardName": "グリムジョー・ジャガージャック",
+    "furigana": "ぐりむじょー じゃがーじゃっく",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "破面"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-035",
+    "uniqueId": "570215:EX15BT/BLC-4-035",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-035",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-035.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-035.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-036",
+    "cardName": "グリムジョー・ジャガージャック",
+    "furigana": "ぐりむじょー じゃがーじゃっく",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 6,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "破面"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の〈黒崎 一護〉か〈浦原 喜助〉の効果でこのカードが自分の手札から場外に置かれた時、自分の青のエナジーが4以上あり、自分の場のカードに「破面」以外の特徴がない場合、APを1支払ってもよい。そうした場合、このカードを自分の場にアクティブで登場させる。〈グリムジョー・ジャガージャック〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-036",
+    "uniqueId": "570215:EX15BT/BLC-4-036",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-036",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-036.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-036.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-036_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-036_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-036_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-036_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2317",
+        "updatedAt": "2026.09.04",
+        "question": "自分の場に特徴を持たないカードがあった場合、「自分の場のカードに「破面」以外の特徴がない場合」を満たしますか？",
+        "answer": "はい、満たします。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2318",
+        "updatedAt": "2026.09.04",
+        "question": "このカードの条件を満たし、「このカードを自分の場にアクティブで登場させる。」を発動させた後、同じターンに再びこのカードの条件を満たした場合、2枚目のこのカードの「このカードを自分の場にアクティブで登場させる。」を発動できますか？",
+        "answer": "いいえ、2枚目に手札から場外に置かれたこのカードは「このカードを自分の場にアクティブで登場させる。」をすることはできません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-037",
+    "cardName": "ネリエル・トゥ・オーデルシュヴァンク",
+    "furigana": "ねりえる とぅ おーでるしゅゔぁんく",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "破面"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。【起動メイン】【APを1支払う】【ターン1】このキャラの【登場時】を発動する。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-037",
+    "uniqueId": "570215:EX15BT/BLC-4-037",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-037",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-037.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-037.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-037_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-037_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-038",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分のフロントLに元々の消費APが2以上のキャラがある場合、このキャラはBP+1500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-038",
+    "uniqueId": "570215:EX15BT/BLC-4-038",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-038",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-038.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-038.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2319",
+        "updatedAt": "2026.09.04",
+        "question": "「元々の消費AP」とは何ですか？",
+        "answer": "そのカードに記載されている消費APです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-039",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】【エナジーLにある場合】自分のフロントLに元々の消費APが2以上のキャラがある場合、このキャラをアクティブにする。【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。選んだキャラの元々の消費APが2以上の場合、自分の手札を1枚場外に置いてもよい。そうした場合、そのキャラをアクティブにする。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-039",
+    "uniqueId": "570215:EX15BT/BLC-4-039",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-039",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-039.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-039.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2320",
+        "updatedAt": "2026.09.04",
+        "question": "「元々の消費AP」とは何ですか？",
+        "answer": "そのカードに記載されている消費APです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-040",
+    "cardName": "涅 ネム",
+    "furigana": "くろつち ねむ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-040",
+    "uniqueId": "570215:EX15BT/BLC-4-040",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-040",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-040.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-040.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-041",
+    "cardName": "涅 ネム",
+    "furigana": "くろつち ねむ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 5000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分のターン開始時、このキャラを退場させる。【登場時】自分のフロントLに〈涅 マユリ〉がある場合、自分の場の他のキャラを1枚退場させてもよい。そうした場合、このキャラをアクティブにし、このキャラはこのターン中、「相手はこのキャラのアタックを可能ならブロックしなければならない。」と【インパクト（1）】を得る。【退場時】このカードをリムーブエリアに置く。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-041",
+    "uniqueId": "570215:EX15BT/BLC-4-041",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-041",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-041.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-041.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-041_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-041_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2321",
+        "updatedAt": "2026.09.04",
+        "question": "この【登場時】で〈涅 マユリ〉を退場させることはできますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2322",
+        "updatedAt": "2026.09.04",
+        "question": "「相手はこのキャラのアタックを可能ならブロックしなければならない。」を得たキャラクターがアタックした時の相手の処理を教えてください。",
+        "answer": "ブロックが可能なキャラクターを1体指定し、ブロックをしてください。ブロックをできるキャラクターがいない場合は、ダメージを受けます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-042",
+    "cardName": "涅 マユリ",
+    "furigana": "くろつち まゆり",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・自分の山札の上から2枚見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。・自分の手札を2枚場外に置いてもよい。そうした場合、自分の場外から〈涅 マユリ〉か〈涅 ネム〉を1枚まで手札に加える。・自分の場の他のキャラを1枚退場させてもよい。そうした場合、自分の手札から青の〈涅骸部隊〉を1枚まで自分のエナジーLにアクティブで登場させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-042",
+    "uniqueId": "570215:EX15BT/BLC-4-042",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-042",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-042.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-042.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-042_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-042_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2323",
+        "updatedAt": "2026.09.04",
+        "question": "「自分の場の他のキャラを1枚退場させてもよい。そうした場合、自分の手札から青の〈涅骸部隊〉を1枚まで自分のエナジーLにアクティブで登場させる。」ではカード名が「涅骸部隊」ではなく、特徴が「涅骸部隊」のカードを登場させられますか？",
+        "answer": "いいえ、登場させられません。カード名が「涅骸部隊」である青のカードを登場させられます。\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-043",
+    "cardName": "眠七號",
+    "furigana": "ねむりななごう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈涅 ネム〉としても扱う。【登場時】自分の山札の上から2枚見て、青の〔〈涅 マユリ〉か〈涅 ネム〉か［特徴：涅骸部隊］〕を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-043",
+    "uniqueId": "570215:EX15BT/BLC-4-043",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-043",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-043.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-043.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-044",
+    "cardName": "瞬閧・雷神戦形",
+    "furigana": "しゅんこう らいじんせんけい",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場の〈四楓院 夜一〉を1枚選び、このターン中、BP+2000と「このターン中にこのキャラが1回目のアタックをする際、そのアタック終了時まで、【インパクト（1）】と【狙い撃ち】（相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を得る。」を与える。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-044",
+    "uniqueId": "570215:EX15BT/BLC-4-044",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-044",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-044.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-044.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-045",
+    "cardName": "瞬神",
+    "furigana": "しゅんしん",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-045",
+    "uniqueId": "570215:EX15BT/BLC-4-045",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-045",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-045.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-045.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-046",
+    "cardName": "井上 織姫",
+    "furigana": "いのうえ おりひめ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の紫の〈黒崎 一護〉を1枚まで選び、このターン中、BP+1500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-046",
+    "uniqueId": "570215:EX15BT/BLC-4-046",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-046",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-046.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-046.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-047",
+    "cardName": "コン",
+    "furigana": "こん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【このカードを退場させる】自分の場外から必要エナジーが0の紫の〈黒崎 一護〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-047",
+    "uniqueId": "570215:EX15BT/BLC-4-047",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-047",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-047.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-047.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-048",
+    "cardName": "阿散井 恋次",
+    "furigana": "あばらい れんじ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、紫の〔〈阿散井 恋次〉か〈朽木 ルキア〉〕を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-048",
+    "uniqueId": "570215:EX15BT/BLC-4-048",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-048",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-048.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-048.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-049",
+    "cardName": "阿散井 恋次",
+    "furigana": "あばらい れんじ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "このターン中に自分の紫のカードの効果でAPを支払っている場合、このキャラはBP+2000。【起動メイン】【フロントLにある場合】【APを1支払う】【ターン1】自分の場に〈朽木 ルキア〉がある場合のみ発動できる。以下から1つ選ぶ。・カードを1枚引く。・このキャラをアクティブにする。相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-049",
+    "uniqueId": "570215:EX15BT/BLC-4-049",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-049",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-049.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-049.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-050",
+    "cardName": "阿散井 恋次",
+    "furigana": "あばらい れんじ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "このターン中に自分の紫のカードの効果でAPを支払っている場合、このカードを手札からレイドする際、消費APを-1する。このターン中に他の〈阿散井 恋次〉をAPを支払わずに手札から使用しているなら、この効果は無効になる。【レイド】〈阿散井 恋次〉アクティブにし、フロントLに移動できる【起動メイン】【フロントLにある場合】【ターン1】以下から1つ選ぶ。・このキャラはこのターン中、【インパクト（1）】を得る。・相手のフロントLのキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-050",
+    "uniqueId": "570215:EX15BT/BLC-4-050",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-050",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-050.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-050.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-050_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-050_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-051",
+    "cardName": "朽木 白哉",
+    "furigana": "くちき びゃくや",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・相手のフロントLに元々のBPよりBPが低いキャラがある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-051",
+    "uniqueId": "570215:EX15BT/BLC-4-051",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-051",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-051.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-051.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2324",
+        "updatedAt": "2026.09.04",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-052",
+    "cardName": "朽木 白哉",
+    "furigana": "くちき びゃくや",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "相手のフロントLに元々のBPよりBPが低いキャラがある場合、このキャラはBP+1500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-052",
+    "uniqueId": "570215:EX15BT/BLC-4-052",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-052",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-052.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-052.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2325",
+        "updatedAt": "2026.09.04",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-053",
+    "cardName": "朽木 白哉",
+    "furigana": "くちき びゃくや",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈朽木 白哉〉アクティブにし、フロントLに移動できるこのキャラがアタックしてバトルに勝利した時、このキャラをアクティブにする。〈朽木 白哉〉のこの効果は1ターンに1回のみ発動する。【自分のターン中】相手のフロントLに元々のBPよりBPが低いキャラが3枚以上ある場合、このキャラは【ダメージ（2）】を得る。【登場時】相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-053",
+    "uniqueId": "570215:EX15BT/BLC-4-053",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-053",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-053.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-053.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-053_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-053_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2326",
+        "updatedAt": "2026.09.04",
+        "question": "「アタックしてバトルに勝利した時」とはどういうことですか？",
+        "answer": "自分のキャラクターがアタックをして相手のキャラクターとバトルをし、アタックをした自分のキャラクターのBPが相手のキャラクターのBP以上だった時を指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2327",
+        "updatedAt": "2026.09.04",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-054",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場に〈阿散井 恋次〉がある場合、APを1支払ってもよい。そうした場合、カードを1枚引き、自分の手札から必要エナジーを満たし消費APが1の〔〈阿散井 恋次〉か〈朽木 ルキア〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "【カラー】自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-054",
+    "uniqueId": "570215:EX15BT/BLC-4-054",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-054",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-054.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-054.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-055",
+    "cardName": "兵主部 一兵衛",
+    "furigana": "ひょうすべ いちべえ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "零番隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚リムーブエリアに置いてもよい。そうした場合、以下から1つ選ぶ。・このターン中、次に手札から使用する［特徴：零番隊］か〈霊王宮〉の消費APを-1する。・自分の場の他の［特徴：零番隊］を2枚まで選び、このターン中、BP+2000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-055",
+    "uniqueId": "570215:EX15BT/BLC-4-055",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-055",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-055.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-055.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2328",
+        "updatedAt": "2026.09.04",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-056",
+    "cardName": "兵主部 一兵衛",
+    "furigana": "ひょうすべ いちべえ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [
+      "零番隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引く。自分の手札の［特徴：零番隊］を1枚リムーブエリアに置いてもよい。そうした場合、このキャラをアクティブにする。【退場時】このカードをリムーブエリアに置く。自分の手札から必要エナジーが『0』以下で消費APが1の紫の〔〈黒崎 一護〉か〈霊王宮〉か［特徴：零番隊］〕を1枚まで自分の場にレストで登場させる。自分のリムーブエリアにある異なるカード名を持つ［特徴：零番隊］1種類につき、この効果で登場させるキャラの必要エナジーの範囲+1。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-056",
+    "uniqueId": "570215:EX15BT/BLC-4-056",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-056",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-056.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-056.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-057",
+    "cardName": "“真打”『しら筆一文字』",
+    "furigana": "しんうち しらふでいちもんじ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "相手のフロントLのキャラを1枚まで選び、次の自分のターン開始時まで、「このキャラは元々の効果を全て失い、アタックもブロックもできない。」を与える。自分の場かリムーブエリアに〈兵主部 一兵衛〉がある場合、カードを2枚引き、自分の手札を1枚リムーブエリアに置く。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-057",
+    "uniqueId": "570215:EX15BT/BLC-4-057",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-057",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-057.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-057.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2329",
+        "updatedAt": "2026.09.04",
+        "question": "「元々の効果」とは何ですか？",
+        "answer": "そのカードに記載されている効果です。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2330",
+        "updatedAt": "2026.09.04",
+        "question": "このカードの効果でレイド状態の相手のキャラの元々の効果を全て失わせました。レイド状態は維持されますか？",
+        "answer": "はい、レイド状態は維持されます。また、レイドによって囲まれている部分は無効になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2331",
+        "updatedAt": "2026.09.04",
+        "question": "他のカードの効果によって2回ブロックを得ているキャラクターにこのカードの効果で元々の効果を失わせた場合、2回ブロックを失いますか？",
+        "answer": "いいえ、他のカードによって得た効果は失いません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2332",
+        "updatedAt": "2026.09.04",
+        "question": "「元々の効果を全て失わせる。」を受けたキャラは、自身や他のカードの効果によって既に得ていた効果を失いますか？\n・自身の効果の例：CGH-1-059 ランスロット「【登場時】このキャラは、次の自分のターン開始時まで、BP+1000。」\n・他のカードの効果の例：CGH-1-015ルルーシュ・ランペルージ「【登場時】自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。」",
+        "answer": "いいえ、失いません。そのカードが元々持っている常時参照する効果は、有効になっていたとしても失います。\n・常時参照する効果の例：CGH-1-054ギルバート・G・P・ギルフォード「【自分のターン中】自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。」\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2333",
+        "updatedAt": "2026.09.04",
+        "question": "【退場時】や「このキャラがレイドされた時」や「このキャラが自分の場から手札に戻った時」等の「場ではない場所で発動する効果」は\n「元々の効果を失う」効果を受けた場合、発動しますか？",
+        "answer": "それが元々持っている効果の場合、発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-058",
+    "cardName": "双王蛇尾丸",
+    "furigana": "そうおうざびまる",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈阿散井 恋次〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。このターン中に、自分の紫のカードの効果でAPを支払っている場合、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-058",
+    "uniqueId": "570215:EX15BT/BLC-4-058",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-058",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-058.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-058.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-059",
+    "cardName": "卍解",
+    "furigana": "ばんかい",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-059",
+    "uniqueId": "570215:EX15BT/BLC-4-059",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-059",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-059.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-059.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-059_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-059_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-060",
+    "cardName": "藍染 惣右介",
+    "furigana": "あいぜん そうすけ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードはフロントLに登場できず、自分の効果以外でフロントLに移動できない。【登場時】自分の場の〈藍染 惣右介〉以外のキャラを1枚まで選び、別のラインに移動させる。【起動メイン】【エナジーLにある場合】自分のフロントLのアクティブのキャラを2枚レストにする。そうした場合、このキャラをフロントLに移動させる。【アタック時】カードを1枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-060",
+    "uniqueId": "570215:EX15BT/BLC-4-060",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-060",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-060.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-060.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-060_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-060_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2334",
+        "updatedAt": "2026.09.04",
+        "question": "移動させる時にそのラインに空きがない場合どうなりますか？",
+        "answer": "移動させる時にそのラインに空きがない場合、カードを1枚選んでリムーブエリアに置いてから移動させます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-061",
+    "cardName": "猿柿 ひよ里",
+    "furigana": "さるがき ひより",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "仮面の軍勢"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-061",
+    "uniqueId": "570215:EX15BT/BLC-4-061",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-061",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-061.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-061.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-062",
+    "cardName": "矢胴丸 リサ",
+    "furigana": "やどうまる りさ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "仮面の軍勢"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-062",
+    "uniqueId": "570215:EX15BT/BLC-4-062",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-062",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-062.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-062.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-063",
+    "cardName": "綾瀬川 弓親",
+    "furigana": "あやせがわ ゆみちか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚まで選び、このターン中、『BP+1000』。この効果で選んだキャラが〈更木 剣八〉か〈草鹿 やちる〉か〈斑目 一角〉か〈綾瀬川 弓親〉の場合、『BP+2000』に代わる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-063",
+    "uniqueId": "570215:EX15BT/BLC-4-063",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-063",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-063.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-063.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-064",
+    "cardName": "伊勢 七緒",
+    "furigana": "いせ ななお",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、緑のイベントカードか緑のフィールドカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-064",
+    "uniqueId": "570215:EX15BT/BLC-4-064",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-064",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-064.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-064.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-065",
+    "cardName": "伊勢 七緒",
+    "furigana": "いせ ななお",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【自分のターン中】自分のエナジーLに〈京楽 春水〉がある場合、このキャラはBP+1500。【起動メイン】このターン中に自分が〈神剣・八鏡剣〉を使用している場合のみ発動できる。このキャラをアクティブにする。〈伊勢 七緒〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-065",
+    "uniqueId": "570215:EX15BT/BLC-4-065",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-065",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-065.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-065.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-065_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-065_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2335",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-066",
+    "cardName": "卯ノ花 烈",
+    "furigana": "うのはな れつ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の山札の上から1枚見て、山札の上か下に置き、カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-066",
+    "uniqueId": "570215:EX15BT/BLC-4-066",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-066",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-066.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-066.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-067",
+    "cardName": "京楽 春水",
+    "furigana": "きょうらく しゅんすい",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-067",
+    "uniqueId": "570215:EX15BT/BLC-4-067",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-067",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-067.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-067.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-068",
+    "cardName": "京楽 春水",
+    "furigana": "きょうらく しゅんすい",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】【フロントLにある場合】【APを1支払う】このキャラがレストの場合のみ発動できる。このキャラをアクティブにし、相手のフロントLのキャラを1枚まで選び、レストにする。〈京楽 春水〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-068",
+    "uniqueId": "570215:EX15BT/BLC-4-068",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-068",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-068.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-068.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2336",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-069",
+    "cardName": "京楽 春水",
+    "furigana": "きょうらく しゅんすい",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈京楽 春水〉アクティブにし、フロントLに移動できるこのキャラのアタック終了時、自分の場外に緑の〔イベントカードとフィールドカード〕のカード名が合計4種類以上ある場合、自分のエナジーLのキャラを1枚まで選び、このキャラと位置を入れ替える。【登場時】このターン中、次に手札から使用する［特徴：花天狂骨］の消費APを-1する。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-069",
+    "uniqueId": "570215:EX15BT/BLC-4-069",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-069",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-069.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-069.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-069_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-069_p1.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-069_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-069_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2337",
+        "updatedAt": "2026.09.04",
+        "question": "「このキャラのアタック終了時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "バトルを行った場合はバトル終了後、プレイヤーにダメージを与えた場合はトリガーチェック終了後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2338",
+        "updatedAt": "2026.09.04",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-070",
+    "cardName": "更木 剣八",
+    "furigana": "ざらき けんぱち",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）このキャラは相手のアタックを可能ならブロックしなければならない。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-070",
+    "uniqueId": "570215:EX15BT/BLC-4-070",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-070",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-070.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-070.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2339",
+        "updatedAt": "2026.09.04",
+        "question": "「このキャラは相手のアタックを可能ならブロックしなければならない。」を持つ自分のキャラクターがある場合に、相手のキャラクターがアタックした時の自分が行う処理を教えてください。",
+        "answer": "「このキャラは相手のアタックを可能ならブロックしなければならない。」を持つキャラクターがブロック可能な状態なら、必ずブロックしてください。\nこの効果を持つキャラクターが複数ある場合、その中から望む1枚でブロックをしてください。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-071",
+    "cardName": "砕蜂",
+    "furigana": "そいふぉん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【起動メイン】このキャラをアクティブにする。〈砕蜂〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-071",
+    "uniqueId": "570215:EX15BT/BLC-4-071",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-071",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-071.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-071.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2340",
+        "updatedAt": "2026.09.04",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-072",
+    "cardName": "平子 真子",
+    "furigana": "ひらこ しんじ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーを満たし消費APが1の［特徴：仮面の軍勢］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-072",
+    "uniqueId": "570215:EX15BT/BLC-4-072",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-072",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-072.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-072.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2341",
+        "updatedAt": "2026.09.04",
+        "question": "【登場時】で場外に置いた自分の手札が、必要エナジーを満たし消費APが1の［特徴：仮面の軍勢］だった場合、そのカードを自分の場にレストで登場させることはできますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-073",
+    "cardName": "斑目 一角",
+    "furigana": "まだらめ いっかく",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に〈更木 剣八〉がある場合、このキャラはBP+1500。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-073",
+    "uniqueId": "570215:EX15BT/BLC-4-073",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-073",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-073.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-073.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-074",
+    "cardName": "山本 重國",
+    "furigana": "やまもと しげくに",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "このカードは〈山本 元柳斎 重國〉としても扱う。【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【緑】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-074",
+    "uniqueId": "570215:EX15BT/BLC-4-074",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-074",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-074.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-074.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-075",
+    "cardName": "浮竹 十四郎",
+    "furigana": "うきたけ じゅうしろう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 500,
+    "features": [
+      "護廷十三隊",
+      "霊王の右腕"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑+",
+        "count": 4
+      }
+    ],
+    "effectText": "このカードはフロントLに登場できず、フロントLに移動できない。【レイド】〈浮竹 十四郎〉アクティブにし、フロントLに移動できるこのキャラの発生エナジー+【緑】。【登場時】カードを1枚引く。【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。自分の場の他の［特徴：護廷十三隊］を1枚選び、アクティブにする。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-075",
+    "uniqueId": "570215:EX15BT/BLC-4-075",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-075",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-075.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-075.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-076",
+    "cardName": "花天",
+    "furigana": "かてん",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": null,
+    "features": [
+      "花天狂骨"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【このカードを退場させる】自分の場外から必要エナジーが2以下の緑の〈京楽 春水〉を1枚まで自分のエナジーLにアクティブで登場させる。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-076",
+    "uniqueId": "570215:EX15BT/BLC-4-076",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-076",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-076.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-076.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-077",
+    "cardName": "狂骨",
+    "furigana": "きょうこつ",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [
+      "花天狂骨"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場外から〈神剣・八鏡剣〉を1枚まで手札に加える。【起動メイン】【レストにする】【このカードを退場させる】自分の場のカードを1枚まで選び、アクティブにする。自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-077",
+    "uniqueId": "570215:EX15BT/BLC-4-077",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-077",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-077.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-077.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-078",
+    "cardName": "黒棺",
+    "furigana": "くろひつぎ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場に〈藍染 惣右介〉がない場合、全ての場所でこのカードのカード名は〈滲み出す混濁の紋章 不遜なる狂気の器 湧き上がり・否定し・痺れ・瞬き・眠りを妨げる 爬行する鉄の王女 絶えず自壊する泥の人形 結合せよ 反発せよ 地に満ち己の無力を知れ 破道の九十・黒棺〉に変わる。BP4000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-078",
+    "uniqueId": "570215:EX15BT/BLC-4-078",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-078",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-078.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-078.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-079",
+    "cardName": "神剣・八鏡剣",
+    "furigana": "しんけん はっきょうけん",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "以下から1つ選ぶ。その後、自分の場のアクティブの〔〈京楽 春水〉か〈伊勢 七緒〉〕を1枚レストにしてもよい。そうした場合、自分のAPカードを1枚アクティブにする。・カードを1枚引く。・自分の場の〈伊勢 七緒〉を1枚まで選び、このターン中、BP+3000と【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-079",
+    "uniqueId": "570215:EX15BT/BLC-4-079",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-079",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-079.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-079.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-080",
+    "cardName": "卍解",
+    "furigana": "ばんかい",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-080",
+    "uniqueId": "570215:EX15BT/BLC-4-080",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-080",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-080.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-080.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-081",
+    "cardName": "花天狂骨枯松心中",
+    "furigana": "かてんきょうこつからまつしんじゅう",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [
+      "花天狂骨"
+    ],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈京楽 春水〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分のエナジーLの〈花天〉か〈狂骨〉を1枚まで選び、アクティブにする。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-081",
+    "uniqueId": "570215:EX15BT/BLC-4-081",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-081",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-081.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-081.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP01",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP01",
+    "uniqueId": "570215:EX15BT/BLC-4-AP01",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP01.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP01.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP01_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP02",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP02",
+    "uniqueId": "570215:EX15BT/BLC-4-AP02",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP02.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP02.webp"
+      },
+      {
+        "id": "EX15BT/BLC-4-AP02_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP02_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP03",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP03",
+    "uniqueId": "570215:EX15BT/BLC-4-AP03",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP03.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP03.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP04",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP04",
+    "uniqueId": "570215:EX15BT/BLC-4-AP04",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP04.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP04.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP05",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP05",
+    "uniqueId": "570215:EX15BT/BLC-4-AP05",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP05.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP05.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX15BT/BLC-4-AP06",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇 Vol.3【EX15BT】",
+    "productCode": "EX15BT",
+    "seriesCode": "570215",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX15BT/BLC-4-AP06",
+    "uniqueId": "570215:EX15BT/BLC-4-AP06",
+    "variants": [
+      {
+        "id": "EX15BT/BLC-4-AP06",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX15BT_BLC-4-AP06.png?v8",
+        "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-AP06.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "PC01BT/IMS-3-001",
     "cardName": "大崎 甘奈",
     "furigana": "おおさき あまな",
@@ -61432,6 +65398,910 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01BT_CGH-1-AP06.png?v8",
         "imagePath": "CardsWebP/UA01BT/UA01BT_CGH-1-AP06.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-034",
+    "cardName": "石田 雨竜",
+    "furigana": "いしだ うりゅう",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-034",
+    "uniqueId": "570401:UA01DC/BLC-1-034",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-034",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-034.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-034.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-034_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-034_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-036",
+    "cardName": "井上 織姫",
+    "furigana": "いのうえ おりひめ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚を場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-036",
+    "uniqueId": "570401:UA01DC/BLC-1-036",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-036",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-036.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-036.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-036_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-036_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-037",
+    "cardName": "浦原 喜助",
+    "furigana": "うらはら きすけ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【紫】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-037",
+    "uniqueId": "570401:UA01DC/BLC-1-037",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-037",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-037.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-037.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-037_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-037_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-039",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-039",
+    "uniqueId": "570401:UA01DC/BLC-1-039",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-039",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-039.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-039.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-039_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-039_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-040",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【カラー】自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-040",
+    "uniqueId": "570401:UA01DC/BLC-1-040",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-040",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-040.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-040.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-040_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-040_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-041",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈黒崎 一護〉アクティブにし、フロントLに移動できる【登場時】自分の山札の上から2枚を場外に置く。自分の場外にあるカードを望む枚数リムーブエリアに置く。そうした場合、相手のフロントLのキャラを1枚まで選び、この効果でリムーブエリアに置いたカード1枚につき、このターン中、BP-500。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-041",
+    "uniqueId": "570401:UA01DC/BLC-1-041",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-041",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-041.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-041.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-041_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-041_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-049",
+    "cardName": "朽木 白哉",
+    "furigana": "くちき びゃくや",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】相手のフロントLのキャラを1枚まで選び、このターン中、BP-500。",
+    "trigger": "【カラー】自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-049",
+    "uniqueId": "570401:UA01DC/BLC-1-049",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-049",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-049.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-049.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-049_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-049_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-051",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】自分の山札の上から2枚を場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-051",
+    "uniqueId": "570401:UA01DC/BLC-1-051",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-051",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-051.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-051.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-051_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-051_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-053",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈朽木 ルキア〉アクティブにし、フロントLに移動できる【登場時】カードを3枚引き、自分の手札を2枚場外に置く。【起動メイン】【手札を1枚場外に置く】【ターン1】自分の場のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-053",
+    "uniqueId": "570401:UA01DC/BLC-1-053",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-053",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-053.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-053.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-053_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-053_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-064",
+    "cardName": "月牙天衝",
+    "furigana": "げつがてんしょう",
+    "rarity": "R",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈黒崎 一護〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-064",
+    "uniqueId": "570401:UA01DC/BLC-1-064",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-064",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-064.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-064.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-064_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-064_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-066",
+    "cardName": "卍解",
+    "furigana": "ばんかい",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-066",
+    "uniqueId": "570401:UA01DC/BLC-1-066",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-066",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-066.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-066.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-066_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-066_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-103",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【アタック時】このキャラはこのターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-103",
+    "uniqueId": "570401:UA01DC/BLC-1-103",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-103",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-103.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-103.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-103_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-103_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-1-104",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈黒崎 一護〉アクティブにし、フロントLに移動できる【起動メイン】【ターン1】自分の場外にあるカードを4枚リムーブエリアに置く。そうした場合、カードを1枚引き、このキャラはこのターン中、【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）を得る。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-1-104",
+    "uniqueId": "570401:UA01DC/BLC-1-104",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-1-104",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-1-104.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-104.webp"
+      },
+      {
+        "id": "UA01DC/BLC-1-104_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-1-104_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-2-050",
+    "cardName": "浦原 喜助",
+    "furigana": "うらはら きすけ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から5枚見て、特徴を持たず【レイド】を持たないキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-2-050",
+    "uniqueId": "570401:UA01DC/BLC-2-050",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-2-050",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-2-050.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-050.webp"
+      },
+      {
+        "id": "UA01DC/BLC-2-050_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-050_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-2-052",
+    "cardName": "阿散井 恋次",
+    "furigana": "あばらい れんじ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-2-052",
+    "uniqueId": "570401:UA01DC/BLC-2-052",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-2-052",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-2-052.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-052.webp"
+      },
+      {
+        "id": "UA01DC/BLC-2-052_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-052_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-2-054",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】このターン中に自分の手札を場外に置いている場合、このキャラはBP+500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-2-054",
+    "uniqueId": "570401:UA01DC/BLC-2-054",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-2-054",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-2-054.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-054.webp"
+      },
+      {
+        "id": "UA01DC/BLC-2-054_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-2-054_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-4-082",
+    "cardName": "黒崎 一護",
+    "furigana": "くろさき いちご",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。この効果で場外に置いたカードに必要エナジーが3以上のカードがある場合、カードを1枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-4-082",
+    "uniqueId": "570401:UA01DC/BLC-4-082",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-4-082",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-4-082.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-082.webp"
+      },
+      {
+        "id": "UA01DC/BLC-4-082_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-082_p1.webp"
+      },
+      {
+        "id": "UA01DC/BLC-4-082_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-082_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-4-083",
+    "cardName": "朽木 ルキア",
+    "furigana": "くちき るきあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "護廷十三隊"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【紫×2】減らす。このキャラがレイドされた時、以下から1つ選ぶ。（レイドしたキャラの【登場時】とこの効果は望む順で処理する）・自分の山札の上から1枚見て、山札の上か場外に置く。・自分の場の〈朽木 ルキア〉を1枚まで選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-4-083",
+    "uniqueId": "570401:UA01DC/BLC-4-083",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-4-083",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-4-083.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-083.webp"
+      },
+      {
+        "id": "UA01DC/BLC-4-083_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-083_p1.webp"
+      },
+      {
+        "id": "UA01DC/BLC-4-083_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-083_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA01DC/BLC-4-AP01",
+    "cardName": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "BLEACH 千年血戦篇",
+    "product": "BLEACH 千年血戦篇【UA01DC】",
+    "productCode": "UA01DC",
+    "seriesCode": "570401",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01DC/BLC-4-AP01",
+    "uniqueId": "570401:UA01DC/BLC-4-AP01",
+    "variants": [
+      {
+        "id": "UA01DC/BLC-4-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01DC_BLC-4-AP01.png?v8",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-AP01.webp"
+      },
+      {
+        "id": "UA01DC/BLC-4-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA01DC/UA01DC_BLC-4-AP01_p1.webp"
       }
     ]
   },
