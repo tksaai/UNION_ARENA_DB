@@ -51252,8 +51252,8 @@
     "qa": [
       {
         "id": "Q2303",
-        "updatedAt": "2026.09.04",
-        "question": "「自分のライフを1枚手札に加えてもよい。」でカードを手札に加える際に公開しますか。またトリガーチェックはしますか？",
+        "updatedAt": "2026.09.25",
+        "question": "「自分のライフを1枚手札に加える。」でカードを手札に加える際に公開しますか。またトリガーチェックはしますか？",
         "answer": "いいえ、公開せず手札に加えます。トリガーチェックもしません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
       },
@@ -359450,6 +359450,15 @@
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-004.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_KMR-P-004.webp"
       }
+    ],
+    "qa": [
+      {
+        "id": "Q2372",
+        "updatedAt": "2026.09.25",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
+      }
     ]
   },
   {
@@ -362013,6 +362022,29 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-004.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_MSS-P-004.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2375",
+        "updatedAt": "2026.09.25",
+        "question": "ステップを持つキャラクターが移動フェイズにフロントLからエナジーLに移動した場合、自分の効果で移動したことになりますか？",
+        "answer": "いいえ、なりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
+      },
+      {
+        "id": "Q2376",
+        "updatedAt": "2026.09.25",
+        "question": "レイドしたキャラクターがレイドの処理によりエナジーLからフロントLに移動した場合、自分の効果で移動したことになりますか？",
+        "answer": "いいえ、なりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
+      },
+      {
+        "id": "Q2377",
+        "updatedAt": "2026.09.25",
+        "question": "自分の効果でフロントLのキャラとエナジーLのキャラを入れ替えた場合、自分の効果で移動したことになりますか？",
+        "answer": "はい、自分の効果で「1枚以上のキャラの移動」が1回行われたことになります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
       }
     ]
   },
@@ -366136,6 +366168,22 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-004.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_TKG-P-004.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2373",
+        "updatedAt": "2026.09.25",
+        "question": "「自分のライフを1枚手札に加える。」でカードを手札に加える際に公開しますか。またトリガーチェックはしますか？",
+        "answer": "いいえ、公開せず手札に加えます。トリガーチェックもしません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
+      },
+      {
+        "id": "Q2374",
+        "updatedAt": "2026.09.25",
+        "question": "「自分のライフを1枚手札に加える。」の効果で自分のライフが0枚になった場合、敗北しますか？",
+        "answer": "はい、このカードの効果を処理した後に敗北します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89"
       }
     ]
   },
