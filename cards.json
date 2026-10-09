@@ -53343,6 +53343,15 @@
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
         "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-050_p1.webp"
       }
+    ],
+    "qa": [
+      {
+        "id": "Q2399",
+        "updatedAt": "2026.10.09",
+        "question": "「BLC-4-054 朽木 ルキア」の【登場時】で〈阿散井 恋次〉を1枚自分の場に登場させた場合、〈阿散井 恋次〉をAPを支払わずに手札から使用していることになりますか？",
+        "answer": "いいえ、なりません。\n関連カード",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
     ]
   },
   {
@@ -341180,6 +341189,13 @@
         "question": "このカードが自分の場に2枚ある場合、このカードの「【起動メイン】＃フロントLにある場合＃自分のエナジーが20以上の場合、自分の場のキャラを1枚選び、アクティブにする。」を同じターンにそれぞれ1回ずつ発動できますか？",
         "answer": "いいえ、どちらか片方しか発動できません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2392",
+        "updatedAt": "2026.10.09",
+        "question": "このキャラクターがフロントLにあり、自分のエナジーが7ある状態でこのキャラクターの上にある【起動メイン】を発動した場合、自分のエナジーが6以上の場合、このキャラはこのターン中、「このキャラはフロントLでもエナジーを発生させる。」を得ますが、即座にエナジーが8になり、その後の「自分のエナジーが8以上の場合」を満たすことができますか？",
+        "answer": "はい、満たされます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
   },
@@ -342357,6 +342373,13 @@
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2393",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは、レイド状態の〈グレンラガン〉の一番上のカードをそのレイド元の下に裏向きで置き、そのレイド元にレイドできる。」とはどういうことですか？",
+        "answer": "このカードがレイドする際に、レイドを持たない指定のキャラクターである〈シモン〉か〈ヴィラル〉以外に、その指定のキャラクターがレイド元である、自分の場のレイド状態の〈グレンラガン〉にも、一番上のカードをそのレイド元に裏向きで置きそのレイド元にレイドできるということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
   },
@@ -342555,6 +342578,13 @@
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2394",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは、レイド状態の〈アークグレンラガン〉の一番上のカードをそのレイド元の下に裏向きで置き、そのレイド元にレイドできる。」とはどういうことですか？",
+        "answer": "このカードがレイドする際に、レイドを持たない指定のキャラクターである〈シモン〉か〈ヴィラル〉以外に、その指定のキャラクターがレイド元である、自分の場のレイド状態の〈アークグレンラガン〉にも、一番上のカードをそのレイド元に裏向きで置きそのレイド元にレイドできるということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
   },
@@ -342620,6 +342650,13 @@
         "updatedAt": "2026.08.21",
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2395",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは、このターン中にレイドしていないレイド状態の〈超銀河グレンラガン〉の一番上のカードをそのレイド元の下に裏向きで置き、そのレイド元にレイドでき、それでのみ登場できる。」とはどういうことですか？",
+        "answer": "このカードはレイドしないで登場することや、レイドを持たない指定のキャラクターである〈シモン〉か〈ヴィラル〉にレイドして登場することができず、その指定のキャラクターがレイド元である、自分の場のレイド状態の〈超銀河グレンラガン〉の一番上のカードをそのレイド元に裏向きで置きそのレイド元にレイドすることのみで登場することができるということです。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
@@ -344547,6 +344584,13 @@
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2396",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは、レイド状態の〈ラガン〉か〈グレン〉の一番上のカードをそのレイド元の下に裏向きで置き、そのレイド元にレイドできる。」とはどういうことですか？",
+        "answer": "このカードがレイドする際に、レイドを持たない指定のキャラクターである〈シモン〉か〈カミナ〉以外に、その指定のキャラクターがレイド元である、自分の場のレイド状態の〈グレン〉か〈ラガン〉にも、一番上のカードをそのレイド元に裏向きで置きそのレイド元にレイドできるということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
   },
@@ -344605,6 +344649,20 @@
         "updatedAt": "2026.08.21",
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2397",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは、レイド状態の〈ラガン〉か〈グレン〉の一番上のカードをそのレイド元の下に裏向きで置き、そのレイド元にレイドできる。」とはどういうことですか？",
+        "answer": "このカードがレイドする際に、レイドを持たない指定のキャラクターである〈シモン〉以外に、その指定のキャラクターがレイド元である、自分の場のレイド状態の〈グレン〉か〈ラガン〉にも、一番上のカードをそのレイド元に裏向きで置きそのレイド元にレイドできるということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
+      },
+      {
+        "id": "Q2398",
+        "updatedAt": "2026.10.09",
+        "question": "レイド元が「UA56BT/TTG-1-070　ロシウ」の自分の場のレイド状態〈グレン〉の一番上のカードをそのレイド元に裏向きで置きにこのカードをレイドさせることはできますか？",
+        "answer": "はい、できます。\n関連カード",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA56BT"
       }
     ]
@@ -345302,6 +345360,3808 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA56BT_TTG-1-AP12.png?v9",
         "imagePath": "CardsWebP/UA56BT/UA56BT_TTG-1-AP12.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-001",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-001",
+    "uniqueId": "570157:UA57BT/STG-1-001",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-001",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-001.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-001.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-002",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-002",
+    "uniqueId": "570157:UA57BT/STG-1-002",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-002",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-002.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-003",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはアクティブで登場させる。【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下で【ファイナルトリガー】を持たないイベントカードを1枚まで手札に加える。【起動メイン】【ターン1】このターン中に自分の効果でアクティブからレストになったことがある自分の場の他のキャラを1枚選び、アクティブにする。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-003",
+    "uniqueId": "570157:UA57BT/STG-1-003",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-003",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-003.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-003.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-003_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-003_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-004",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】このターン中に自分がイベントカードを使用している場合、このキャラはBP+1000。【登場時】自分の場外にある、必要エナジーが3以下の青のイベントカードの【トリガー】が3種類以下の場合、カードを1枚引き、自分の手札を1枚場外に置く。4種類以上の場合、カードを1枚引く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-004",
+    "uniqueId": "570157:UA57BT/STG-1-004",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-004",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-004.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-004.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-004_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-004_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-005",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【2回ブロック】（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-005",
+    "uniqueId": "570157:UA57BT/STG-1-005",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-005",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-005.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-005.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-006",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-006",
+    "uniqueId": "570157:UA57BT/STG-1-006",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-006",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-006.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-006.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-007",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-007",
+    "uniqueId": "570157:UA57BT/STG-1-007",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-007",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-007.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-007.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-008",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-008",
+    "uniqueId": "570157:UA57BT/STG-1-008",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-008",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-008.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-008.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-009",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場に〈椎名 まゆり〉がある場合、カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-009",
+    "uniqueId": "570157:UA57BT/STG-1-009",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-009",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-009.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-009.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-009_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-009_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-010",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。【起動メイン】【ターン1】自分のフロントLのアクティブの〈牧瀬 紅莉栖〉を1枚レストにする。そうした場合、以下から1つ選ぶ。・このキャラはこのターン中、【インパクト（1）】を得る。・BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-010",
+    "uniqueId": "570157:UA57BT/STG-1-010",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-010",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-010.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-010.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-010_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-010_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-011",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは手札やラインの上限超過の処理でリムーブエリアの代わりに場外に置かれる。自分の場外に青の〈椎名 まゆり〉が7枚以上あり、このキャラが場を離れる場合、代わりにこのカードをリムーブエリアに置いてもよい。【レイド】〈岡部 倫太郎〉アクティブにし、フロントLに移動できる【登場時】自分の場外から必要エナジーが『2以下』で消費APが1の青の〈椎名 まゆり〉を1枚まで自分の場にレストで登場させるかレイドさせる。このキャラがリムーブエリアから登場していた場合、『4以下』に代わる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-011",
+    "uniqueId": "570157:UA57BT/STG-1-011",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-011",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-011.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-011.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-011_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-011_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2378",
+        "updatedAt": "2026.10.09",
+        "question": "「このカードは手札やラインの上限超過の処理でリムーブエリアの代わりに場外に置かれる」とはどういうことですか？",
+        "answer": "「エンドフェイズに自分の手札が9枚以上ある時に8枚になるように超過分を手札をリムーブエリアに置く」という処理と「空きがないラインにキャラクターを移動や登場をさせる時に超過分のカードをリムーブエリアに置く」という処理でこのカードはリムーブエリアではなく、場外に置かれるということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2379",
+        "updatedAt": "2026.10.09",
+        "question": "自分の場外に青の〈椎名 まゆり〉が7枚以上ある状態で、自分の場のこのカードを上限超過の処理を行う場合、このカードをリムーブエリアに置くことはできますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-012",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【青】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-012",
+    "uniqueId": "570157:UA57BT/STG-1-012",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-012",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-012.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-012.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-013",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-013",
+    "uniqueId": "570157:UA57BT/STG-1-013",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-013",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-013.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-013.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-014",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】自分の場に〈岡部 倫太郎〉がある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-014",
+    "uniqueId": "570157:UA57BT/STG-1-014",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-014",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-014.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-014.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-015",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から4枚見て、〈岡部 倫太郎〉か〈椎名 まゆり〉か〈橋田 至〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-015",
+    "uniqueId": "570157:UA57BT/STG-1-015",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-015",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-015.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-015.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-016",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から『2枚』見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。このキャラがキャラの効果で登場していた場合、『3枚』に代わる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-016",
+    "uniqueId": "570157:UA57BT/STG-1-016",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-016",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-016.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-016.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-016_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-016_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-017",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈椎名 まゆり〉アクティブにし、フロントLに移動できる【登場時】カードを1枚引く。相手のフロントLのキャラを1枚まで選び、次の自分のターン開始時まで、『「このキャラはアタックできない。」を与える。このキャラは次の自分のターン開始時まで、「相手のアタックフェイズ終了時、このキャラを退場させる。」を得る』。このキャラがキャラの効果で登場していた場合、『「このキャラはアタックもブロックもできない。」を与える』に代わる。【アタック時】自分の場のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-017",
+    "uniqueId": "570157:UA57BT/STG-1-017",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-017",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-017.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-017.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-017_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-017_p1.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-017_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-017_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-018",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】このキャラがキャラの効果で登場していない場合、このキャラは次の自分のターン開始時まで、「相手のアタックフェイズ終了時、このキャラを退場させる。」を得る。【アタック時】自分の山札の上から3枚見て、〈岡部 倫太郎〉か〈椎名 まゆり〉か〈橋田 至〉か〈まゆしぃのカイちゅ～止まっちゃってる……〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。【起動メイン】このキャラをアクティブにする。〈椎名 まゆり〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-018",
+    "uniqueId": "570157:UA57BT/STG-1-018",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-018",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-018.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-018.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-018_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-018_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2380",
+        "updatedAt": "2026.10.09",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-019",
+    "cardName": "天王寺 綯",
+    "furigana": "てんのうじ なえ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-019",
+    "uniqueId": "570157:UA57BT/STG-1-019",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-019",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-019.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-019.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-020",
+    "cardName": "橋田 至",
+    "furigana": "はしだ いたる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】このターン中に自分がイベントカードを使用している場合、このキャラはBP+1500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-020",
+    "uniqueId": "570157:UA57BT/STG-1-020",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-020",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-020.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-020.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-021",
+    "cardName": "橋田 至",
+    "furigana": "はしだ いたる",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分の場の〈阿万音 鈴羽〉か〈橋田 至〉を1枚まで選び、このターン中、BP+2000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-021",
+    "uniqueId": "570157:UA57BT/STG-1-021",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-021",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-021.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-021.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-021_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-021_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-022",
+    "cardName": "フェイリス・ニャンニャン",
+    "furigana": "ふぇいりす にゃんにゃん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "3500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラはBPをマイナスする効果を受けない。【自分のターン中】このキャラはBP+500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-022",
+    "uniqueId": "570157:UA57BT/STG-1-022",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-022",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-022.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-022.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-023",
+    "cardName": "フェイリス・ニャンニャン",
+    "furigana": "ふぇいりす にゃんにゃん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【青】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-023",
+    "uniqueId": "570157:UA57BT/STG-1-023",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-023",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-023.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-023.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-024",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-024",
+    "uniqueId": "570157:UA57BT/STG-1-024",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-024",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-024.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-024.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-025",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【青×2】減らす。このキャラがレイドされた時、自分の場外に必要エナジーが3以下の青のイベントカードの【トリガー】が3種類以上ある場合、カードを1枚引く。（レイドしたキャラの【登場時】とこの効果は望む順で処理する）",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-025",
+    "uniqueId": "570157:UA57BT/STG-1-025",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-025",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-025.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-025.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-025_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-025_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-026",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から『3枚』見て、必要エナジーが3以下で【ファイナルトリガー】を持たないイベントカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。自分の場外に必要エナジーが3以下の青のイベントカードの【トリガー】が3種類以上ある場合、『5枚』に代わる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-026",
+    "uniqueId": "570157:UA57BT/STG-1-026",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-026",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-026.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-026.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-026_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-026_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-027",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の〈岡部 倫太郎〉を1枚まで手札に加える。【起動メイン】【レストにする】【手札を1枚場外に置く】【ターン1】自分のリムーブエリアから必要エナジーを満たす〈岡部 倫太郎〉を1枚レイドさせ、そのキャラにこのターン中、BP+1000と【インパクト（1）】を与える。このキャラはこのターン中、「このキャラにはレイドできない。」と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-027",
+    "uniqueId": "570157:UA57BT/STG-1-027",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-027",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-027.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-027.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-027_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-027_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-028",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈牧瀬 紅莉栖〉アクティブにし、フロントLに移動できる【起動メイン】【フロントLにある場合】このターン中、次に手札から使用する必要エナジーが3以下で【ファイナルトリガー】を持たないイベントカードの消費APを-1する。〈牧瀬 紅莉栖〉のこの効果は1ターンに1回のみ発動できる。【起動メイン】【フロントLにある場合】【ターン1】このキャラがレストの場合のみ発動できる。自分の場の他のキャラを1枚選び、このターン中、BP+2000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-028",
+    "uniqueId": "570157:UA57BT/STG-1-028",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-028",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-028.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-028.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-028_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-028_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2381",
+        "updatedAt": "2026.10.09",
+        "question": "このカードが自分の場に2枚ある場合、このカードの「【起動メイン】＃フロントLにある場合＃このターン中、次に手札から使用する必要エナジーが3以下で▼ファイナルトリガー▼を持たないイベントカードの消費APを-1する。」を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2382",
+        "updatedAt": "2026.10.09",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-029",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈牧瀬 紅莉栖〉アクティブにし、フロントLに移動できる【登場時】自分の場外の必要エナジーが3以下の青のイベントカードの【トリガー】の種類数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させる。自分の場外に必要エナジーが3以下の青のイベントカードの【トリガー】が5種類以上ある場合、このキャラはこのターン中、【インパクト（1）】を得る。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-029",
+    "uniqueId": "570157:UA57BT/STG-1-029",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-029",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-029.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-029.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-029_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-029_p1.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-029_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-029_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-030",
+    "cardName": "ミスターブラウン",
+    "furigana": "みすたーぶらうん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-030",
+    "uniqueId": "570157:UA57BT/STG-1-030",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-030",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-030.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-030.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-031",
+    "cardName": "未来ガジェット研究所",
+    "furigana": "みらいがじぇっとけんきゅうじょ",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、キャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-031",
+    "uniqueId": "570157:UA57BT/STG-1-031",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-031",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-031.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-031.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-032",
+    "cardName": "エル・プサイ・コングルゥ",
+    "furigana": "える ぷさい こんぐるぅ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを2枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-032",
+    "uniqueId": "570157:UA57BT/STG-1-032",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-032",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-032.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-032.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-033",
+    "cardName": "オペレーション・スクルド",
+    "furigana": "おぺれーしょん すくるど",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の山札の上から1枚見て、山札の上か場外に置く。その後、自分の場外から必要エナジーが『3以下』で消費APが1の青のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。自分の場のキャラを1枚まで選び、アクティブにする。自分の場外に必要エナジーが3以下の青のイベントカードの【トリガー】が5種類以上ある場合、『4以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-033",
+    "uniqueId": "570157:UA57BT/STG-1-033",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-033",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-033.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-033.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-034",
+    "cardName": "これがシュタインズゲートの選択だよ",
+    "furigana": "これがしゅたいんずげーとのせんたくだよ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-034",
+    "uniqueId": "570157:UA57BT/STG-1-034",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-034",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-034.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-034.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-034_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-034_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-035",
+    "cardName": "最初のお前を騙せ 世界を騙せ",
+    "furigana": "さいしょのおまえをだませ せかいをだませ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のフロントLのアクティブの〈牧瀬 紅莉栖〉を1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-035",
+    "uniqueId": "570157:UA57BT/STG-1-035",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-035",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-035.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-035.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-036",
+    "cardName": "星屑との握手",
+    "furigana": "すたーだすと しぇいくはんど",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-036",
+    "uniqueId": "570157:UA57BT/STG-1-036",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-036",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-036.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-036.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-036_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-036_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-037",
+    "cardName": "ダイバージェンス1％の壁を越えて",
+    "furigana": "だいばーじぇんすいちぱーせんとのかべをこえて",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈岡部 倫太郎〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場外に青の〈椎名 まゆり〉が7枚以上ある場合、自分の場か場外の〈岡部 倫太郎〉を1枚までリムーブエリアに置く。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-037",
+    "uniqueId": "570157:UA57BT/STG-1-037",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-037",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-037.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-037.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-038",
+    "cardName": "まゆしぃのカイちゅ～止まっちゃってる……",
+    "furigana": "まゆしぃのかいちゅ～とまっちゃってる",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場外かリムーブエリアから必要エナジーを満たし消費APが1の〈岡部 倫太郎〉を1枚自分の場にレストで登場させるかレイドさせる。この効果でリムーブエリアからレイドさせている場合、その〈岡部 倫太郎〉にこのターン中、【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-038",
+    "uniqueId": "570157:UA57BT/STG-1-038",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-038",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-038.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-038.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-039",
+    "cardName": "まゆしぃのビンタ",
+    "furigana": "まゆしぃのびんた",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "以下から2つまで選ぶ。自分の場外に必要エナジーが3以下の他の青のイベントカードの【トリガー】が3種類以上ある場合、自分のAPカードを1枚アクティブにする。・自分の場のキャラを1枚選び、アクティブにする。・自分の場のキャラを1枚選び、このターン中、BP+2000。・相手のフロントLのキャラを1枚選び、レストにする。〈まゆしぃのビンタ〉のこの効果は1ターンに1回のみ選べる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-039",
+    "uniqueId": "570157:UA57BT/STG-1-039",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-039",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-039.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-039.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-039_p1",
+        "label": "C★ / P1",
+        "rarity": "C★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-039_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2383",
+        "updatedAt": "2026.10.09",
+        "question": "以下から2つ選ぶ場合、同じ効果を2回選ぶことはできますか？",
+        "answer": "いいえ、できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2384",
+        "updatedAt": "2026.10.09",
+        "question": "2つ選んだ場合、望む順で処理を行うことができますか？",
+        "answer": "いいえ、できません。上にある効果から処理を行います。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2385",
+        "updatedAt": "2026.10.09",
+        "question": "「〈○○〉のこの効果は1ターンに1回のみ選べる。」とはどういうことですか？\n※○○にはカード名が入ります。",
+        "answer": "その効果を選ぶと、そのターン中は別の同じカード名のカードでもその効果を選ぶことができなくなるということです。「〈○○〉のこの効果は1ターンに1回のみ選べる。」がない効果は何度でも選ぶことが可能です。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-040",
+    "cardName": "無論だ。フゥーハハハ！",
+    "furigana": "むろんだ ふぅーははは",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場の〈牧瀬 紅莉栖〉を1枚選び、このターン中、BP+1500と「このキャラはBP4000以上のキャラにブロックされない。」を与える。自分の場外に必要エナジーが3以下の他の青のイベントカードの【トリガー】が3種類以上ある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-040",
+    "uniqueId": "570157:UA57BT/STG-1-040",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-040",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-040.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-040.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-041",
+    "cardName": "秋葉 留未穂",
+    "furigana": "あきは るみほ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場のフィールドを1枚退場させてもよい。そうした場合、自分の場外からこの効果で退場させたフィールドと異なるカード名の緑のフィールドカードを1枚まで自分のエナジーLにレストで登場させる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-041",
+    "uniqueId": "570157:UA57BT/STG-1-041",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-041",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-041.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-041.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-042",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-042",
+    "uniqueId": "570157:UA57BT/STG-1-042",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-042",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-042.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-042.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-043",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【アタック時】このターン中に自分がイベントカードを使用している場合、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-043",
+    "uniqueId": "570157:UA57BT/STG-1-043",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-043",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-043.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-043.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-044",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【緑×2】減らす。自分のアタックフェイズ開始時、自分のフロントLに空きがある場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-044",
+    "uniqueId": "570157:UA57BT/STG-1-044",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-044",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-044.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-044.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-045",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【自分のターン中】自分の場の他のキャラ全ては、【ステップ】を得る。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-045",
+    "uniqueId": "570157:UA57BT/STG-1-045",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-045",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-045.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-045.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-045_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-045_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-046",
+    "cardName": "阿万音 鈴羽",
+    "furigana": "あまね すずは",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【ターン1】このキャラのアタック終了時、自分のフロントLに空きがある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにし、自分の場のキャラを1枚まで選び、このターン中、BP+1000。【エナジーLにある場合】自分のキャラのアタック終了時、自分のフロントLに空きがある場合、このキャラをフロントLに移動させてもよい。【登場時】カードを1枚引く。このキャラをアクティブにする。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-046",
+    "uniqueId": "570157:UA57BT/STG-1-046",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-046",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-046.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-046.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-046_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-046_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2386",
+        "updatedAt": "2026.10.09",
+        "question": "「このキャラのアタック終了時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "バトルを行った場合はバトル終了後、プレイヤーにダメージを与えた場合はトリガーチェック終了後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-047",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-047",
+    "uniqueId": "570157:UA57BT/STG-1-047",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-047",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-047.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-047.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-048",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】このターン中に自分がイベントカードを使用している場合のみ発動できる。このキャラは次の自分のターン開始時まで、BP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-048",
+    "uniqueId": "570157:UA57BT/STG-1-048",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-048",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-048.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-048.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-049",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【緑×2】減らす。【登場時】自分の山札の上から4枚見て、フィールドカードか〈Dメール〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-049",
+    "uniqueId": "570157:UA57BT/STG-1-049",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-049",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-049.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-049.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-049_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-049_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-050",
+    "cardName": "漆原 るか",
+    "furigana": "うるしばら るか",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【ターン1】消費APが1で【レイド】を持たない自分の場の他のキャラを1枚選び、このターン中、以下から1つを与える。このターン中に〈漆原 るか〉が既に選んだ効果は選べない。・このキャラはBP4000以上のキャラにブロックされない。・BP+1000と「このターン中に自分がイベントカードを使用している場合、このキャラは【インパクト（1）】を得る。」",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-050",
+    "uniqueId": "570157:UA57BT/STG-1-050",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-050",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-050.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-050.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-050_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-050_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-051",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラがバトルに勝利した時、このキャラがこのターン中に移動している場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-051",
+    "uniqueId": "570157:UA57BT/STG-1-051",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-051",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-051.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-051.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-052",
+    "cardName": "岡部 倫太郎",
+    "furigana": "おかべ りんたろう",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【緑】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-052",
+    "uniqueId": "570157:UA57BT/STG-1-052",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-052",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-052.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-052.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-053",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-053",
+    "uniqueId": "570157:UA57BT/STG-1-053",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-053",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-053.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-053.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-054",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から〈IBN5100〉を1枚まで手札に加える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-054",
+    "uniqueId": "570157:UA57BT/STG-1-054",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-054",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-054.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-054.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-055",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】このターン中に自分がイベントカードを使用している場合のみ発動できる。このキャラは次の自分のターン開始時まで、「このキャラはフロントLでもエナジーを発生させる。」を得る。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-055",
+    "uniqueId": "570157:UA57BT/STG-1-055",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-055",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-055.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-055.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-055_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-055_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-056",
+    "cardName": "桐生 萌郁",
+    "furigana": "きりゅう もえか",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】自分の場の他のカードを1枚退場させてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。このターン中に自分がイベントカードを使用している場合、選んだキャラに次の自分のターン開始時まで、「このキャラは移動できない。」を与える。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-056",
+    "uniqueId": "570157:UA57BT/STG-1-056",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-056",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-056.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-056.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-056_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-056_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2387",
+        "updatedAt": "2026.10.09",
+        "question": "移動させる時にそのラインに空きがない場合どうなりますか？",
+        "answer": "移動させる時にそのラインに空きがない場合、カードを1枚選んでリムーブエリアに置いてから移動させます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2388",
+        "updatedAt": "2026.10.09",
+        "question": "「このキャラは移動できない。」の効果を受けたキャラがレイドした場合、移動することはできますか？",
+        "answer": "はい、移動できます。レイド元のカードが受けていた効果は、レイドした後残りません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-057",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-057",
+    "uniqueId": "570157:UA57BT/STG-1-057",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-057",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-057.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-057.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-058",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【エナジーLにある場合】自分のアタックフェイズ終了時、自分のフロントLに空きがある場合、このキャラを自分のフロントLに移動させてもよい。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-058",
+    "uniqueId": "570157:UA57BT/STG-1-058",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-058",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-058.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-058.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-059",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】自分の手札から必要エナジーが2以下で消費APが1の緑の〔〈阿万音 鈴羽〉か〈岡部 倫太郎〉か〈椎名 まゆり〉か〈橋田 至〉か〈牧瀬 紅莉栖〉〕を1枚まで自分の場にレストで登場させる。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-059",
+    "uniqueId": "570157:UA57BT/STG-1-059",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-059",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-059.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-059.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-059_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-059_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-060",
+    "cardName": "椎名 まゆり",
+    "furigana": "しいな まゆり",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈椎名 まゆり〉アクティブにし、フロントLに移動できる【アタック時】自分の場のキャラを1枚まで選び、このターン中、BP+1000。自分のフロントLに空きがあり、選んだキャラがエナジーLにある場合、そのキャラをフロントLに移動させる。【退場時】自分のエナジーLのキャラを1枚まで選び、このターン中、BP+2000し、フロントLに移動させる。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-060",
+    "uniqueId": "570157:UA57BT/STG-1-060",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-060",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-060.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-060.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-060_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-060_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-061",
+    "cardName": "橋田 至",
+    "furigana": "はしだ いたる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【緑】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-061",
+    "uniqueId": "570157:UA57BT/STG-1-061",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-061",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-061.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-061.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-062",
+    "cardName": "橋田 至",
+    "furigana": "はしだ いたる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-062",
+    "uniqueId": "570157:UA57BT/STG-1-062",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-062",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-062.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-062.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-063",
+    "cardName": "橋田 至",
+    "furigana": "はしだ いたる",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-063",
+    "uniqueId": "570157:UA57BT/STG-1-063",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-063",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-063.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-063.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-064",
+    "cardName": "フェイリス・ニャンニャン",
+    "furigana": "ふぇいりす にゃんにゃん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-064",
+    "uniqueId": "570157:UA57BT/STG-1-064",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-064",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-064.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-064.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-065",
+    "cardName": "フェイリス・ニャンニャン",
+    "furigana": "ふぇいりす にゃんにゃん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-065",
+    "uniqueId": "570157:UA57BT/STG-1-065",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-065",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-065.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-065.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-065_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-065_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-066",
+    "cardName": "フェイリス・ニャンニャン",
+    "furigana": "ふぇいりす にゃんにゃん",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈フェイリス・ニャンニャン〉アクティブにし、フロントLに移動できる【登場時】カードを1枚まで引く。自分の場のキャラを1枚まで選び、このターン中、BP+1000。【アタック時】このターン中に自分がイベントカードを使用していて、自分の場にフィールドがある場合、このキャラの【登場時】を発動する。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-066",
+    "uniqueId": "570157:UA57BT/STG-1-066",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-066",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-066.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-066.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-066_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-066_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-067",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-067",
+    "uniqueId": "570157:UA57BT/STG-1-067",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-067",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-067.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-067.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-068",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、〈阿万音 鈴羽〉か〈岡部 倫太郎〉か〈椎名 まゆり〉か〈橋田 至〉か〈牧瀬 紅莉栖〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-068",
+    "uniqueId": "570157:UA57BT/STG-1-068",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-068",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-068.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-068.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-069",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-069",
+    "uniqueId": "570157:UA57BT/STG-1-069",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-069",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-069.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-069.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-069_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-069_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-070",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈牧瀬 紅莉栖〉アクティブにし、フロントLに移動できる【登場時】自分の場の他のキャラを1枚まで選び、次の自分のターン開始時まで、「このキャラは相手の効果で選ばれない。」を与える。【アタック時】以下から1つ選ぶ。・このキャラはこのターン中、【インパクト（1）】を得る。・自分のフロントLに空きがある場合、カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-070",
+    "uniqueId": "570157:UA57BT/STG-1-070",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-070",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-070.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-070.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-070_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-070_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2389",
+        "updatedAt": "2026.10.09",
+        "question": "「このキャラは相手の効果で選ばれない。」の「効果で選ばれない。」とはどういうことですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で選ぶことができないということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-071",
+    "cardName": "IBN5100",
+    "furigana": "あいびーえぬごせんひゃく",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札のイベントカードかフィールドカードを1枚場外に置いてもよい。そうした場合、山札の上から2枚見て、1枚手札に加え、残りを場外に置く。【退場時】以下から1つ選ぶ。・自分の場の〈桐生 萌郁〉を1枚まで選び、アクティブにする。・カードを1枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-071",
+    "uniqueId": "570157:UA57BT/STG-1-071",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-071",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-071.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-071.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-072",
+    "cardName": "電話レンジ（仮）",
+    "furigana": "でんわれんじかっこかり",
+    "rarity": "U",
+    "cardType": "フィールド",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場外から〈Dメール〉を1枚まで手札に加える。自分のターン中の場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-072",
+    "uniqueId": "570157:UA57BT/STG-1-072",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-072",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-072.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-072.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-073",
+    "cardName": "メイクイーン＋ニャン²",
+    "furigana": "めいくいーん にゃんにゃん",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。【退場時】カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-073",
+    "uniqueId": "570157:UA57BT/STG-1-073",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-073",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-073.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-073.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-074",
+    "cardName": "俺は狂気のマッドサイエンティスト！鳳凰院凶真だっ！",
+    "furigana": "おれはきょうきのまっどさいえんてぃすと ほうおういんきょうまだっ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場のキャラ全ては、このターン中、BP+1000。自分の場の消費APが1のキャラを1枚まで選び、このターン中、【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。自分の場に〈岡部 倫太郎〉がある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-074",
+    "uniqueId": "570157:UA57BT/STG-1-074",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-074",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-074.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-074.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-075",
+    "cardName": "だが男だ",
+    "furigana": "だがおとこだ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-075",
+    "uniqueId": "570157:UA57BT/STG-1-075",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-075",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-075.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-075.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-076",
+    "cardName": "ツンデレじゃないっ！",
+    "furigana": "つんでれじゃないっ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈牧瀬 紅莉栖〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-076",
+    "uniqueId": "570157:UA57BT/STG-1-076",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-076",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-076.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-076.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-077",
+    "cardName": "Dメール",
+    "furigana": "でぃーめーる",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場のアクティブのフィールドを1枚レストにする。そうした場合、カードを1枚引き、自分の手札を1枚場外に置く。自分の手札から必要エナジーが4以下で消費APが1の【レイド】を持たない緑のキャラカードを1枚まで自分の場にアクティブで登場させる。このカードの【カラートリガー】を発動する場合、効果に記載されている「必要エナジーが2以下で消費APが1の緑のキャラカード」を「緑のフィールドカード」に代えてもよい。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-077",
+    "uniqueId": "570157:UA57BT/STG-1-077",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-077",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-077.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-077.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2390",
+        "updatedAt": "2026.10.09",
+        "question": "このカードの▼カラートリガー▼を発動させる場合、「自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。」と「自分の手札から緑のフィールドカードを1枚自分の場にアクティブで登場させる。」のどちらかを選べるということですか？",
+        "answer": "はい、そうです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2391",
+        "updatedAt": "2026.10.09",
+        "question": "このカードの効果でこのカードの▼カラートリガー▼を「緑のフィールドカード」に代えた場合、フィールドカードを自分のフロントLに登場させることはできますか？",
+        "answer": "いいえ、できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-078",
+    "cardName": "トゥットゥルー♪",
+    "furigana": "とぅっとぅるー",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-078",
+    "uniqueId": "570157:UA57BT/STG-1-078",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-078",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-078.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-078.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-079",
+    "cardName": "バイト戦士",
+    "furigana": "ばいとせんし",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを1枚引く。自分の場の〈阿万音 鈴羽〉を1枚まで選び、このターン中、BP+1000と「【アタック時】カードを1枚引く。」を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-079",
+    "uniqueId": "570157:UA57BT/STG-1-079",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-079",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-079.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-079.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-080",
+    "cardName": "目を見て混ぜ混ぜ",
+    "furigana": "めをみてまぜまぜ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の山札の上から5枚見て、1枚まで公開し手札に加える。残りを望む順で山札の下に置く。公開したカードが〈フェイリス・ニャンニャン〉かフィールドカードの場合、自分のAPカードを1枚アクティブにする。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-080",
+    "uniqueId": "570157:UA57BT/STG-1-080",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-080",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-080.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-080.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP01",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP01",
+    "uniqueId": "570157:UA57BT/STG-1-AP01",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP01.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP01.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP01_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP02",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP02",
+    "uniqueId": "570157:UA57BT/STG-1-AP02",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP02.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP02.webp"
+      },
+      {
+        "id": "UA57BT/STG-1-AP02_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP02_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP03",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP03",
+    "uniqueId": "570157:UA57BT/STG-1-AP03",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP03.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP03.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP04",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP04",
+    "uniqueId": "570157:UA57BT/STG-1-AP04",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP04.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP04.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP05",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP05",
+    "uniqueId": "570157:UA57BT/STG-1-AP05",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP05.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP05.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP06",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP06",
+    "uniqueId": "570157:UA57BT/STG-1-AP06",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP06",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP06.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP06.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP07",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP07",
+    "uniqueId": "570157:UA57BT/STG-1-AP07",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP07",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP07.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP07.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP08",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP08",
+    "uniqueId": "570157:UA57BT/STG-1-AP08",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP08",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP08.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP08.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP09",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP09",
+    "uniqueId": "570157:UA57BT/STG-1-AP09",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP09",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP09.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP09.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP10",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP10",
+    "uniqueId": "570157:UA57BT/STG-1-AP10",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP10",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP10.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP10.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP11",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP11",
+    "uniqueId": "570157:UA57BT/STG-1-AP11",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP11",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP11.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP11.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UA57BT/STG-1-AP12",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "シュタインズ・ゲート【UA57BT】",
+    "productCode": "UA57BT",
+    "seriesCode": "570157",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA57BT/STG-1-AP12",
+    "uniqueId": "570157:UA57BT/STG-1-AP12",
+    "variants": [
+      {
+        "id": "UA57BT/STG-1-AP12",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-AP12.png?v9",
+        "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-AP12.webp"
       }
     ]
   },
@@ -347174,6 +351034,166 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MMM-AP01.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPB_MMM-AP01.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPB/MOE-AP01",
+    "cardName": "アクションポイントカード(伊織もえ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "UNION ARENA",
+    "product": "限定商品収録カード",
+    "productCode": "限定商品収録カード",
+    "seriesCode": "570801",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPB/MOE-AP01",
+    "uniqueId": "570801:UAPB/MOE-AP01",
+    "variants": [
+      {
+        "id": "UAPB/MOE-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MOE-AP01.png?v9",
+        "imagePath": "CardsWebP/限定商品収録カード/UAPB_MOE-AP01.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPB/MOE-AP02",
+    "cardName": "アクションポイントカード(伊織もえ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "UNION ARENA",
+    "product": "限定商品収録カード",
+    "productCode": "限定商品収録カード",
+    "seriesCode": "570801",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPB/MOE-AP02",
+    "uniqueId": "570801:UAPB/MOE-AP02",
+    "variants": [
+      {
+        "id": "UAPB/MOE-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MOE-AP02.png?v9",
+        "imagePath": "CardsWebP/限定商品収録カード/UAPB_MOE-AP02.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPB/MOE-AP03",
+    "cardName": "アクションポイントカード(伊織もえ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "UNION ARENA",
+    "product": "限定商品収録カード",
+    "productCode": "限定商品収録カード",
+    "seriesCode": "570801",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPB/MOE-AP03",
+    "uniqueId": "570801:UAPB/MOE-AP03",
+    "variants": [
+      {
+        "id": "UAPB/MOE-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MOE-AP03.png?v9",
+        "imagePath": "CardsWebP/限定商品収録カード/UAPB_MOE-AP03.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPB/MOE-AP04",
+    "cardName": "アクションポイントカード(伊織もえ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "UNION ARENA",
+    "product": "限定商品収録カード",
+    "productCode": "限定商品収録カード",
+    "seriesCode": "570801",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPB/MOE-AP04",
+    "uniqueId": "570801:UAPB/MOE-AP04",
+    "variants": [
+      {
+        "id": "UAPB/MOE-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MOE-AP04.png?v9",
+        "imagePath": "CardsWebP/限定商品収録カード/UAPB_MOE-AP04.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPB/MOE-AP05",
+    "cardName": "アクションポイントカード(伊織もえ)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "UNION ARENA",
+    "product": "限定商品収録カード",
+    "productCode": "限定商品収録カード",
+    "seriesCode": "570801",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPB/MOE-AP05",
+    "uniqueId": "570801:UAPB/MOE-AP05",
+    "variants": [
+      {
+        "id": "UAPB/MOE-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MOE-AP05.png?v9",
+        "imagePath": "CardsWebP/限定商品収録カード/UAPB_MOE-AP05.webp"
       }
     ]
   },
@@ -363431,6 +367451,135 @@
     ]
   },
   {
+    "cardNumber": "UAPR/REZ-2-007",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラがレイドされた時、自分の場にあるキャラが全て〈レム〉の場合、カードを1枚引く。（レイドしたキャラの【登場時】とこの効果は望む順で処理する）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/REZ-2-007",
+    "uniqueId": "570901:UAPR/REZ-2-007",
+    "variants": [
+      {
+        "id": "UAPR/REZ-2-007",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-2-007.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_REZ-2-007.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/REZ-2-011",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【登場時】このターン中、次に手札から使用する必要エナジーが『1』以下のイベントカードの消費APを-1する。自分の場外にあるイベントカード2枚につき、この効果で消費APを-1するイベントカードの必要エナジーの範囲+1。〈エミリア〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/REZ-2-011",
+    "uniqueId": "570901:UAPR/REZ-2-011",
+    "variants": [
+      {
+        "id": "UAPR/REZ-2-011",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-2-011.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_REZ-2-011.webp"
+      },
+      {
+        "id": "UAPR/REZ-2-011_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-2-011_p1.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_REZ-2-011_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/REZ-2-055",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/REZ-2-055",
+    "uniqueId": "570901:UAPR/REZ-2-055",
+    "variants": [
+      {
+        "id": "UAPR/REZ-2-055",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-2-055.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_REZ-2-055.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/REZ-AP01",
     "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
     "furigana": "",
@@ -365340,6 +369489,111 @@
         "parallel": true,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SNF-1-058_p1.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_SNF-1-058_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/STG-1-024",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/STG-1-024",
+    "uniqueId": "570901:UAPR/STG-1-024",
+    "variants": [
+      {
+        "id": "UAPR/STG-1-024",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-1-024.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-1-024.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/STG-1-032",
+    "cardName": "エル・プサイ・コングルゥ",
+    "furigana": "える ぷさい こんぐるぅ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "シュタインズ・ゲート",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを2枚引く。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/STG-1-032",
+    "uniqueId": "570901:UAPR/STG-1-032",
+    "variants": [
+      {
+        "id": "UAPR/STG-1-032",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-1-032.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-1-032.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/STG-AP01",
+    "cardName": "アクションポイントカード(シュタインズ・ゲート)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "シュタインズ・ゲート",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/STG-AP01",
+    "uniqueId": "570901:UAPR/STG-AP01",
+    "variants": [
+      {
+        "id": "UAPR/STG-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-AP01.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-AP01.webp"
       }
     ]
   },
