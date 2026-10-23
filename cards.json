@@ -37638,6 +37638,20 @@
         "question": "「このカードが場外に置かれた時、このカードを場外からリムーブエリアに置いてもよい。そうした場合、このカードの【登場時】を発動する。」は場から退場し、場外に置かれた時やトリガーチェックをして場外に置かれた時でも発動しますか？",
         "answer": "はい、発動します。どの場所からでも場外に置かれた時に発動する効果です。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX11BT"
+      },
+      {
+        "id": "Q2430",
+        "updatedAt": "2026.10.23",
+        "question": "「このカードが場外に置かれた時」とはどういうことですか？",
+        "answer": "「場・手札・山札・ライフ・リムーブエリア・レイド元・場のカードの下の裏向きのカード」等いずれかの場所からこのカードが場外に置かれた時に発動する効果ということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX11BT"
+      },
+      {
+        "id": "Q2431",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場にあるこのカードが、元々の効果を失った状態で場外に置かれました。このカードの「このカードが場外に置かれた時」は発動しますか？",
+        "answer": "いいえ、発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX11BT"
       }
     ]
   },
@@ -51723,6 +51737,22 @@
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
         "imagePath": "CardsWebP/EX15BT/EX15BT_BLC-4-015_p1.webp"
       }
+    ],
+    "qa": [
+      {
+        "id": "Q2432",
+        "updatedAt": "2026.10.23",
+        "question": "「このカードが場外に置かれた時」とはどういうことですか？",
+        "answer": "「場・手札・山札・ライフ・リムーブエリア・レイド元・場のカードの下の裏向きのカード」等いずれかの場所からこのカードが場外に置かれた時に発動する効果ということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      },
+      {
+        "id": "Q2433",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場にあるこのカードが、元々の効果を失った状態で場外に置かれました。このカードの「このカードが場外に置かれた時」は発動しますか？",
+        "answer": "いいえ、発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX15BT"
+      }
     ]
   },
   {
@@ -58660,6 +58690,3639 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX16BT_MMM-2-AP06.png?v9",
         "imagePath": "CardsWebP/EX16BT/EX16BT_MMM-2-AP06.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-1-029",
+    "cardName": "E・M・T",
+    "furigana": "えみりあたんまじてんし",
+    "rarity": "U★",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-1-029_p1",
+    "uniqueId": "570217:EX17BT/REZ-1-029",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-1-029_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-1-029_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-001",
+    "cardName": "パック",
+    "furigana": "ぱっく",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは全ての場所でイベントカードとしても扱う。【起動メイン】【エナジーLにある場合】【レストにする】【このカードを退場させる】自分の場外から必要エナジーが0の黄の〈エミリア〉を1枚まで自分のエナジーLにレストで登場させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-001",
+    "uniqueId": "570217:EX17BT/REZ-2-001",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-001",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-001.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-001.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-002",
+    "cardName": "フレデリカ・バウマン",
+    "furigana": "ふれでりか ばうまん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】【エナジーLにある場合】このターン中に自分がイベントカードを使用している場合、このキャラをアクティブにする。【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-002",
+    "uniqueId": "570217:EX17BT/REZ-2-002",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-002",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-002.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-002.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-003",
+    "cardName": "ペトラ・レイテ",
+    "furigana": "ぺとら れいて",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分の場外から黄の〈ナツキ・スバル〉を1枚まで自分の手札に加える。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-003",
+    "uniqueId": "570217:EX17BT/REZ-2-003",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-003",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-003.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-003.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-004",
+    "cardName": "ラム",
+    "furigana": "らむ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "1500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】相手のフロントLに元々のBPよりBPが低いキャラがある場合、このキャラはBP+1500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-004",
+    "uniqueId": "570217:EX17BT/REZ-2-004",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-004",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-004.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-004.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2400",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-005",
+    "cardName": "ラム",
+    "furigana": "らむ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【自分のターン中】自分の場に〈レム〉か〈ロズワール・L・メイザース〉がある場合、このキャラはBP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-005",
+    "uniqueId": "570217:EX17BT/REZ-2-005",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-005",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-005.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-005.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-005_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-005_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-006",
+    "cardName": "ラム",
+    "furigana": "らむ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。【アタック時】相手のフロントLに元々のBPよりBPが低いキャラがある場合、以下から1つ選ぶ。・カードを1枚引く。・このキャラはこのターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-006",
+    "uniqueId": "570217:EX17BT/REZ-2-006",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-006",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-006.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-006.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-006_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-006_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-006_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-006_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2401",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-007",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラがレイドされた時、自分の場にあるキャラが全て〈レム〉の場合、カードを1枚引く。（レイドしたキャラの【登場時】とこの効果は望む順で処理する）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-007",
+    "uniqueId": "570217:EX17BT/REZ-2-007",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-007",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-007.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-007.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-008",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】『カードを1枚引き、自分の手札を1枚場外に置く』。相手のフロントLに元々のBPよりBPが低いキャラがある場合、『カードを1枚引く』に代えてもよい。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-008",
+    "uniqueId": "570217:EX17BT/REZ-2-008",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-008",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-008.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-008.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-008_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-008_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2402",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-009",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【黄×2】減らす。【登場時】自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-009",
+    "uniqueId": "570217:EX17BT/REZ-2-009",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-009",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-009.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-009.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-009_p1",
+        "label": "R★★ / P1",
+        "rarity": "R★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-009_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-010",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "黄黄",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場にあるキャラが全て〈レム〉の場合、自分の場の必要エナジーが3以下のキャラを1枚手札に戻してもよい。そうした場合、このターン中、次に手札から使用する【レイド】を持たない〈レム〉の消費APを-1する。〈レム〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-010",
+    "uniqueId": "570217:EX17BT/REZ-2-010",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-010",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-010.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-010.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-010_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-010_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2403",
+        "updatedAt": "2026.10.23",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-011",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "黄",
+        "count": 1
+      }
+    ],
+    "effectText": "【ステップ】（自分の移動フェイズにフロントLからエナジーLへ移動できる）【登場時】このターン中、次に手札から使用する必要エナジーが『1』以下のイベントカードの消費APを-1する。自分の場外にあるイベントカード2枚につき、この効果で消費APを-1するイベントカードの必要エナジーの範囲+1。〈エミリア〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-011",
+    "uniqueId": "570217:EX17BT/REZ-2-011",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-011",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-011.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-011.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-011_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-011_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-011_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-011_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2404",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場外にイベントカードが1枚ある状態で、このキャラクターを登場させました。その後にイベントカードを使用すること以外で、イベントカードが1枚場外に置かれ、場外にあるイベントカードが2枚になった場合、必要エナジーが2以下のイベントカードの消費APが-1されますか？",
+        "answer": "いいえ、されません。このキャラの【登場時】を処理した時点での自分の場外のイベントカードの枚数により、この効果で消費APを-1するイベントカードの必要エナジーが決まります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2405",
+        "updatedAt": "2026.10.23",
+        "question": "このカードの【登場時】を発動させた後、同じターンに2枚目のこのカードを登場させた場合、2枚目のこのカードは【登場時】が発動しますか？",
+        "answer": "いいえ、後から登場したこのカードの【登場時】は発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2406",
+        "updatedAt": "2026.10.23",
+        "question": "「このターン中、次に手札から使用する条件を満たすカードの消費APを-1する」の効果は、先に条件を満たさないカードを使用した場合なくなりますか？",
+        "answer": "いいえ、なくなりません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-012",
+    "cardName": "私の名前はエミリア。ただのエミリアよ",
+    "furigana": "わたしのなまえはえみりあ ただのえみりあよ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "黄"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈エミリア〉がある場合のみ使用できる。自分の場外にイベントカードが4枚以上ある場合、手札にあるこのカードの必要エナジーを【黄×1】減らす。カードを2枚引く。自分の手札から必要エナジーが3以下で消費APが1の黄の〈ナツキ・スバル〉を1枚まで自分の場にアクティブで登場させる。自分の場の〈ナツキ・スバル〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-012",
+    "uniqueId": "570217:EX17BT/REZ-2-012",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-012",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-012.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-012.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-013",
+    "cardName": "ヴィルヘルム・ヴァン・アストレア",
+    "furigana": "ゔぃるへるむ ゔぁん あすとれあ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【起動メイン】自分の場に〈クルシュ・カルステン〉がある場合のみ発動できる。相手のフロントLにBP4500以上のキャラがあるか、このキャラのBPが5000以上の場合、このキャラをアクティブにする。〈ヴィルヘルム・ヴァン・アストレア〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-013",
+    "uniqueId": "570217:EX17BT/REZ-2-013",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-013",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-013.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-013.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2407",
+        "updatedAt": "2026.10.23",
+        "question": "このカードが自分の場に2枚ある場合、このカードの【起動メイン】を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-014",
+    "cardName": "ナツキ・スバル",
+    "furigana": "なつき すばる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-014",
+    "uniqueId": "570217:EX17BT/REZ-2-014",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-014",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-014.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-014.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-015",
+    "cardName": "フェリス",
+    "furigana": "ふぇりす",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【アタック時】自分の場に〈クルシュ・カルステン〉があり、このキャラのBPが4000以上の場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-015",
+    "uniqueId": "570217:EX17BT/REZ-2-015",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-015",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-015.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-015.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-016",
+    "cardName": "フェリス",
+    "furigana": "ふぇりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】【エナジーLにある場合】自分の場に〈クルシュ・カルステン〉がある場合、このキャラをアクティブにする。【起動メイン】【レストにする】以下から1つ選ぶ。・自分か相手の場の他のキャラを1枚選び、このターン中、BP+1000。・自分の手札を1枚公開し、自分の山札の下に置く。そうした場合、自分か相手の場の他のキャラを1枚まで選び、このターン中、BP+2000。公開したカードがBP4000以上のキャラカードの場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-016",
+    "uniqueId": "570217:EX17BT/REZ-2-016",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-016",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-016.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-016.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-016_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-016_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-017",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、〈ナツキ・スバル〉か〈レム〉を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-017",
+    "uniqueId": "570217:EX17BT/REZ-2-017",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-017",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-017.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-017.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-018",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青青",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。このターン中に〈レム〉が既に選んだ効果は選べない。・自分の場外から必要エナジーが0の青の〈ナツキ・スバル〉を1枚まで自分の場にレストで登場させる。そのキャラにこのターン中、「メインフェイズ終了時、このキャラを退場させる。」を与える。・自分の場の必要エナジーが0の青の〈ナツキ・スバル〉を1枚まで選び、このターン中、「【ターン1】このキャラがアタックしてバトルに敗北した時、このキャラをアクティブにする。」を与える。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-018",
+    "uniqueId": "570217:EX17BT/REZ-2-018",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-018",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-018.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-018.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-018_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-018_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-018_p2",
+        "label": "SR★★★ / P2",
+        "rarity": "SR★★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-018_p2.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-019",
+    "cardName": "クルシュ・カルステン",
+    "furigana": "くるしゅ かるすてん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】このキャラのBPが5000以上の場合のみ発動できる。このキャラは次の自分のターン開始時まで、【2回ブロック】と【インパクト無効】を得る。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-019",
+    "uniqueId": "570217:EX17BT/REZ-2-019",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-019",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-019.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-019.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-020",
+    "cardName": "クルシュ・カルステン",
+    "furigana": "くるしゅ かるすてん",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードが自分の効果で自分の手札から公開されて山札の下に置かれた時、自分か相手の場のキャラを1枚まで選び、このターン中、BP+1000。このキャラはフロントLに〔登場・移動〕できない。このキャラがレイドされた時、カードを1枚引く。（レイドしたキャラの【登場時】とこの効果は望む順で処理する）",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-020",
+    "uniqueId": "570217:EX17BT/REZ-2-020",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-020",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-020.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-020.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-020_p1",
+        "label": "R★★ / P1",
+        "rarity": "R★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-020_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-021",
+    "cardName": "ナツキ・スバルの介添え人、レム",
+    "furigana": "なつき すばるのかいぞえにん れむ",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈ナツキ・スバル〉と〈レム〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分のフロントLにレイド状態の〈レム〉がある場合、自分の場の必要エナジーが0の〈ナツキ・スバル〉を1枚まで選び、このターン中、BP+1500。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-021",
+    "uniqueId": "570217:EX17BT/REZ-2-021",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-021",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-021.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-021.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-021_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-021_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-022",
+    "cardName": "ナツキ・スバル",
+    "furigana": "なつき すばる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、〈ナツキ・スバル〉か〈ベアトリス〉か〈禁書庫〉を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-022",
+    "uniqueId": "570217:EX17BT/REZ-2-022",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-022",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-022.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-022.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-023",
+    "cardName": "フォルトナ",
+    "furigana": "ふぉるとな",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】このキャラをアクティブにする。このキャラはこのターン中、「このキャラはアタックできない。」を得る。【退場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが0の紫の〈エミリア〉を1枚まで自分のエナジーLにレストで登場させる。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-023",
+    "uniqueId": "570217:EX17BT/REZ-2-023",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-023",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-023.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-023.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2408",
+        "updatedAt": "2026.10.23",
+        "question": "【退場時】で自分の手札から必要エナジーが0の紫の〈エミリア〉を場外に置いた場合、そのカードをエナジーLにレストで登場させることはできますか？",
+        "answer": "はい、できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-024",
+    "cardName": "ベアトリス",
+    "furigana": "べあとりす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【紫×2】減らす。【起動メイン】【APを1支払う】【ターン1】自分の手札を1枚自分の山札の上に置く。そうした場合、このキャラはこのターン中、BP+2000され、このターンのアタックフェイズ開始時、自分のAPカードを1枚アクティブにする。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-024",
+    "uniqueId": "570217:EX17BT/REZ-2-024",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-024",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-024.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-024.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-024_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-024_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-025",
+    "cardName": "ベアトリス",
+    "furigana": "べあとりす",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分はこのターン中、「自分の場の〈ナツキ・スバル〉を相手が効果で選ぶ際、相手は追加で自身の手札を1枚場外に置かないと選べない。」を得る。以下から1つ選ぶ。・自分の場に〈ナツキ・スバル〉がある場合、カードを1枚引く。・このターンのアタックフェイズ開始時、自分のAPカードを1枚アクティブにする。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-025",
+    "uniqueId": "570217:EX17BT/REZ-2-025",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-025",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-025.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-025.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-025_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-025_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-025_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-025_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2409",
+        "updatedAt": "2026.10.23",
+        "question": "「自分の場の〈ナツキ・スバル〉を相手が効果で選ぶ際、相手は追加で自身の手札を1枚場外に置かないと選べない。」とはどういう効果ですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で相手がこちらの場の〈ナツキ・スバル〉を選ぶ際、追加で自身の手札を1枚場外に置いて〈ナツキ・スバル〉を選ぶか、支払わずに別のキャラクターを選ぶ、もしくは（選択できるなら）0枚を選ぶ効果です。手札が1枚もない場合、相手はこちらの場の〈ナツキ・スバル〉を選ぶことはできません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-026",
+    "cardName": "リューズ・メイエル",
+    "furigana": "りゅーず めいえる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【このカードを退場させる】自分の場に〈エキドナ〉か〈ベアトリス〉がある場合のみ発動できる。自分の場外から【スペシャルトリガー】と【ファイナルトリガー】をどちらも持たず、必要エナジーが3以下の紫のイベントカードを1枚まで手札に加える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-026",
+    "uniqueId": "570217:EX17BT/REZ-2-026",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-026",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-026.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-026.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-027",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【ターン1】このターン中にこのキャラが自分の効果でアクティブからレストになったことがある場合のみ発動できる。このキャラをアクティブにする。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-027",
+    "uniqueId": "570217:EX17BT/REZ-2-027",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-027",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-027.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-027.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-028",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫+",
+        "count": 2
+      }
+    ],
+    "effectText": "【登場時】自分の場に［特徴：魔女］がある場合、カードを1枚引く。【起動メイン】【手札を1枚場外に置く】【ターン1】このキャラはこのターン中、発生エナジー+【紫】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-028",
+    "uniqueId": "570217:EX17BT/REZ-2-028",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-028",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-028.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-028.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-028_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-028_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-029",
+    "cardName": "エキドナ",
+    "furigana": "えきどな",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "魔女"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の山札の上から1枚見て、山札の上か下に置き、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-029",
+    "uniqueId": "570217:EX17BT/REZ-2-029",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-029",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-029.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-029.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-030",
+    "cardName": "エキドナ",
+    "furigana": "えきどな",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3000,
+    "features": [
+      "魔女"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の特徴を持つキャラを1枚まで選び、このターン中、「このキャラはアタックできない。」を与え、別のラインに移動させる。【起動メイン】【ターン1】このキャラが登場したターン中のみ発動できる。自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、以下から1つ選ぶ。・BP2000以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1500。・自分の場の他のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-030",
+    "uniqueId": "570217:EX17BT/REZ-2-030",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-030",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-030.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-030.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-030_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-030_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-030_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-030_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2410",
+        "updatedAt": "2026.10.23",
+        "question": "移動させる時にそのラインに空きがない場合どうなりますか？",
+        "answer": "移動させる時にそのラインに空きがない場合、カードを1枚選んでリムーブエリアに置いてから移動させます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-031",
+    "cardName": "魔晶石",
+    "furigana": "ましょうせき",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "カードを1枚引く。自分の場外から〈ベアトリス〉を1枚まで手札に加える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-031",
+    "uniqueId": "570217:EX17BT/REZ-2-031",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-031",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-031.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-031.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-032",
+    "cardName": "アル",
+    "furigana": "ある",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "3500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラの下に裏向きのカードがある場合、このキャラはBP+500と【インパクト無効】と「BP500以上のこのキャラが退場する場合、代わりにこのキャラの下の裏向きのカードを1枚場外に置く。」を得る。【登場時】自分の場に〈プリシラ・バーリエル〉がある場合、〔〈プリシラ・バーリエル〉と〈アル〉〕以外の自分の場の他のキャラを1枚退場させてもよい。そうした場合、退場させたカードを裏向きでこのキャラの下に置き、このキャラをアクティブにする。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-032",
+    "uniqueId": "570217:EX17BT/REZ-2-032",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-032",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-032.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-032.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2411",
+        "updatedAt": "2026.10.23",
+        "question": "この【登場時】でレイド状態のキャラを退場させた場合、レイド元のカードも裏向きでこのキャラの下に置きますか？",
+        "answer": "いいえ、置きません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2412",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
+        "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-033",
+    "cardName": "オットー・スーウェン",
+    "furigana": "おっとー すーうぇん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【緑】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-033",
+    "uniqueId": "570217:EX17BT/REZ-2-033",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-033",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-033.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-033.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-033_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-033_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-034",
+    "cardName": "ガーフィール・ティンゼル",
+    "furigana": "がーふぃーる てぃんぜる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このキャラがアタックしてバトルに勝利した時、自分の場に異なるカード名の緑のキャラが4種類以上ある場合、カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-034",
+    "uniqueId": "570217:EX17BT/REZ-2-034",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-034",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-034.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-034.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2413",
+        "updatedAt": "2026.10.23",
+        "question": "「アタックしてバトルに勝利した時」とはどういうことですか？",
+        "answer": "自分のキャラクターがアタックをして相手のキャラクターとバトルをし、アタックをした自分のキャラクターのBPが相手のキャラクターのBP以上だった時を指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-035",
+    "cardName": "ガーフィール・ティンゼル",
+    "furigana": "がーふぃーる てぃんぜる",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【緑×2】減らす。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-035",
+    "uniqueId": "570217:EX17BT/REZ-2-035",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-035",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-035.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-035.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-035_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-035_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-036",
+    "cardName": "キリタカ・ミューズ",
+    "furigana": "きりたか みゅーず",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【フロントLにある場合】【ターン1】自分の場の〈リリアナ・マスカレード〉を1枚選び、アクティブにする。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-036",
+    "uniqueId": "570217:EX17BT/REZ-2-036",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-036",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-036.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-036.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-037",
+    "cardName": "シュルト",
+    "furigana": "しゅると",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを『1枚』まで選び、このターン中、BP+500。自分の場に〈プリシラ・バーリエル〉がある場合、『2枚』に代えてもよい。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-037",
+    "uniqueId": "570217:EX17BT/REZ-2-037",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-037",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-037.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-037.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-038",
+    "cardName": "ナツキ・スバル",
+    "furigana": "なつき すばる",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 3500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札から必要エナジーが3以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。この効果で自分の場にあるカード名を持つカードは登場させられない。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-038",
+    "uniqueId": "570217:EX17BT/REZ-2-038",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-038",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-038.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-038.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-039",
+    "cardName": "ナツキ・スバル",
+    "furigana": "なつき すばる",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 2,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードの【カラートリガー】を発動する場合、効果に記載されている「必要エナジーが2以下」を「元々のBPが2500」に代えてもよい。【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）【登場時】自分の場外から〈ナツキ・スバル〉以外の元々のBPが2500の緑のキャラカードを1枚まで自分の場にレストで登場させ、そのキャラかこのキャラをアクティブにする。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-039",
+    "uniqueId": "570217:EX17BT/REZ-2-039",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-039",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-039.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-039.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-039_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-039_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2414",
+        "updatedAt": "2026.10.23",
+        "question": "このカードの▼カラートリガー▼を発動させる場合、「自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。」と「自分の手札から元々のBPが2500で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。」のどちらかを選べるということですか？",
+        "answer": "はい、そうです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2415",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-040",
+    "cardName": "ハインケル・アストレア",
+    "furigana": "はいんける あすとれあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 3500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】BP4500以上の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-040",
+    "uniqueId": "570217:EX17BT/REZ-2-040",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-040",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-040.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-040.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-041",
+    "cardName": "184番",
+    "furigana": "ひゃくはちじゅうよんばん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "このカードは〈シルフィ〉としても扱う。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-041",
+    "uniqueId": "570217:EX17BT/REZ-2-041",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-041",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-041.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-041.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2416",
+        "updatedAt": "2026.10.23",
+        "question": "このキャラクターは、「異なるカード名の緑のキャラ」2種類として数えますか？",
+        "answer": "いいえ、数えません。カード名の種類ではなく、「キャラ」の種類を数えているため、1種類として数えます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2417",
+        "updatedAt": "2026.10.23",
+        "question": "このキャラクターが自分の場に2枚ある場合、「異なるカード名の緑のキャラ」2種類として数えますか？",
+        "answer": "いいえ、異なるカード名の「キャラ」の種類を数えるため、1枚分として扱います。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-042",
+    "cardName": "ベアトリス",
+    "furigana": "べあとりす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【緑×2】減らす。【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-042",
+    "uniqueId": "570217:EX17BT/REZ-2-042",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-042",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-042.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-042.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-043",
+    "cardName": "ミミ・パールバトン",
+    "furigana": "みみ ぱーるばとん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に〈アナスタシア・ホーシン〉か異なるカード名の緑のキャラが4種類以上ある場合、このキャラはBP+1500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-043",
+    "uniqueId": "570217:EX17BT/REZ-2-043",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-043",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-043.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-043.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-043_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-043_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-044",
+    "cardName": "ユリウス・ユークリウス",
+    "furigana": "ゆりうす ゆーくりうす",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3500+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】自分の場に〈アナスタシア・ホーシン〉か異なるカード名の緑のキャラが4種類以上ある場合のみ発動できる。このキャラはこのターン中、以下から1つを得る。・【アタック時】カードを1枚引く。・BP+500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-044",
+    "uniqueId": "570217:EX17BT/REZ-2-044",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-044",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-044.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-044.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-044_p1",
+        "label": "R★ / P1",
+        "rarity": "R★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-044_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-045",
+    "cardName": "ヨシュア・ユークリウス",
+    "furigana": "よしゅあ ゆーくりうす",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【退場時】自分の場に〈アナスタシア・ホーシン〉か異なるカード名の他の緑のキャラが4種類以上ある場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-045",
+    "uniqueId": "570217:EX17BT/REZ-2-045",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-045",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-045.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-045.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-046",
+    "cardName": "ラインハルト・ヴァン・アストレア",
+    "furigana": "らいんはると ゔぁん あすとれあ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-046",
+    "uniqueId": "570217:EX17BT/REZ-2-046",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-046",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-046.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-046.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-047",
+    "cardName": "ラインハルト・ヴァン・アストレア",
+    "furigana": "らいんはると ゔぁん あすとれあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 8,
+    "ap": 1,
+    "bp": 5000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）【起動メイン】【フロントLにある場合】【ターン1】カードを1枚引く。【起動メイン】【フロントLにある場合】自分の手札の緑のカードを1枚場外に置き、そのカードの【トリガー】を発動してもよい。〈ラインハルト・ヴァン・アストレア〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-047",
+    "uniqueId": "570217:EX17BT/REZ-2-047",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-047",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-047.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-047.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-047_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-047_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2418",
+        "updatedAt": "2026.10.23",
+        "question": "このカードが2枚ある場合、このカードの「【起動メイン】＃フロントLにある場合＃自分の手札の緑のカードを1枚場外に置き、そのカードの▼トリガー▼を発動してもよい。」を同じターンにそれぞれ1回ずつ発動できますか？",
+        "answer": "いいえ、どちらか片方しか発動できません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-048",
+    "cardName": "リアラ・トンプソン",
+    "furigana": "りあら とんぷそん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-048",
+    "uniqueId": "570217:EX17BT/REZ-2-048",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-048",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-048.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-048.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-049",
+    "cardName": "リカード・ウェルキン",
+    "furigana": "りかーど うぇるきん",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【自分のターン中】自分の場に〈アナスタシア・ホーシン〉か異なるカード名の緑のキャラが4種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-049",
+    "uniqueId": "570217:EX17BT/REZ-2-049",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-049",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-049.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-049.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-050",
+    "cardName": "リリアナ・マスカレード",
+    "furigana": "りりあな ますかれーど",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-050",
+    "uniqueId": "570217:EX17BT/REZ-2-050",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-050",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-050.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-050.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-051",
+    "cardName": "リリアナ・マスカレード",
+    "furigana": "りりあな ますかれーど",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "自分の場に異なるカード名の緑のキャラが4種類以上ある場合、このキャラの発生エナジー+【緑】。【起動メイン】【エナジーLにある場合】【ターン1】自分の場に異なるカード名の緑のキャラが6種類以上ある場合のみ発動できる。このキャラをアクティブにする。【起動メイン】【レストにする】自分の場の他のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-051",
+    "uniqueId": "570217:EX17BT/REZ-2-051",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-051",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-051.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-051.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-052",
+    "cardName": "ルスベル＆ティーナ",
+    "furigana": "るすべるあんどてぃーな",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑+",
+        "count": 2
+      }
+    ],
+    "effectText": "【起動メイン】【レストにする】【ターン1】このキャラはこのターン中、発生エナジー+【緑】と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-052",
+    "uniqueId": "570217:EX17BT/REZ-2-052",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-052",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-052.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-052.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-053",
+    "cardName": "レム",
+    "furigana": "れむ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "このカードはフロントLに〔登場・移動〕できない。【起動メイン】【ターン1】このターン中に自分の場に〈ナツキ・スバル〉が登場していた場合のみ発動できる。自分の手札を1枚場外に置く。そうした場合、カードを1枚引く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-053",
+    "uniqueId": "570217:EX17BT/REZ-2-053",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-053",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-053.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-053.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-054",
+    "cardName": "アナスタシア・ホーシン",
+    "furigana": "あなすたしあ ほーしん",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】以下から1つ選ぶ。・自分の場の異なるカード名の緑のキャラの種類数分、自分の山札の上からカードを見て、必要エナジーが5以下のキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。・自分の場の他のキャラを2枚まで選び、このターン中、BP+500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-054",
+    "uniqueId": "570217:EX17BT/REZ-2-054",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-054",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-054.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-054.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-054_p1",
+        "label": "R★★ / P1",
+        "rarity": "R★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-054_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-055",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-055",
+    "uniqueId": "570217:EX17BT/REZ-2-055",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-055",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-055.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-055.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-056",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-056",
+    "uniqueId": "570217:EX17BT/REZ-2-056",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-056",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-056.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-056.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-057",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "R",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から3枚見て、〈エミリア〉か〈水門都市 プリステラ〉か元々のBPが2500のキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-057",
+    "uniqueId": "570217:EX17BT/REZ-2-057",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-057",
+        "label": "R",
+        "rarity": "R",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-057.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-057.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2419",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-058",
+    "cardName": "エミリア",
+    "furigana": "えみりあ",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 6,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈エミリア〉アクティブにし、フロントLに移動できるこのキャラのアタック終了時、元々のBPが2500の自分のフロントLのアクティブのキャラを1枚レストにしてもよい。そうした場合、このキャラをアクティブにする。【登場時】このキャラはこのターン中、【2回アタック】と「このキャラは相手の効果で選ばれない。」を得る。【アタック時】【ターン1】このキャラはこのターン中、BP+1000。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-058",
+    "uniqueId": "570217:EX17BT/REZ-2-058",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-058",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-058.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-058.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-058_p1",
+        "label": "SR★ / P1",
+        "rarity": "SR★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-058_p1.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-058_p2",
+        "label": "SR★★ / P2",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-058_p2.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2420",
+        "updatedAt": "2026.10.23",
+        "question": "「このキャラのアタック終了時」が条件の効果が発動するタイミングはいつですか？",
+        "answer": "バトルを行った場合はバトル終了後、プレイヤーにダメージを与えた場合はトリガーチェック終了後になります。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2421",
+        "updatedAt": "2026.10.23",
+        "question": "「このキャラのアタック終了時、元々のBPが2500の自分のフロントLのアクティブのキャラを1枚レストにしてもよい。そうした場合、このキャラをアクティブにする。」は1ターンに複数回発動できますか？",
+        "answer": "はい、発動できます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2422",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      },
+      {
+        "id": "Q2423",
+        "updatedAt": "2026.10.23",
+        "question": "「このキャラは相手の効果で選ばれない。」の「効果で選ばれない。」とはどういうことですか？",
+        "answer": "「相手のフロントLのキャラクターを1枚選び、退場させる。」のような、「選び」と書かれている効果で選ぶことができないということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-059",
+    "cardName": "クルシュ・カルステン",
+    "furigana": "くるしゅ かるすてん",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1000,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から2枚見て、1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-059",
+    "uniqueId": "570217:EX17BT/REZ-2-059",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-059",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-059.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-059.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-060",
+    "cardName": "フェルト",
+    "furigana": "ふぇると",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": "2500-",
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【相手のターン中】このキャラはBP-1500。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-060",
+    "uniqueId": "570217:EX17BT/REZ-2-060",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-060",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-060.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-060.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-061",
+    "cardName": "フェルト",
+    "furigana": "ふぇると",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】自分の場の元々のBPが2500のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-061",
+    "uniqueId": "570217:EX17BT/REZ-2-061",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-061",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-061.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-061.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2424",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-062",
+    "cardName": "フェルト",
+    "furigana": "ふぇると",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": "2500+",
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【レイド】〈フェルト〉アクティブにし、フロントLに移動できる【登場時】カードを1枚引くか、自分の場の他のキャラを1枚まで選び、アクティブにする。【起動メイン】【フロントLにある場合】【ターン1】以下から1つ選ぶ。・このキャラは次の自分のターン開始時まで、BP+1000と「このキャラはBP4000以上のキャラにブロックされない。」を得る。・自分の場の他のキャラを1枚選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-062",
+    "uniqueId": "570217:EX17BT/REZ-2-062",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-062",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-062.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-062.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-062_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-062_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-063",
+    "cardName": "プリシラ・バーリエル",
+    "furigana": "ぷりしら ばーりえる",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "-",
+    "trigger": "【ゲット】このカードを手札に加える。",
+    "triggerType": "ゲット",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-063",
+    "uniqueId": "570217:EX17BT/REZ-2-063",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-063",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-063.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-063.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-064",
+    "cardName": "プリシラ・バーリエル",
+    "furigana": "ぷりしら ばーりえる",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 1,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の山札の上から『2枚』見て、1枚まで場外に置く。残りを望む順で山札の上に置く。自分の場に異なるカード名の緑のキャラが4種類以上ある場合、『4枚』に代わる。",
+    "trigger": "【カラー】自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-064",
+    "uniqueId": "570217:EX17BT/REZ-2-064",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-064",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-064.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-064.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-065",
+    "cardName": "プリシラ・バーリエル",
+    "furigana": "ぷりしら ばーりえる",
+    "rarity": "SR",
+    "cardType": "キャラクター",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 5,
+    "ap": 1,
+    "bp": "4000+",
+    "features": [
+      "王選候補者"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈プリシラ・バーリエル〉アクティブにし、フロントLに移動できる【自分のターン中】このキャラはBP+1000。【起動メイン】【ターン1】元々のBPよりBPが高い自分の場のキャラの枚数により、このキャラはこのターン中、以下の効果を全て得る。・3枚以上：【ダメージ（2）】・5枚以上：【インパクト（1）】【アタック時】カードを1枚引く。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-065",
+    "uniqueId": "570217:EX17BT/REZ-2-065",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-065",
+        "label": "SR",
+        "rarity": "SR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-065.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-065.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-065_p1",
+        "label": "SR★★ / P1",
+        "rarity": "SR★★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-065_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2425",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-066",
+    "cardName": "水門都市 プリステラ",
+    "furigana": "すいもんとし ぷりすてら",
+    "rarity": "C",
+    "cardType": "フィールド",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑緑",
+        "count": 3
+      }
+    ],
+    "effectText": "【登場時】カードを1枚引く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-066",
+    "uniqueId": "570217:EX17BT/REZ-2-066",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-066",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-066.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-066.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-067",
+    "cardName": "「Ｉ Trust You」",
+    "furigana": "あい とらすと ゆー",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-067",
+    "uniqueId": "570217:EX17BT/REZ-2-067",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-067",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-067.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-067.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-067_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-067_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-068",
+    "cardName": "うりゃ！うりゃ！うりゃぁ！",
+    "furigana": "うりゃ うりゃ うりゃぁ",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場の〈エミリア〉を1枚選び、このターン中、【2回アタック】（このキャラがこのターン初めてアタックした時、アクティブにする）を与える。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-068",
+    "uniqueId": "570217:EX17BT/REZ-2-068",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-068",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-068.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-068.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-069",
+    "cardName": "俺の名前はナツキ・スバル――",
+    "furigana": "おれのなまえはなつき すばる",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "以下から1つ選ぶ。・自分の場外から元々のBPが2500で消費APが2の緑のキャラカードを1枚まで自分の場にレストで登場させる。・自分の場外から元々のBPが2500で消費APが1の緑のキャラカードを2枚まで自分の場にレストで登場させる。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-069",
+    "uniqueId": "570217:EX17BT/REZ-2-069",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-069",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-069.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-069.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2426",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-070",
+    "cardName": "ゴージャス・タイガー",
+    "furigana": "ごーじゃす たいがー",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分の場の〈ガーフィール・ティンゼル〉を1枚選び、このターン中、BP+3000と【狙い撃ち】（相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-070",
+    "uniqueId": "570217:EX17BT/REZ-2-070",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-070",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-070.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-070.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-071",
+    "cardName": "閃きました!!",
+    "furigana": "ひらめきました",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "【ファイナル】自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "triggerType": "ファイナル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-071",
+    "uniqueId": "570217:EX17BT/REZ-2-071",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-071",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-071.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-071.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-071_p1",
+        "label": "U★ / P1",
+        "rarity": "U★",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-071_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-072",
+    "cardName": "『陽剣』",
+    "furigana": "ようけん",
+    "rarity": "U",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "このカードは自分の場に〈プリシラ・バーリエル〉がある場合のみ使用できる。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。元々のBPよりBPが高いキャラが自分の場に4枚以上ある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-072",
+    "uniqueId": "570217:EX17BT/REZ-2-072",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-072",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-072.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-072.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2427",
+        "updatedAt": "2026.10.23",
+        "question": "「元々のBP」とは何ですか？",
+        "answer": "キャラクターカード左下に記載されているBPを指します。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=EX17BT"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-073",
+    "cardName": "『龍剣』レイド",
+    "furigana": "りゅうけん れいど",
+    "rarity": "C",
+    "cardType": "イベント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 6,
+    "ap": 1,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "相手のフロントLのキャラを1枚選び、退場させる。このカードが自分の場の緑の〈ラインハルト・ヴァン・アストレア〉の効果で自分の手札から場外に置かれた時、自分の場の〈ラインハルト・ヴァン・アストレア〉を1枚まで選び、アクティブにする。",
+    "trigger": "【スペシャル】相手のフロントLのキャラを1枚選び、退場させる。",
+    "triggerType": "スペシャル",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-073",
+    "uniqueId": "570217:EX17BT/REZ-2-073",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-073",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-073.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-073.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP01",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP01",
+    "uniqueId": "570217:EX17BT/REZ-2-AP01",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP01",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP01.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP01.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-AP01_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP01_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP02",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP02",
+    "uniqueId": "570217:EX17BT/REZ-2-AP02",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP02.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP02.webp"
+      },
+      {
+        "id": "EX17BT/REZ-2-AP02_p1",
+        "label": "パラレル / P1",
+        "rarity": "",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/comingsoon.png?v",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP02_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP03",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP03",
+    "uniqueId": "570217:EX17BT/REZ-2-AP03",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP03",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP03.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP03.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP04",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP04",
+    "uniqueId": "570217:EX17BT/REZ-2-AP04",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP04",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP04.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP04.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP05",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP05",
+    "uniqueId": "570217:EX17BT/REZ-2-AP05",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP05",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP05.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP05.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP06",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP06",
+    "uniqueId": "570217:EX17BT/REZ-2-AP06",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP06",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP06.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP06.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP07",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP07",
+    "uniqueId": "570217:EX17BT/REZ-2-AP07",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP07",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP07.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP07.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "EX17BT/REZ-2-AP08",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "Re:ゼロから始める異世界生活 Vol.2【EX17BT】",
+    "productCode": "EX17BT",
+    "seriesCode": "570217",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX17BT/REZ-2-AP08",
+    "uniqueId": "570217:EX17BT/REZ-2-AP08",
+    "variants": [
+      {
+        "id": "EX17BT/REZ-2-AP08",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX17BT_REZ-2-AP08.png?v9",
+        "imagePath": "CardsWebP/EX17BT/EX17BT_REZ-2-AP08.webp"
       }
     ]
   },
@@ -323177,6 +326840,20 @@
         "question": "自分の場のカードの下に置かれた「裏向きのカード」は、何が置かれているか確認できますか？",
         "answer": "はい、できます。自分の場のカードの下に置かれた「裏向きのカード」は確認できます。相手の場のカードの下に置かれた「裏向きのカード」は確認できません。",
         "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA52BT"
+      },
+      {
+        "id": "Q2434",
+        "updatedAt": "2026.10.23",
+        "question": "「このカードが場外に置かれた時」とはどういうことですか？",
+        "answer": "「場・手札・山札・ライフ・リムーブエリア・レイド元・場のカードの下の裏向きのカード」等いずれかの場所からこのカードが場外に置かれた時に発動する効果ということです。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA52BT"
+      },
+      {
+        "id": "Q2435",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場にあるこのカードが、元々の効果を失った状態で場外に置かれました。このカードの「このカードが場外に置かれた時」は発動しますか？",
+        "answer": "いいえ、発動しません。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA52BT"
       }
     ]
   },
@@ -345532,6 +349209,22 @@
         "parallel": true,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA57BT_STG-1-004_p1.png?v9",
         "imagePath": "CardsWebP/UA57BT/UA57BT_STG-1-004_p1.webp"
+      }
+    ],
+    "qa": [
+      {
+        "id": "Q2428",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場外に「必要エナジーが3以下の青のイベントカードのトリガー」が3種類ある状態で、このキャラクターを登場させ、【登場時】でカードを1枚引き、手札を1枚場外に置きました。これにより「必要エナジーが3以下の青のイベントカードのトリガー」が4種類になった場合、カードを1枚引けますか？",
+        "answer": "はい、引けます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
+      },
+      {
+        "id": "Q2429",
+        "updatedAt": "2026.10.23",
+        "question": "自分の場外に「必要エナジーが3以下の青のイベントカードのトリガー」が4種類ある状態で、このキャラクターを登場させました。【登場時】でカードを1枚引けますか？",
+        "answer": "はい、引けます。",
+        "sourceUrl": "https://www.unionarena-tcg.com/jp/faq/list.php?series=UA57BT"
       }
     ]
   },
