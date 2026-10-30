@@ -359943,6 +359943,137 @@
     ]
   },
   {
+    "cardNumber": "UAPR/DGM-1-009",
+    "cardName": "アレン・ウォーカー",
+    "furigana": "あれん うぉーかー",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "D.Gray-man",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [
+      "黒の教団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈アレン・ウォーカー〉アクティブにし、フロントLに移動できる【フロントLにある場合】〈アレン・ウォーカー〉以外の元々のBPが3500以下の自分のフロントLのキャラは、相手の〔キャラ・イベントカード〕の効果で選ばれない。【登場時】自分の場に［特徴：黒の教団］のカード名が4種類以上ある場合、BP3500以下の相手のフロントLのキャラを1枚選び、相手の山札の下に置いてもよい。そうした場合、相手はカードを1枚引いてもよい。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/DGM-1-009",
+    "uniqueId": "570901:UAPR/DGM-1-009",
+    "variants": [
+      {
+        "id": "UAPR/DGM-1-009",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DGM-1-009.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_DGM-1-009.webp"
+      },
+      {
+        "id": "UAPR/DGM-1-009_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DGM-1-009_p1.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_DGM-1-009_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/DGM-1-010",
+    "cardName": "神田 ユウ",
+    "furigana": "かんだ ゆう",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "D.Gray-man",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 0,
+    "ap": 1,
+    "bp": 1500,
+    "features": [
+      "黒の教団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の手札を1枚場外に置いてもよい。そうした場合、自分の山札の上から1枚見て、山札の上か下に置く。カードを1枚引く。",
+    "trigger": "【カラー】BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+    "triggerType": "カラー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/DGM-1-010",
+    "uniqueId": "570901:UAPR/DGM-1-010",
+    "variants": [
+      {
+        "id": "UAPR/DGM-1-010",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DGM-1-010.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_DGM-1-010.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/DGM-1-045",
+    "cardName": "アレン・ウォーカー",
+    "furigana": "あれん うぉーかー",
+    "rarity": "U",
+    "cardType": "キャラクター",
+    "title": "D.Gray-man",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2500,
+    "features": [
+      "黒の教団"
+    ],
+    "generatedEnergy": [
+      {
+        "color": "紫+",
+        "count": 2
+      }
+    ],
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+【紫】。",
+    "trigger": "-",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/DGM-1-045",
+    "uniqueId": "570901:UAPR/DGM-1-045",
+    "variants": [
+      {
+        "id": "UAPR/DGM-1-045",
+        "label": "U",
+        "rarity": "U",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DGM-1-045.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_DGM-1-045.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/DST-1-002",
     "cardName": "石神 千空",
     "furigana": "いしがみ せんくう",
@@ -368475,6 +368606,131 @@
     ]
   },
   {
+    "cardNumber": "UAPR/MGS-2-015",
+    "cardName": "忍野 忍",
+    "furigana": "おしの しのぶ",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "〈物語〉シリーズ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "紫"
+    ],
+    "needEnergy": 3,
+    "ap": 1,
+    "bp": 2500,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "紫紫",
+        "count": 3
+      }
+    ],
+    "effectText": "【起動メイン】【ターン1】自分のフロントLに〔〈キスショット・アセロラオリオン・ハートアンダーブレード〉か〈忍野 忍〉か〈阿良々木 暦〉〕以外のキャラがなく、このキャラが登場したターン中のみ発動できる。以下から『1つ』まで選ぶ。自分の手札を1枚場外に置いてもよい。そうした場合、『2つ』に代わる。・自分の場外から〈阿良々木 暦〉を1枚手札に加え、自分の手札を2枚場外に置く。・自分の場の〈阿良々木 暦〉を1枚選び、このターン中、「このキャラはBP3000以下のキャラにブロックされない。」を与える。・BP1500以上の相手のフロントLのキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MGS-2-015",
+    "uniqueId": "570901:UAPR/MGS-2-015",
+    "variants": [
+      {
+        "id": "UAPR/MGS-2-015",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-2-015.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MGS-2-015.webp"
+      },
+      {
+        "id": "UAPR/MGS-2-015_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-2-015_p1.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MGS-2-015_p1.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MGS-2-043",
+    "cardName": "斧乃木 余接",
+    "furigana": "おののき よつぎ",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "〈物語〉シリーズ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "緑"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": "2000+",
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "緑",
+        "count": 1
+      }
+    ],
+    "effectText": "【登場時】自分の場の必要エナジーが3以下のキャラを3枚まで選び、このターン中、BP+500。自分のフロントLに必要エナジーが1のキャラと3のキャラがある場合、さらに自分の場の必要エナジーが3以下のキャラを1枚まで選び、このターン中、【インパクト（1）】（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。",
+    "trigger": "【ドロー】カードを1枚引く。",
+    "triggerType": "ドロー",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MGS-2-043",
+    "uniqueId": "570901:UAPR/MGS-2-043",
+    "variants": [
+      {
+        "id": "UAPR/MGS-2-043",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-2-043.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MGS-2-043.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/MGS-2-069",
+    "cardName": "八九寺 真宵",
+    "furigana": "はちくじ まよい",
+    "rarity": "C",
+    "cardType": "キャラクター",
+    "title": "〈物語〉シリーズ",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "赤"
+    ],
+    "needEnergy": 2,
+    "ap": 1,
+    "bp": 2000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "赤",
+        "count": 1
+      }
+    ],
+    "effectText": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを【赤×2】減らす。【登場時】自分の山札の上から1枚見て、山札の上かリムーブエリアに置く。",
+    "trigger": "【アクティブ】自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "triggerType": "アクティブ",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/MGS-2-069",
+    "uniqueId": "570901:UAPR/MGS-2-069",
+    "variants": [
+      {
+        "id": "UAPR/MGS-2-069",
+        "label": "C",
+        "rarity": "C",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-2-069.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_MGS-2-069.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/MGS-P-001",
     "cardName": "〈物語〉シリーズ",
     "furigana": "ものがたりしりーず",
@@ -373221,6 +373477,53 @@
         "parallel": false,
         "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-1-024.png?v9",
         "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-1-024.webp"
+      }
+    ]
+  },
+  {
+    "cardNumber": "UAPR/STG-1-029",
+    "cardName": "牧瀬 紅莉栖",
+    "furigana": "まきせ くりす",
+    "rarity": "UR",
+    "cardType": "キャラクター",
+    "title": "シュタインズ・ゲート",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [
+      "青"
+    ],
+    "needEnergy": 4,
+    "ap": 1,
+    "bp": 4000,
+    "features": [],
+    "generatedEnergy": [
+      {
+        "color": "青",
+        "count": 1
+      }
+    ],
+    "effectText": "【レイド】〈牧瀬 紅莉栖〉アクティブにし、フロントLに移動できる【登場時】自分の場外の必要エナジーが3以下の青のイベントカードの【トリガー】の種類数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させる。自分の場外に必要エナジーが3以下の青のイベントカードの【トリガー】が5種類以上ある場合、このキャラはこのターン中、【インパクト（1）】を得る。",
+    "trigger": "【レイド】このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "triggerType": "レイド",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/STG-1-029",
+    "uniqueId": "570901:UAPR/STG-1-029",
+    "variants": [
+      {
+        "id": "UAPR/STG-1-029",
+        "label": "UR",
+        "rarity": "UR",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-1-029.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-1-029.webp"
+      },
+      {
+        "id": "UAPR/STG-1-029_p1",
+        "label": "UR / P1",
+        "rarity": "UR",
+        "parallel": true,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_STG-1-029_p1.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_STG-1-029_p1.webp"
       }
     ]
   },
