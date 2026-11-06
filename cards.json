@@ -371561,6 +371561,38 @@
     ]
   },
   {
+    "cardNumber": "UAPR/REZ-AP02",
+    "cardName": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "furigana": "",
+    "rarity": "",
+    "cardType": "アクションポイント",
+    "title": "Re:ゼロから始める異世界生活",
+    "product": "プロモーションカード",
+    "productCode": "プロモーションカード",
+    "seriesCode": "570901",
+    "color": [],
+    "needEnergy": null,
+    "ap": null,
+    "bp": null,
+    "features": [],
+    "generatedEnergy": [],
+    "effectText": "",
+    "trigger": "",
+    "triggerType": "",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR/REZ-AP02",
+    "uniqueId": "570901:UAPR/REZ-AP02",
+    "variants": [
+      {
+        "id": "UAPR/REZ-AP02",
+        "label": "通常",
+        "rarity": "",
+        "parallel": false,
+        "imageUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-AP02.png?v9",
+        "imagePath": "CardsWebP/プロモーションカード/UAPR_REZ-AP02.webp"
+      }
+    ]
+  },
+  {
     "cardNumber": "UAPR/REZ-P-001",
     "cardName": "Re:ゼロから始める異世界生活",
     "furigana": "り ぜろからはじめるいせかいせいかつ",
